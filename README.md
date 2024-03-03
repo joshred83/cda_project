@@ -38,3 +38,4 @@ data sources
 *A note on doing this on a national scale, counties are not demographically homogenous. I think it's usually preferred to work at the tract/block levels because the borders are more thoughtfully designed.  There are about 84,000 tracts and between 200k and 250k block groups.*
 
 
+Josh - I've shared several ideas that I believe hold a lot of potential. My only request is that we aim to use datasets not commonly used for demonstrations or tutorials.  
