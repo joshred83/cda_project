@@ -37,4 +37,15 @@ data sources
 
 *A note on doing this on a national scale, counties are not demographically homogenous. I think it's usually preferred to work at the tract/block levels because the borders are more thoughtfully designed.  There are about 84,000 tracts and between 200k and 250k block groups.*
 
+*****Soneeka- I like both the ideas shared above. To add more to the pot of ideas-
+
+Idea #1- Starting with the idea we were discussing when we met about Real Estate-
+Property Prices in US in past years- Factors affecting, Predicted growth or drop in prices based on economic and social factors at play in a particular demographic area
+Multiple Data source -for property prices- MBA, census for population, average income etc economic data from FRED(federal Reserve, US treasury and FHFA
+Looking at historic real estate values for past few years form residential properties sold, rate of interest, Rate of inflation, Population growth, Annual Income Growth, new construction etc for past 3-4 years as training data and predicting the coming years projection for may be Single Family- Medium priced property in the selected area.
+We can do Linear Regression
+If we make it finding the factors affecting or influencing then we could do Regression Tree
+We can apply Gradient Boosting to the model to do some variable selection and re do the models with selected variables
+
+Idea #2- Stock price prediction- selecting a stock or S&P etc and study its movement and try to predict the future movement based on historic trend, economic data, seasonality and industry credentials.Methodology similar to  RE analysis. We can get data from Yahoo finance and economic data and look for industry specific data.
 
