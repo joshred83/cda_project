@@ -57,4 +57,12 @@ Nathan
 - real estate - interesting ideas and a list of models to apply to answer questions is good i think
 - stock price prediction - this would require some exponential smoothing models and possibly some time series - not sure how much i know about those topics yet. also a thought - at what extent of prediction? a day? week? month? longer (year(s))? shorter (hours, minutes, etc.)?
 - also shared on teams today about the NCAA tournament thing on kaggle
-- thoughts on which one to proceed? i agree that we don't use data commonly used in demos/tutorials. 
+- thoughts on which one to proceed? i agree that we don't use data commonly used in demos/tutorials.
+
+
+Final Ideas - Data and Research Questions
+- Grocery Store - data = ; research question =
+- Data Scientist salary - data = ; research question =
+- Real Estate - data = ; research question =
+- BISG - data = ; research question = 
+- NCAA - data = previous years winners and losers, rank of teams in tournaments - probabilities of different seeded teams beating others, season data - scoring, etc.; research question = can we leverage a combination of ML methods to predict the winner of the March Madness tournament?
