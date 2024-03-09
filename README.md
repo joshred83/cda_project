@@ -50,3 +50,19 @@ We can apply Gradient Boosting to the model to do some variable selection and re
 Idea #2- Stock price prediction- selecting a stock or S&P etc and study its movement and try to predict the future movement based on historic trend, economic data, seasonality and industry credentials.Methodology similar to  RE analysis. We can get data from Yahoo finance and economic data and look for industry specific data.
 
 Josh - I've shared several ideas that I believe hold a lot of potential. My only request is that we aim to use datasets not commonly used for demonstrations or tutorials.  
+
+
+Nathan
+- so we've got the hospital thing and answering several questions about what we find in the data - connecting/merging that with other datasets. In regards to the note about counties not being demographically homogenous - I think that's ok - we can mention it as a concern but having 84,000 to 200k to 250k data points might be too much data?
+- real estate - interesting ideas and a list of models to apply to answer questions is good i think
+- stock price prediction - this would require some exponential smoothing models and possibly some time series - not sure how much i know about those topics yet. also a thought - at what extent of prediction? a day? week? month? longer (year(s))? shorter (hours, minutes, etc.)?
+- also shared on teams today about the NCAA tournament thing on kaggle
+- thoughts on which one to proceed? i agree that we don't use data commonly used in demos/tutorials.
+
+
+Final Ideas - Data and Research Questions
+- Grocery Store - data = ; research question =
+- Data Scientist salary - data = ; research questions = what variables can we leverage to classify DS salaries? what models can we deploy to do so? 
+- Real Estate - data = ; research question =
+- BISG - data = ; research question = 
+- NCAA - data = previous years winners and losers, rank of teams in tournaments - probabilities of different seeded teams beating others, season data - scoring, etc. regular season and tournament data can be found at https://www.sports-reference.com/cbb/seasons/men/2023.html - note just change the url for getting access to every year - there is data on players and teams too - a lot; research question = can we leverage a combination of ML methods to predict the winner of the March Madness tournament?
