@@ -62,7 +62,7 @@ Nathan
 
 Final Ideas - Data and Research Questions
 - Grocery Store - data = ; research question =
-- Data Scientist salary - data = ; research question =
+- Data Scientist salary - data = ; research questions = what variables can we leverage to classify DS salaries? what models can we deploy to do so? 
 - Real Estate - data = ; research question =
 - BISG - data = ; research question = 
-- NCAA - data = previous years winners and losers, rank of teams in tournaments - probabilities of different seeded teams beating others, season data - scoring, etc.; research question = can we leverage a combination of ML methods to predict the winner of the March Madness tournament?
+- NCAA - data = previous years winners and losers, rank of teams in tournaments - probabilities of different seeded teams beating others, season data - scoring, etc. regular season and tournament data can be found at https://www.sports-reference.com/cbb/seasons/men/2023.html - note just change the url for getting access to every year - there is data on players and teams too - a lot; research question = can we leverage a combination of ML methods to predict the winner of the March Madness tournament?
