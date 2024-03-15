@@ -1,0 +1,42 @@
+﻿May 2022 OEWS Research Estimates ,
+,
+Occupational Employment and Wage Statistics (OEWS) Survey,
+"Bureau of Labor Statistics, Department of Labor",
+website:  https://www.bls.gov/oes,
+email: oewsinfo@bls.gov,
+,
+,
+Field,Field Description
+area,State FIPS code
+area_title,Area name 
+naics,North American Industry Classification System (NAICS) code for the given industry 
+naics_title,North American Industry Classification System (NAICS) title for the given industry 
+i_group,"Contains the industry level: sector, 3-digit, 4-digit, 5-digit, or 6-digit NAICS"
+occ code,"The 7-digit Standard Occupational Classification (SOC) code, or OEWS specific code for the occupation "
+occ title,Standard Occupational Classification title or OEWS specific title for the occupation
+o_group,"Contains ""detailed"" if this is the detail SOC occupation,  ""major"" if this is a SOC major group occupation, and ""total' if it is a cross occupational industry and state total."
+tot_emp,Estimated total employment rounded to the nearest 10 (excludes self-employed).
+emp_prse ¹,"Percent relative standard error for the employment. Relative Standard Error (RSE) is a measure of the reliability of a statistic; the smaller the relative standard error, the more precise the estimate."
+pct_total,Percent of industry employment in the given occupation. Percents may not total to 100 due to occupational data not reported. Avoid double counting by excluding major occupation groups.  
+h_mean,Mean hourly wage
+a_mean,Mean annual wage 
+mean_prse ¹,"Percent relative standard error for the mean wage. Relative Standard Error (RSE) is a measure of the reliability of a statistic; the smaller the relative standard error, the more precise the estimate."
+h_pct10,Hourly 10th percentile wage
+h_pct25,Hourly 25th percentile wage
+h_median,Hourly median wage (or the 50th percentile)
+h_pct75,Hourly 75th percentile wage
+h_pct90,Hourly 90th percentile wage
+a_pct10,Annual 10th percentile wage
+a_pct25,Annual 25th percentile wage
+a_median,Annual median wage (or the 50th percentile)
+a_pct75,Annual 75th percentile wage
+a_pct90,Annual 90th percentile wage
+annual ,"Contains 1 if only the annual wages are released.  The OEWS program only releases the annual wage for some occupations that typically work fewer than 2080 hours per year but are paid on an annual basis, such as teachers, pilots, and athletes."
+hourly ,"Contains 1 if only the hourly wages are released.  Some occupations, such as actors, dancers, and musicians and singers are paid hourly and generally don't work a standard 2080 hour work year. "
+,
+Notes:,
+"¹ Relative Standard Error (RSE) is a measure of the reliability of a statistic; the smaller the relative standard error, the more precise the estimate",
+*  = indicates that a wage estimate is not available,
+**  = indicates that an employment estimate is not available,
+"# = indicates a wage that is equal to or greater than $115.00 per hour or $239,200 per year",
+~ = indicates a percent total less than 0.05% ,
