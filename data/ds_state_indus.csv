@@ -1,0 +1,370 @@
+,AREA_TITLE,NAICS_TITLE,TOT_EMP,PCT_TOTAL,A_MEAN
+12,Alabama,Manufacturing,30.0,0.01,83220.0
+13,Alabama,Information,60.0,0.25,70660.0
+14,Alabama,Finance and Insurance,80.0,0.11,80230.0
+15,Alabama,"Professional, Scientific, and Technical Services",640.0,0.55,98380.0
+16,Alabama,Management of Companies and Enterprises,50.0,0.24,103900.0
+19,Alaska,"Mining, Quarrying, and Oil and Gas Extraction",30.0,0.33,150420.0
+20,Alaska,Health Care and Social Assistance,40.0,0.07,87670.0
+53,Arizona,Manufacturing,150.0,0.08,101840.0
+54,Arizona,Wholesale Trade,60.0,0.05,92000.0
+55,Arizona,Information,150.0,0.29,135560.0
+56,Arizona,Finance and Insurance,510.0,0.28,120430.0
+57,Arizona,"Professional, Scientific, and Technical Services",1170.0,0.66,102240.0
+58,Arizona,Management of Companies and Enterprises,180.0,0.44,100160.0
+59,Arizona,Administrative and Support and Waste Management and Remediation Services,,,131090.0
+60,Arizona,Educational Services,120.0,0.05,76540.0
+61,Arizona,Health Care and Social Assistance,220.0,0.05,90960.0
+62,Arizona,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",40.0,0.02,79620.0
+161,California,Utilities,140.0,0.22,145790.0
+162,California,Manufacturing,1360.0,0.1,139730.0
+163,California,Wholesale Trade,780.0,0.12,116790.0
+164,California,Retail Trade,600.0,0.04,139560.0
+165,California,Transportation and Warehousing,210.0,0.02,177140.0
+166,California,Information,5630.0,0.93,242140.0
+167,California,Finance and Insurance,2220.0,0.41,142830.0
+168,California,Real Estate and Rental and Leasing,70.0,0.02,127370.0
+169,California,"Professional, Scientific, and Technical Services",9350.0,0.66,132320.0
+170,California,Management of Companies and Enterprises,2900.0,1.15,135020.0
+171,California,Administrative and Support and Waste Management and Remediation Services,2530.0,0.21,94380.0
+172,California,Educational Services,790.0,0.05,117470.0
+173,California,Health Care and Social Assistance,1040.0,0.04,102770.0
+174,California,"Arts, Entertainment, and Recreation",60.0,0.02,95150.0
+175,California,Other Services (except Public Administration),270.0,0.05,87470.0
+176,California,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",1450.0,0.13,87400.0
+227,Colorado,Manufacturing,110.0,0.08,104780.0
+228,Colorado,Wholesale Trade,130.0,0.12,112210.0
+229,Colorado,Retail Trade,60.0,0.02,
+230,Colorado,Information,630.0,0.85,127940.0
+231,Colorado,Finance and Insurance,440.0,0.37,107980.0
+232,Colorado,"Professional, Scientific, and Technical Services",1120.0,0.41,135910.0
+233,Colorado,Management of Companies and Enterprises,210.0,0.35,111150.0
+234,Colorado,Administrative and Support and Waste Management and Remediation Services,120.0,0.08,83590.0
+235,Colorado,Educational Services,60.0,0.02,88270.0
+236,Colorado,Health Care and Social Assistance,310.0,0.09,94730.0
+237,Colorado,Other Services (except Public Administration),50.0,0.06,82760.0
+238,Colorado,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",160.0,0.09,75950.0
+249,Connecticut,Manufacturing,60.0,0.04,86260.0
+250,Connecticut,Information,280.0,0.9,87970.0
+251,Connecticut,Finance and Insurance,330.0,0.34,132980.0
+252,Connecticut,"Professional, Scientific, and Technical Services",170.0,0.18,101080.0
+253,Connecticut,Management of Companies and Enterprises,40.0,0.09,133910.0
+254,Connecticut,Administrative and Support and Waste Management and Remediation Services,,,144560.0
+259,Delaware,Finance and Insurance,420.0,1.03,136110.0
+274,District of Columbia,Information,170.0,0.81,
+275,District of Columbia,Finance and Insurance,230.0,1.57,94240.0
+276,District of Columbia,"Professional, Scientific, and Technical Services",2330.0,1.88,113780.0
+277,District of Columbia,Administrative and Support and Waste Management and Remediation Services,130.0,0.28,118070.0
+278,District of Columbia,Other Services (except Public Administration),170.0,0.27,83370.0
+345,Florida,Construction,40.0,0.01,86960.0
+346,Florida,Manufacturing,200.0,0.05,98740.0
+347,Florida,Wholesale Trade,160.0,0.04,101220.0
+348,Florida,Retail Trade,80.0,0.01,95840.0
+349,Florida,Transportation and Warehousing,140.0,0.03,107520.0
+350,Florida,Information,1420.0,0.93,116470.0
+351,Florida,Finance and Insurance,1210.0,0.28,99070.0
+352,Florida,Real Estate and Rental and Leasing,50.0,0.02,80950.0
+353,Florida,"Professional, Scientific, and Technical Services",2620.0,0.38,104380.0
+354,Florida,Management of Companies and Enterprises,610.0,0.47,92980.0
+355,Florida,Administrative and Support and Waste Management and Remediation Services,650.0,0.09,100930.0
+356,Florida,Educational Services,300.0,0.05,61110.0
+357,Florida,Health Care and Social Assistance,440.0,0.04,80000.0
+358,Florida,"Arts, Entertainment, and Recreation",30.0,0.01,80380.0
+359,Florida,Other Services (except Public Administration),100.0,0.04,114310.0
+360,Florida,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",90.0,0.02,70030.0
+413,Georgia,Construction,60.0,0.03,97910.0
+414,Georgia,Manufacturing,160.0,0.04,76720.0
+415,Georgia,Wholesale Trade,,,121150.0
+416,Georgia,Retail Trade,80.0,0.02,114980.0
+417,Georgia,Information,430.0,0.33,120750.0
+418,Georgia,Finance and Insurance,740.0,0.41,111930.0
+419,Georgia,"Professional, Scientific, and Technical Services",1860.0,0.61,97170.0
+420,Georgia,Management of Companies and Enterprises,840.0,0.79,117780.0
+421,Georgia,Administrative and Support and Waste Management and Remediation Services,570.0,0.16,130820.0
+422,Georgia,Educational Services,260.0,0.07,75880.0
+423,Georgia,Health Care and Social Assistance,280.0,0.05,85690.0
+424,Georgia,Other Services (except Public Administration),50.0,0.05,89430.0
+425,Hawaii,Finance and Insurance,50.0,0.3,97050.0
+430,Idaho,Finance and Insurance,40.0,0.15,96990.0
+431,Idaho,"Professional, Scientific, and Technical Services",,,99660.0
+432,Idaho,Health Care and Social Assistance,90.0,0.08,95790.0
+479,Illinois,Manufacturing,190.0,0.03,124220.0
+480,Illinois,Wholesale Trade,230.0,0.08,91900.0
+481,Illinois,Retail Trade,50.0,0.01,137300.0
+482,Illinois,Information,280.0,0.29,128710.0
+483,Illinois,Finance and Insurance,2190.0,0.73,111040.0
+484,Illinois,Real Estate and Rental and Leasing,110.0,0.13,101000.0
+485,Illinois,"Professional, Scientific, and Technical Services",1640.0,0.37,117170.0
+486,Illinois,Management of Companies and Enterprises,640.0,0.71,109710.0
+487,Illinois,Administrative and Support and Waste Management and Remediation Services,,,106240.0
+488,Illinois,Educational Services,130.0,0.02,75090.0
+489,Illinois,Health Care and Social Assistance,350.0,0.04,84320.0
+490,Illinois,"Arts, Entertainment, and Recreation",50.0,0.06,65460.0
+491,Illinois,Other Services (except Public Administration),40.0,0.02,90360.0
+525,Indiana,Manufacturing,220.0,0.04,80470.0
+526,Indiana,Wholesale Trade,60.0,0.05,66190.0
+527,Indiana,Information,50.0,0.18,93380.0
+528,Indiana,Finance and Insurance,310.0,0.31,72300.0
+529,Indiana,"Professional, Scientific, and Technical Services",540.0,0.39,89760.0
+530,Indiana,Management of Companies and Enterprises,210.0,0.58,83000.0
+531,Indiana,Administrative and Support and Waste Management and Remediation Services,110.0,0.06,54810.0
+532,Indiana,Educational Services,250.0,0.1,76080.0
+533,Indiana,Health Care and Social Assistance,300.0,0.07,80560.0
+534,Indiana,Other Services (except Public Administration),40.0,0.04,53320.0
+535,Indiana,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",50.0,0.03,54830.0
+559,Iowa,Manufacturing,190.0,0.09,87830.0
+560,Iowa,Retail Trade,80.0,0.05,49310.0
+561,Iowa,Information,60.0,0.3,95770.0
+562,Iowa,Finance and Insurance,920.0,1.03,105440.0
+563,Iowa,"Professional, Scientific, and Technical Services",180.0,0.33,81230.0
+564,Iowa,Management of Companies and Enterprises,240.0,0.85,100030.0
+565,Iowa,Administrative and Support and Waste Management and Remediation Services,50.0,0.07,91270.0
+566,Iowa,Educational Services,120.0,0.08,78380.0
+567,Iowa,Health Care and Social Assistance,40.0,0.02,74340.0
+573,Kansas,Information,250.0,1.36,91450.0
+574,Kansas,"Professional, Scientific, and Technical Services",,,98740.0
+575,Kansas,Management of Companies and Enterprises,70.0,0.31,92870.0
+602,Kentucky,Manufacturing,50.0,0.02,96900.0
+603,Kentucky,Wholesale Trade,190.0,0.25,126260.0
+604,Kentucky,Information,50.0,0.25,80900.0
+605,Kentucky,Finance and Insurance,,,83120.0
+606,Kentucky,"Professional, Scientific, and Technical Services",360.0,0.43,83210.0
+607,Kentucky,Management of Companies and Enterprises,90.0,0.43,94200.0
+608,Kentucky,Administrative and Support and Waste Management and Remediation Services,200.0,0.16,76780.0
+609,Kentucky,Educational Services,120.0,0.07,65680.0
+610,Kentucky,Health Care and Social Assistance,50.0,0.02,89160.0
+612,Louisiana,"Professional, Scientific, and Technical Services",,,93600.0
+623,Maine,Manufacturing,40.0,0.07,94500.0
+624,Maine,Information,260.0,3.46,126460.0
+625,Maine,Finance and Insurance,100.0,0.45,85190.0
+626,Maine,"Professional, Scientific, and Technical Services",140.0,0.46,88140.0
+627,Maine,Management of Companies and Enterprises,100.0,0.67,96970.0
+628,Maine,Educational Services,40.0,0.07,71820.0
+629,Maine,Health Care and Social Assistance,50.0,0.05,88000.0
+646,Maryland,Manufacturing,80.0,0.07,131010.0
+647,Maryland,Retail Trade,110.0,0.04,87720.0
+648,Maryland,Information,90.0,0.25,122110.0
+649,Maryland,Finance and Insurance,70.0,0.08,121740.0
+650,Maryland,"Professional, Scientific, and Technical Services",1400.0,0.51,123930.0
+651,Maryland,Administrative and Support and Waste Management and Remediation Services,50.0,0.03,94680.0
+652,Maryland,Health Care and Social Assistance,80.0,0.02,87900.0
+653,Maryland,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",40.0,0.01,95580.0
+690,Massachusetts,Manufacturing,130.0,0.06,119420.0
+691,Massachusetts,Wholesale Trade,60.0,0.05,120680.0
+692,Massachusetts,Information,370.0,0.39,127730.0
+693,Massachusetts,Finance and Insurance,1520.0,0.91,128660.0
+694,Massachusetts,"Professional, Scientific, and Technical Services",2750.0,0.74,121550.0
+695,Massachusetts,Management of Companies and Enterprises,230.0,0.34,119170.0
+696,Massachusetts,Administrative and Support and Waste Management and Remediation Services,220.0,0.11,103840.0
+697,Massachusetts,Educational Services,120.0,0.03,88410.0
+698,Massachusetts,Health Care and Social Assistance,200.0,0.03,81630.0
+699,Massachusetts,Other Services (except Public Administration),40.0,0.04,88620.0
+742,Michigan,Manufacturing,210.0,0.04,84820.0
+743,Michigan,Wholesale Trade,150.0,0.09,99640.0
+744,Michigan,Information,240.0,0.44,83090.0
+745,Michigan,Finance and Insurance,410.0,0.25,88440.0
+746,Michigan,"Professional, Scientific, and Technical Services",1390.0,0.45,102210.0
+747,Michigan,Management of Companies and Enterprises,470.0,0.62,99920.0
+748,Michigan,Administrative and Support and Waste Management and Remediation Services,160.0,0.06,94860.0
+749,Michigan,Educational Services,140.0,0.04,78740.0
+750,Michigan,Health Care and Social Assistance,350.0,0.06,71150.0
+751,Michigan,Other Services (except Public Administration),60.0,0.05,76980.0
+752,Michigan,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",80.0,0.04,63740.0
+770,Minnesota,Manufacturing,80.0,0.03,117270.0
+771,Minnesota,Information,40.0,0.09,114370.0
+772,Minnesota,Finance and Insurance,560.0,0.41,118870.0
+773,Minnesota,"Professional, Scientific, and Technical Services",350.0,0.21,113750.0
+774,Minnesota,Management of Companies and Enterprises,430.0,0.47,102370.0
+775,Minnesota,Health Care and Social Assistance,60.0,0.01,100060.0
+780,Mississippi,Information,40.0,0.39,67460.0
+781,Mississippi,"Professional, Scientific, and Technical Services",110.0,0.31,57680.0
+782,Mississippi,Administrative and Support and Waste Management and Remediation Services,40.0,0.06,63300.0
+783,Mississippi,Health Care and Social Assistance,30.0,0.02,58930.0
+816,Missouri,Manufacturing,80.0,0.03,108230.0
+817,Missouri,Wholesale Trade,130.0,0.1,79470.0
+818,Missouri,Transportation and Warehousing,60.0,0.05,80510.0
+819,Missouri,Information,,,63220.0
+820,Missouri,Finance and Insurance,700.0,0.52,79370.0
+821,Missouri,"Professional, Scientific, and Technical Services",1570.0,0.92,77760.0
+822,Missouri,Management of Companies and Enterprises,370.0,0.6,108150.0
+823,Missouri,Administrative and Support and Waste Management and Remediation Services,430.0,0.28,90950.0
+824,Missouri,Educational Services,230.0,0.09,73050.0
+825,Missouri,Health Care and Social Assistance,220.0,0.05,73230.0
+826,Missouri,Other Services (except Public Administration),60.0,0.08,78050.0
+828,Montana,"Professional, Scientific, and Technical Services",50.0,0.19,60500.0
+848,Nebraska,Wholesale Trade,40.0,0.11,69450.0
+849,Nebraska,Information,250.0,1.39,94500.0
+850,Nebraska,Finance and Insurance,120.0,0.22,100780.0
+851,Nebraska,"Professional, Scientific, and Technical Services",300.0,0.61,92410.0
+852,Nebraska,Management of Companies and Enterprises,210.0,0.99,91080.0
+853,Nebraska,Administrative and Support and Waste Management and Remediation Services,30.0,0.06,83900.0
+854,Nebraska,Educational Services,120.0,0.13,78060.0
+855,Nebraska,Health Care and Social Assistance,130.0,0.09,87380.0
+866,Nevada,Manufacturing,40.0,0.06,116740.0
+867,Nevada,Information,,,122050.0
+868,Nevada,Finance and Insurance,130.0,0.32,103300.0
+869,Nevada,"Professional, Scientific, and Technical Services",380.0,0.57,
+870,Nevada,Management of Companies and Enterprises,110.0,0.37,97610.0
+871,Nevada,Educational Services,40.0,0.05,52900.0
+883,New Hampshire,Information,100.0,0.85,
+884,New Hampshire,Finance and Insurance,90.0,0.35,115090.0
+885,New Hampshire,"Professional, Scientific, and Technical Services",230.0,0.5,83140.0
+886,New Hampshire,Management of Companies and Enterprises,40.0,0.32,104180.0
+887,New Hampshire,Administrative and Support and Waste Management and Remediation Services,,,115370.0
+888,New Hampshire,Educational Services,30.0,0.05,86440.0
+889,New Hampshire,Health Care and Social Assistance,40.0,0.04,83830.0
+925,New Jersey,Manufacturing,60.0,0.03,90290.0
+926,New Jersey,Wholesale Trade,160.0,0.07,112240.0
+927,New Jersey,Information,,,158320.0
+928,New Jersey,Finance and Insurance,,,130900.0
+929,New Jersey,"Professional, Scientific, and Technical Services",1290.0,0.38,134660.0
+930,New Jersey,Management of Companies and Enterprises,330.0,0.36,130420.0
+931,New Jersey,Administrative and Support and Waste Management and Remediation Services,190.0,0.06,111040.0
+932,New Jersey,Health Care and Social Assistance,40.0,0.01,100660.0
+933,New Jersey,"Arts, Entertainment, and Recreation",40.0,0.07,94810.0
+939,New Mexico,Finance and Insurance,70.0,0.28,97040.0
+940,New Mexico,"Professional, Scientific, and Technical Services",40.0,0.06,
+941,New Mexico,Health Care and Social Assistance,80.0,0.06,80740.0
+942,New Mexico,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",60.0,0.06,50190.0
+1023,New York,Manufacturing,530.0,0.13,140890.0
+1024,New York,Wholesale Trade,360.0,0.12,125120.0
+1025,New York,Retail Trade,180.0,0.02,136550.0
+1026,New York,Information,3080.0,1.07,127770.0
+1027,New York,Finance and Insurance,2570.0,0.52,156210.0
+1028,New York,Real Estate and Rental and Leasing,130.0,0.07,148690.0
+1029,New York,"Professional, Scientific, and Technical Services",4790.0,0.69,126030.0
+1030,New York,Management of Companies and Enterprises,1070.0,0.64,126030.0
+1031,New York,Administrative and Support and Waste Management and Remediation Services,650.0,0.13,97860.0
+1032,New York,Educational Services,320.0,0.03,94590.0
+1033,New York,Health Care and Social Assistance,650.0,0.04,88190.0
+1034,New York,Other Services (except Public Administration),320.0,0.1,102720.0
+1035,New York,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",40.0,0.01,104090.0
+1071,North Carolina,Manufacturing,120.0,0.02,94630.0
+1072,North Carolina,Wholesale Trade,130.0,0.07,105740.0
+1073,North Carolina,Information,410.0,0.56,117720.0
+1074,North Carolina,Finance and Insurance,1980.0,0.92,134580.0
+1075,North Carolina,"Professional, Scientific, and Technical Services",1440.0,0.45,111700.0
+1076,North Carolina,Management of Companies and Enterprises,510.0,0.54,125110.0
+1077,North Carolina,Administrative and Support and Waste Management and Remediation Services,520.0,0.16,106700.0
+1078,North Carolina,Health Care and Social Assistance,150.0,0.02,93990.0
+1079,North Carolina,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",30.0,0.01,77240.0
+1118,Ohio,Manufacturing,140.0,0.02,86370.0
+1119,Ohio,Wholesale Trade,330.0,0.14,88140.0
+1120,Ohio,Transportation and Warehousing,30.0,0.01,88020.0
+1121,Ohio,Information,,,75770.0
+1122,Ohio,Finance and Insurance,690.0,0.3,97180.0
+1123,Ohio,"Professional, Scientific, and Technical Services",790.0,0.28,104400.0
+1124,Ohio,Management of Companies and Enterprises,760.0,0.53,101520.0
+1125,Ohio,Educational Services,120.0,0.03,65950.0
+1126,Ohio,Health Care and Social Assistance,160.0,0.02,77510.0
+1127,Ohio,Other Services (except Public Administration),60.0,0.04,77480.0
+1128,Ohio,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",80.0,0.02,66020.0
+1147,Oklahoma,"Mining, Quarrying, and Oil and Gas Extraction",50.0,0.16,118730.0
+1148,Oklahoma,Manufacturing,50.0,0.04,82060.0
+1149,Oklahoma,Wholesale Trade,40.0,0.07,84470.0
+1150,Oklahoma,Finance and Insurance,80.0,0.14,90450.0
+1151,Oklahoma,"Professional, Scientific, and Technical Services",540.0,0.73,91150.0
+1152,Oklahoma,Management of Companies and Enterprises,270.0,0.97,108050.0
+1153,Oklahoma,Educational Services,370.0,0.25,66080.0
+1154,Oklahoma,Health Care and Social Assistance,180.0,0.08,95460.0
+1155,Oklahoma,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",90.0,0.06,70020.0
+1175,Oregon,Manufacturing,400.0,0.21,159650.0
+1176,Oregon,Information,130.0,0.35,116260.0
+1177,Oregon,Finance and Insurance,60.0,0.11,121450.0
+1178,Oregon,"Professional, Scientific, and Technical Services",430.0,0.4,80690.0
+1179,Oregon,Management of Companies and Enterprises,170.0,0.33,116100.0
+1180,Oregon,Administrative and Support and Waste Management and Remediation Services,100.0,0.1,109630.0
+1181,Oregon,Health Care and Social Assistance,90.0,0.03,80810.0
+1182,Oregon,Other Services (except Public Administration),30.0,0.05,82330.0
+1183,Oregon,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",150.0,0.1,91150.0
+1233,Pennsylvania,Manufacturing,490.0,0.09,105860.0
+1234,Pennsylvania,Wholesale Trade,130.0,0.06,99750.0
+1235,Pennsylvania,Transportation and Warehousing,50.0,0.02,65520.0
+1236,Pennsylvania,Information,170.0,0.19,86410.0
+1237,Pennsylvania,Finance and Insurance,1540.0,0.59,101310.0
+1238,Pennsylvania,"Professional, Scientific, and Technical Services",2540.0,0.66,95220.0
+1239,Pennsylvania,Management of Companies and Enterprises,750.0,0.51,99770.0
+1240,Pennsylvania,Administrative and Support and Waste Management and Remediation Services,270.0,0.09,72800.0
+1241,Pennsylvania,Educational Services,40.0,0.01,101260.0
+1242,Pennsylvania,Health Care and Social Assistance,310.0,0.03,78740.0
+1253,Rhode Island,Finance and Insurance,80.0,0.34,127710.0
+1254,Rhode Island,"Professional, Scientific, and Technical Services",120.0,0.39,122850.0
+1255,Rhode Island,Management of Companies and Enterprises,260.0,1.72,123600.0
+1256,Rhode Island,Educational Services,30.0,0.07,95680.0
+1257,Rhode Island,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",40.0,0.14,105360.0
+1278,South Carolina,Manufacturing,80.0,0.03,99870.0
+1279,South Carolina,Wholesale Trade,40.0,0.05,88040.0
+1280,South Carolina,Information,110.0,0.37,91150.0
+1281,South Carolina,Finance and Insurance,340.0,0.43,96290.0
+1282,South Carolina,"Professional, Scientific, and Technical Services",210.0,0.19,90940.0
+1283,South Carolina,Management of Companies and Enterprises,130.0,0.51,104330.0
+1284,South Carolina,Administrative and Support and Waste Management and Remediation Services,110.0,0.06,151720.0
+1285,South Carolina,Educational Services,40.0,0.03,85680.0
+1286,South Carolina,Health Care and Social Assistance,40.0,0.01,76880.0
+1290,South Dakota,Finance and Insurance,70.0,0.32,102090.0
+1291,South Dakota,"Professional, Scientific, and Technical Services",30.0,0.19,125220.0
+1306,Tennessee,Manufacturing,110.0,0.03,97050.0
+1307,Tennessee,Information,160.0,0.3,180930.0
+1308,Tennessee,Finance and Insurance,130.0,0.11,112020.0
+1309,Tennessee,"Professional, Scientific, and Technical Services",340.0,0.21,91640.0
+1310,Tennessee,Management of Companies and Enterprises,170.0,0.29,104000.0
+1311,Tennessee,Educational Services,50.0,0.02,79240.0
+1312,Tennessee,Health Care and Social Assistance,170.0,0.04,
+1388,Texas,"Mining, Quarrying, and Oil and Gas Extraction",50.0,0.03,111740.0
+1389,Texas,Utilities,240.0,0.43,80390.0
+1390,Texas,Construction,40.0,0.01,79540.0
+1391,Texas,Manufacturing,440.0,0.05,121250.0
+1392,Texas,Wholesale Trade,580.0,0.1,125710.0
+1393,Texas,Retail Trade,180.0,0.01,119660.0
+1394,Texas,Transportation and Warehousing,440.0,0.06,64140.0
+1395,Texas,Information,1490.0,0.67,105730.0
+1396,Texas,Finance and Insurance,1890.0,0.31,109960.0
+1397,Texas,Real Estate and Rental and Leasing,,,82060.0
+1398,Texas,"Professional, Scientific, and Technical Services",5300.0,0.55,100900.0
+1399,Texas,Management of Companies and Enterprises,850.0,0.43,116590.0
+1400,Texas,Administrative and Support and Waste Management and Remediation Services,1640.0,0.18,87130.0
+1401,Texas,Educational Services,250.0,0.02,102480.0
+1402,Texas,Health Care and Social Assistance,160.0,0.01,117140.0
+1403,Texas,Other Services (except Public Administration),120.0,0.04,72550.0
+1433,Utah,Manufacturing,80.0,0.05,83360.0
+1434,Utah,Wholesale Trade,120.0,0.22,117590.0
+1435,Utah,Transportation and Warehousing,30.0,0.04,88490.0
+1436,Utah,Information,310.0,0.72,105920.0
+1437,Utah,Finance and Insurance,430.0,0.57,96450.0
+1438,Utah,"Professional, Scientific, and Technical Services",1480.0,1.14,82180.0
+1439,Utah,Management of Companies and Enterprises,120.0,0.57,88030.0
+1440,Utah,Administrative and Support and Waste Management and Remediation Services,110.0,0.11,81870.0
+1441,Utah,Educational Services,180.0,0.12,88960.0
+1442,Utah,Health Care and Social Assistance,80.0,0.05,83270.0
+1445,Vermont,Wholesale Trade,,,189000.0
+1446,Vermont,"Professional, Scientific, and Technical Services",,,150250.0
+1478,Virginia,Manufacturing,30.0,0.01,106580.0
+1479,Virginia,Transportation and Warehousing,50.0,,68660.0
+1480,Virginia,Information,140.0,0.2,125420.0
+1481,Virginia,Finance and Insurance,500.0,0.35,153270.0
+1482,Virginia,"Professional, Scientific, and Technical Services",2750.0,0.61,139320.0
+1483,Virginia,Management of Companies and Enterprises,620.0,0.71,123620.0
+1484,Virginia,Administrative and Support and Waste Management and Remediation Services,80.0,0.03,140980.0
+1485,Virginia,Educational Services,80.0,0.02,107050.0
+1486,Virginia,Health Care and Social Assistance,60.0,0.01,75730.0
+1487,Virginia,Other Services (except Public Administration),80.0,0.07,97870.0
+1488,Virginia,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",50.0,0.01,89700.0
+1517,Washington,Manufacturing,180.0,0.07,132620.0
+1518,Washington,Wholesale Trade,60.0,0.05,145850.0
+1519,Washington,Retail Trade,30.0,0.01,134620.0
+1520,Washington,Information,1670.0,0.99,170370.0
+1521,Washington,Finance and Insurance,210.0,0.21,131320.0
+1522,Washington,Real Estate and Rental and Leasing,30.0,0.06,130580.0
+1523,Washington,"Professional, Scientific, and Technical Services",940.0,0.39,140010.0
+1524,Washington,Management of Companies and Enterprises,670.0,0.63,
+1525,Washington,Administrative and Support and Waste Management and Remediation Services,200.0,0.11,122990.0
+1526,Washington,Health Care and Social Assistance,100.0,0.02,99120.0
+1529,West Virginia,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",40.0,0.05,64820.0
+1557,Wisconsin,Manufacturing,100.0,0.02,87370.0
+1558,Wisconsin,Information,670.0,1.47,73800.0
+1559,Wisconsin,Finance and Insurance,500.0,0.41,105390.0
+1560,Wisconsin,"Professional, Scientific, and Technical Services",660.0,0.54,95360.0
+1561,Wisconsin,Management of Companies and Enterprises,370.0,0.56,105380.0
+1562,Wisconsin,Administrative and Support and Waste Management and Remediation Services,140.0,0.1,89120.0
+1563,Wisconsin,Educational Services,160.0,0.07,72310.0
+1564,Wisconsin,Health Care and Social Assistance,60.0,0.01,85400.0
