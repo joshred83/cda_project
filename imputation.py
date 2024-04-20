@@ -1,3 +1,16 @@
+"""
+Defines a custom pipeline for imputing missing values in a dataset using the IterativeImputer from scikit-learn.
+
+The pipeline consists of the following steps:
+1. Categorical feature encoding using OneHotEncoder
+2. Numeric feature scaling using StandardScaler
+3. Missing value imputation using IterativeImputer with a BayesianRidge regressor
+
+The `custom_pipe` function returns the complete pipeline, which can be used to fit and transform data.
+
+The `inverse_prep` function can be used to undo the preprocessing steps performed by the pipeline, allowing the original data to be recovered.
+"""
+
 import pandas as pd
 import numpy as np
 from sklearn.experimental import enable_iterative_imputer
@@ -11,8 +24,10 @@ from sklearn.ensemble import RandomForestRegressor
 from sklearn.linear_model import BayesianRidge
 from sklearn.neighbors import KNeighborsRegressor
 from sklearn.model_selection import GridSearchCV
+from pandas.api.types import is_list_like
 import numpy as np
 from time import time
+import missingno
 
 # Loaded variable 'df' from URI: /home/red/cda_project-1/data/2022_oes_ds_st_indus.csv
 
@@ -25,166 +40,126 @@ def simulate_missing(data, missing_percentage):
     return data_copy
 
 
-# Custom scorer function for evaluating model performance
-def scorer(y_true, y_pred):
-    if type(y_true) is pd.DataFrame:
-        y_true = y_true.copy().values[:, -3:]
-    else:
-        y_true = y_true.copy()[:, -3:]
-
-    if type(y_pred) is pd.DataFrame:
-        y_pred = y_pred.copy().values[:, -3:]
-    else:
-        y_pred = y_pred.copy()[:, -3:]
-
-    return mean_squared_error(y_true, y_pred)
-
-
-# Function to prepare the data
-def prep_data():
+def get_data(path="data/imputation/state_sector_data.csv"):
     """
-    Reads a CSV file containing data on employment statistics and performs data preparation steps.
+    Reads a CSV file and returns the data as a pandas DataFrame.
+
+    Parameters:
+        path (str): The path to the CSV file. Default is 'data/imputation/state_sector_data.csv'.
 
     Returns:
-        pandas.DataFrame: The prepared DataFrame containing filtered and transformed data.
+        pandas.DataFrame: The data read from the CSV file.
     """
-    df = pd.read_csv(
-        r"data/2022_oes_ds_st_indus.csv", na_values=["**", "*"], thousands=","
+    return pd.read_csv(path)
+
+
+def get_categories(df, cat_cols):
+    """
+    Get the unique categories for the specified categorical columns in a DataFrame.
+
+    Parameters:
+    df (pandas.DataFrame): The DataFrame containing the categorical columns.
+    cat_cols (list): A list of column names representing the categorical columns.
+
+    Returns:
+    list: A list of arrays, where each array contains the unique categories for a categorical column.
+    """
+
+    assert is_list_like(cat_cols), "Expected a list of columns"
+    assert all([col in df.columns for col in cat_cols]), "key mismatch"
+
+    categories = [df[col].unique() for col in cat_cols]
+
+    return categories
+
+
+def custom_pipe(df, estimator):
+    """
+    Create a model pipeline for preprocessing and imputing missing values in a DataFrame.
+
+    Parameters:
+    - df (pandas.DataFrame): The input DataFrame.
+
+    Returns:
+    - model (sklearn.pipeline.Pipeline): The model pipeline.
+
+    """
+
+    categorical_columns = df.select_dtypes("object").columns
+    numeric_columns = df.select_dtypes("number").columns
+
+    dummy_categories = get_categories(df, categorical_columns)
+
+    scaler = StandardScaler()
+    encoder = OneHotEncoder(
+        categories=dummy_categories,
+        sparse_output=False,
     )
 
-    # Filter rows, data scientists at the state/industry level
-    df = df[df["I_GROUP"].eq("sector") & df["O_GROUP"].eq("detailed")]
-
-    # Drop columns except for state (AREA_TITLE), sector(NAICS_TITLE),
-    # number of data scientists by state/sector (TOT_EMP),
-    # % of state/sector that are data scientists (PCT_TOTAL)
-    # Average data scientist salary by "State/Sector" (A_MEAN)
-    df = df.drop(
-        columns=[
-            "AREA",
-            "Unnamed: 0",
-            "NAICS",
-            "I_GROUP",
-            "OCC_CODE",
-            "OCC_TITLE",
-            "O_GROUP",
-            "EMP_PRSE",
-            "MEAN_PRSE",
-            "H_PCT10",
-            "H_PCT25",
-            "H_MEDIAN",
-            "H_PCT75",
-            "H_PCT90",
-            "A_PCT10",
-            "A_PCT25",
-            "A_MEDIAN",
-            "A_PCT75",
-            "A_PCT90",
-            "ANNUAL",
-            "HOURLY",
-            "H_MEAN",
-        ]
+    # Define the preprocessing steps using ColumnTransformer
+    preproc = ColumnTransformer(
+        transformers=[
+            ("cat", encoder, categorical_columns),
+            ("num", scaler, numeric_columns),
+        ],
+        n_jobs=-1,
     )
-
-    return df
-
-
-# Prepare the data
-df = prep_data()
-
-# For categorical features, build a list of categories
-categories = [df["AREA_TITLE"].unique(), df["NAICS_TITLE"].unique()]
-
-# Initialize the scaler, encoder, and imputer
-scaler = StandardScaler()
-encoder = OneHotEncoder(
-    categories=categories,
-    sparse_output=False,
-)
-imputer = IterativeImputer(BayesianRidge())
-
-# Define the preprocessing steps using ColumnTransformer
-preproc = ColumnTransformer(
-    transformers=[
-        ("cat", encoder, ["AREA_TITLE", "NAICS_TITLE"]),
-        ("num", scaler, ["A_MEAN", "TOT_EMP", "PCT_TOTAL"]),
-    ],
-    n_jobs=-1,
-)
-
-# Create the model pipeline
-model = Pipeline(steps=[("prep", preproc), ("impute", imputer)])
-
-# Initialize KFold for cross-validation
-kf = KFold(n_splits=5, shuffle=True, random_state=42)
-
-# Initialize lists to store training and test errors
-training_error = []
-test_error = []
-test_base_mean = []
-test_base_median = []
-
-# Copy the data for X and y
-X = df.copy()
-y = df.copy()
-
-# Start the timer
-start = time()
-
-# Print setup time
-print("Setup:", time() - start)
-
-# Simulate missing values in selected columns
-for col in ["A_MEAN", "TOT_EMP", "PCT_TOTAL"]:
-    X[col] = simulate_missing(X[col].values, 0.05)
-
-# Perform cross-validation
-for i, (train_idx, test_idx) in enumerate(kf.split(df)):
-    X_train = X.iloc[train_idx, :]
-    X_test = X.iloc[test_idx, :]
-
-    # Fit the model on the training data
-    model.fit(X_train)
-
-    # Transform the test data using the model
-    y_test = model.transform(y.iloc[test_idx, :])
-    y_pred = model.transform(X_test)
-
-    # Create copies of X_test for mean and median imputation
-    y_pred_mean = X_test.copy()
-    y_pred_median = X_test.copy()
-
-    # Perform mean and median imputation on missing values
-    for col in X_test.select_dtypes("number"):
-        mean = y_pred_mean[col].mean()
-        median = y_pred_median[col].median()
-        y_pred_mean[col] = y_pred_mean[col].fillna(value=mean)
-        y_pred_median[col] = y_pred_median[col].fillna(value=median)
-
-    # Print fold number and time taken
-    print(f"Fold {i}: {time()-start:.2f} secs")
-
-    # Calculate test errors
-    test_error.append(
-        mean_squared_error(
-            y_test[:, -3:],
-            y_pred[:, -3:],
-        )
+    imputer = IterativeImputer(
+        estimator=estimator,
+        initial_strategy="constant",
+        #sample_posterior=True,
+        fill_value=0,
+        min_value=0,
+        add_indicator=True,
+        max_iter=10,
     )
-    test_base_mean.append(
-        mean_squared_error(
-            y_test[:, -3:],
-            y_pred_mean.iloc[:, -3:],
-        )
-    )
-    test_base_median.append(
-        mean_squared_error(
-            y_test[:, -3:],
-            y_pred_median.iloc[:, -3:],
-        )
-    )
+    # Create the model pipeline
+    model = Pipeline(steps=[("prep", preproc), ("impute", imputer)])
+    return model
 
-# Print the mean of test errors, test_base_mean, and test_base_median
-print(np.mean(test_error))
-print(np.mean(test_base_mean))
-print(np.mean(test_base_median))
+
+def inverse_prep(model, data):
+    """
+    Applies inverse transformation to the preprocessed data. In the case of
+    the imputation model this was designed for, it converts imputed values
+    into the original units.
+
+    Args:
+        model (sklearn.pipeline.Pipeline): The fitted pipeline model.
+        data (numpy.ndarray): The preprocessed data to be transformed.
+
+    Returns:
+        pandas.DataFrame: The inverse transformed data.
+
+    Raises:
+        KeyError: If the required steps or transformers are not found in the pipeline.
+
+    """
+    prep = model.named_steps["prep"]
+    columns = prep.feature_names_in_
+    encoder_slicer, scaler_slicer, _ = prep.output_indices_.values()
+    encoder = prep.named_transformers_["cat"]
+    scaler = prep.named_transformers_["num"]
+    encoded_data = data[:, encoder_slicer]
+    scaled_data = data[:, scaler_slicer]
+
+    inv_encoded_data = encoder.inverse_transform(encoded_data)
+    inv_scaled_data = scaler.inverse_transform(scaled_data)
+
+    inv_data = np.c_[inv_encoded_data, inv_scaled_data]
+
+    return pd.DataFrame(data=inv_data, columns=columns)
+
+
+if __name__ == "main":
+    df = get_data()
+
+    model = custom_pipe(df)
+
+    # Initialize KFold for cross-validation
+    kf = KFold(n_splits=5, shuffle=True, random_state=42)
+
+    for train_idx, test_idx in kf.split(df):
+        model.fit(df.loc[train_idx, :])
+        y = model.transform(df.loc[test_idx, :])
+        break
