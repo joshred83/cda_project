@@ -28,12 +28,20 @@ from pandas.api.types import is_list_like
 import numpy as np
 from time import time
 import missingno
+import pprint
 
 # Loaded variable 'df' from URI: /home/red/cda_project-1/data/2022_oes_ds_st_indus.csv
 
 
 # Function to simulate missing values in a dataset
 def simulate_missing(data, missing_percentage):
+    data_copy = data.copy()
+    missing_mask = np.random.rand(*data_copy.shape) < missing_percentage
+    data_copy[missing_mask] = np.nan
+    return data_copy
+
+
+def miss_mask(data, missing_percentage):
     data_copy = data.copy()
     missing_mask = np.random.rand(*data_copy.shape) < missing_percentage
     data_copy[missing_mask] = np.nan
@@ -107,7 +115,7 @@ def custom_pipe(df, estimator):
     imputer = IterativeImputer(
         estimator=estimator,
         initial_strategy="constant",
-        #sample_posterior=True,
+        # sample_posterior=True,
         fill_value=0,
         min_value=0,
         add_indicator=True,
@@ -151,15 +159,61 @@ def inverse_prep(model, data):
     return pd.DataFrame(data=inv_data, columns=columns)
 
 
-if __name__ == "main":
+def stamp():
+    return print(f"Time {time():.2f} secs")
+
+
+if __name__ == "__main__":
     df = get_data()
 
-    model = custom_pipe(df)
+    model = custom_pipe(df, BayesianRidge())
 
     # Initialize KFold for cross-validation
     kf = KFold(n_splits=5, shuffle=True, random_state=42)
+    stamp()
 
-    for train_idx, test_idx in kf.split(df):
-        model.fit(df.loc[train_idx, :])
-        y = model.transform(df.loc[test_idx, :])
-        break
+    numeric_cols = df.select_dtypes("number").columns
+    scoring = {}
+    og = df.copy()
+
+    df = df[~df.isna().any(axis=1)].reset_index(drop=True)
+
+    print(f"{df.shape}")
+
+    nfolds = 5
+    score = {}
+    missingness_levels = [0.05, 0.1, 0.15, 0.2]
+    
+    for i in range(nfolds):
+
+        score[i] = {}
+        for j in missingness_levels:
+            score[i][j]={}
+            for col in numeric_cols:
+                score[i][j][col]=None
+
+
+    for i, (train_idx, test_idx) in enumerate(kf.split(df)):
+        for missingness in [.05, .1, .15, .2]:
+
+            x_train = df.loc[train_idx, :].copy()
+            x_train[numeric_cols] = simulate_missing(x_train[numeric_cols], 0.1)
+
+            x_test = df.loc[test_idx, :].copy()
+            x_test[numeric_cols] = simulate_missing(x_test[numeric_cols], 0.1)
+
+            y_test = df.loc[test_idx, :]
+            stamp()
+            model.fit(x_train)
+            stamp()
+            y_pred = inverse_prep(model, model.transform(x_test))
+
+            for col in x_test.loc[:, numeric_cols]:
+
+                mse = mean_squared_error(y_test[col], y_pred[col])
+                print(
+                    f"{col}: {mse}"
+                )
+                score[i][missingness][col] = mse
+
+pprint.pp(score)
