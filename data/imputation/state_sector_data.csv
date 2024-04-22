@@ -1,1010 +1,1010 @@
-state,sector,state_sector_tot_headcount,state_sector_salary,ds_state_sector_headcount,ds_state_sector_salary,ds_state_sector_pct,ds_state_tot_headcount,ds_state_mdn_salary
-Alabama,"Agriculture, Forestry, Fishing and Hunting",5800.0,41080.0,,,,,85870.0
-Alaska,"Agriculture, Forestry, Fishing and Hunting",210.0,57260.0,,,,150.0,100040.0
-Arizona,"Agriculture, Forestry, Fishing and Hunting",9840.0,30080.0,,,,2860.0,102770.0
-Arkansas,"Agriculture, Forestry, Fishing and Hunting",4120.0,37920.0,,,,,
-California,"Agriculture, Forestry, Fishing and Hunting",239210.0,33540.0,,,,29420.0,126810.0
-Colorado,"Agriculture, Forestry, Fishing and Hunting",2350.0,35940.0,,,,3540.0,103200.0
-Connecticut,"Agriculture, Forestry, Fishing and Hunting",290.0,41140.0,,,,950.0,105700.0
-Delaware,"Agriculture, Forestry, Fishing and Hunting",120.0,40780.0,,,,480.0,132300.0
-Florida,"Agriculture, Forestry, Fishing and Hunting",14960.0,29130.0,,,,8190.0,100520.0
-Georgia,"Agriculture, Forestry, Fishing and Hunting",8910.0,37160.0,,,,5650.0,100400.0
-Hawaii,"Agriculture, Forestry, Fishing and Hunting",520.0,35500.0,,,,90.0,112330.0
-Idaho,"Agriculture, Forestry, Fishing and Hunting",4590.0,34880.0,,,,250.0,96490.0
-Illinois,"Agriculture, Forestry, Fishing and Hunting",3420.0,44540.0,,,,6350.0,103730.0
-Indiana,"Agriculture, Forestry, Fishing and Hunting",2120.0,38900.0,,,,2200.0,75970.0
-Iowa,"Agriculture, Forestry, Fishing and Hunting",3570.0,41180.0,,,,1970.0,94860.0
-Kansas,"Agriculture, Forestry, Fishing and Hunting",2100.0,36690.0,,,,430.0,88860.0
-Kentucky,"Agriculture, Forestry, Fishing and Hunting",3480.0,33390.0,,,,,81990.0
-Louisiana,"Agriculture, Forestry, Fishing and Hunting",3310.0,45250.0,,,,580.0,65410.0
-Maine,"Agriculture, Forestry, Fishing and Hunting",1880.0,42470.0,,,,800.0,95700.0
-Maryland,"Agriculture, Forestry, Fishing and Hunting",,36730.0,,,,2010.0,117730.0
-Massachusetts,"Agriculture, Forestry, Fishing and Hunting",730.0,44670.0,,,,,106070.0
-Michigan,"Agriculture, Forestry, Fishing and Hunting",4990.0,37440.0,,,,3900.0,85470.0
-Minnesota,"Agriculture, Forestry, Fishing and Hunting",3450.0,44520.0,,,,1600.0,106920.0
-Mississippi,"Agriculture, Forestry, Fishing and Hunting",4420.0,39840.0,,,,,56950.0
-Missouri,"Agriculture, Forestry, Fishing and Hunting",3350.0,35980.0,,,,4020.0,78780.0
-Montana,"Agriculture, Forestry, Fishing and Hunting",970.0,,,,,90.0,75200.0
-Nebraska,"Agriculture, Forestry, Fishing and Hunting",1800.0,48270.0,,,,1310.0,84490.0
-Nevada,"Agriculture, Forestry, Fishing and Hunting",270.0,34530.0,,,,850.0,82110.0
-New Hampshire,"Agriculture, Forestry, Fishing and Hunting",460.0,45050.0,,,,620.0,77620.0
-New Jersey,"Agriculture, Forestry, Fishing and Hunting",2420.0,31930.0,,,,3030.0,129210.0
-New Mexico,"Agriculture, Forestry, Fishing and Hunting",,24140.0,,,,330.0,78790.0
-New York,"Agriculture, Forestry, Fishing and Hunting",3100.0,38480.0,,,,14760.0,124030.0
-North Carolina,"Agriculture, Forestry, Fishing and Hunting",5880.0,36780.0,,,,5350.0,121970.0
-North Dakota,"Agriculture, Forestry, Fishing and Hunting",780.0,40370.0,,,,150.0,91050.0
-Ohio,"Agriculture, Forestry, Fishing and Hunting",2620.0,38640.0,,,,3650.0,88950.0
-Oklahoma,"Agriculture, Forestry, Fishing and Hunting",1860.0,36350.0,,,,1740.0,79720.0
-Oregon,"Agriculture, Forestry, Fishing and Hunting",13530.0,35140.0,,,,1610.0,102530.0
-Pennsylvania,"Agriculture, Forestry, Fishing and Hunting",3920.0,37570.0,,,,6370.0,91330.0
-Rhode Island,"Agriculture, Forestry, Fishing and Hunting",60.0,38700.0,,,,620.0,109240.0
-South Carolina,"Agriculture, Forestry, Fishing and Hunting",3930.0,43570.0,,,,1180.0,99370.0
-South Dakota,"Agriculture, Forestry, Fishing and Hunting",720.0,,,,,110.0,108310.0
-Tennessee,"Agriculture, Forestry, Fishing and Hunting",1690.0,37600.0,,,,1210.0,94690.0
-Texas,"Agriculture, Forestry, Fishing and Hunting",12470.0,31500.0,,,,13780.0,99350.0
-Utah,"Agriculture, Forestry, Fishing and Hunting",810.0,37600.0,,,,3070.0,81250.0
-Vermont,"Agriculture, Forestry, Fishing and Hunting",390.0,,,,,150.0,
-Virginia,"Agriculture, Forestry, Fishing and Hunting",,41610.0,,,,4500.0,132400.0
-Washington,"Agriculture, Forestry, Fishing and Hunting",25990.0,35690.0,,,,4160.0,135850.0
-West Virginia,"Agriculture, Forestry, Fishing and Hunting",,30870.0,,,,70.0,67010.0
-Wisconsin,"Agriculture, Forestry, Fishing and Hunting",4310.0,40400.0,,,,2740.0,95410.0
-Wyoming,"Agriculture, Forestry, Fishing and Hunting",200.0,47840.0,,,,40.0,139970.0
-Alabama,"Mining, Quarrying, and Oil and Gas Extraction",5230.0,,,,,,85870.0
-Alaska,"Mining, Quarrying, and Oil and Gas Extraction",10660.0,81700.0,30.0,144290.0,0.33,150.0,100040.0
-Arizona,"Mining, Quarrying, and Oil and Gas Extraction",12340.0,59040.0,,,,2860.0,102770.0
-Arkansas,"Mining, Quarrying, and Oil and Gas Extraction",3260.0,42690.0,,,,,
-California,"Mining, Quarrying, and Oil and Gas Extraction",16650.0,63180.0,,,,29420.0,126810.0
-Colorado,"Mining, Quarrying, and Oil and Gas Extraction",20040.0,73520.0,,,,3540.0,103200.0
-Connecticut,"Mining, Quarrying, and Oil and Gas Extraction",500.0,61340.0,,,,950.0,105700.0
-Florida,"Mining, Quarrying, and Oil and Gas Extraction",3900.0,45120.0,,,,8190.0,100520.0
-Georgia,"Mining, Quarrying, and Oil and Gas Extraction",4900.0,49440.0,,,,5650.0,100400.0
-Hawaii,"Mining, Quarrying, and Oil and Gas Extraction",,61480.0,,,,90.0,112330.0
-Idaho,"Mining, Quarrying, and Oil and Gas Extraction",2830.0,62970.0,,,,250.0,96490.0
-Illinois,"Mining, Quarrying, and Oil and Gas Extraction",6910.0,57780.0,,,,6350.0,103730.0
-Indiana,"Mining, Quarrying, and Oil and Gas Extraction",5230.0,54850.0,,,,2200.0,75970.0
-Iowa,"Mining, Quarrying, and Oil and Gas Extraction",2260.0,47200.0,,,,1970.0,94860.0
-Kansas,"Mining, Quarrying, and Oil and Gas Extraction",6110.0,48380.0,,,,430.0,88860.0
-Kentucky,"Mining, Quarrying, and Oil and Gas Extraction",7690.0,49920.0,,,,,81990.0
-Louisiana,"Mining, Quarrying, and Oil and Gas Extraction",28260.0,57100.0,,,,580.0,65410.0
-Maine,"Mining, Quarrying, and Oil and Gas Extraction",250.0,,,,,800.0,95700.0
-Maryland,"Mining, Quarrying, and Oil and Gas Extraction",1180.0,51060.0,,,,2010.0,117730.0
-Massachusetts,"Mining, Quarrying, and Oil and Gas Extraction",920.0,57700.0,,,,,106070.0
-Michigan,"Mining, Quarrying, and Oil and Gas Extraction",5130.0,53460.0,,,,3900.0,85470.0
-Minnesota,"Mining, Quarrying, and Oil and Gas Extraction",5950.0,65560.0,,,,1600.0,106920.0
-Mississippi,"Mining, Quarrying, and Oil and Gas Extraction",3120.0,46910.0,,,,,56950.0
-Missouri,"Mining, Quarrying, and Oil and Gas Extraction",4190.0,47630.0,,,,4020.0,78780.0
-Montana,"Mining, Quarrying, and Oil and Gas Extraction",6310.0,67520.0,,,,90.0,75200.0
-Nebraska,"Mining, Quarrying, and Oil and Gas Extraction",1040.0,47290.0,,,,1310.0,84490.0
-Nevada,"Mining, Quarrying, and Oil and Gas Extraction",14730.0,64520.0,,,,850.0,82110.0
-New Hampshire,"Mining, Quarrying, and Oil and Gas Extraction",620.0,51780.0,,,,620.0,77620.0
-New Jersey,"Mining, Quarrying, and Oil and Gas Extraction",1280.0,63870.0,,,,3030.0,129210.0
-New Mexico,"Mining, Quarrying, and Oil and Gas Extraction",19780.0,55170.0,,,,330.0,78790.0
-New York,"Mining, Quarrying, and Oil and Gas Extraction",4260.0,51730.0,,,,14760.0,124030.0
-North Carolina,"Mining, Quarrying, and Oil and Gas Extraction",3110.0,49410.0,,,,5350.0,121970.0
-North Dakota,"Mining, Quarrying, and Oil and Gas Extraction",15270.0,63090.0,,,,150.0,91050.0
-Ohio,"Mining, Quarrying, and Oil and Gas Extraction",8540.0,48920.0,,,,3650.0,88950.0
-Oklahoma,"Mining, Quarrying, and Oil and Gas Extraction",28450.0,60610.0,50.0,125530.0,0.16,1740.0,79720.0
-Oregon,"Mining, Quarrying, and Oil and Gas Extraction",1690.0,51650.0,,,,1610.0,102530.0
-Pennsylvania,"Mining, Quarrying, and Oil and Gas Extraction",21130.0,50690.0,,,,6370.0,91330.0
-South Carolina,"Mining, Quarrying, and Oil and Gas Extraction",2020.0,52650.0,,,,1180.0,99370.0
-South Dakota,"Mining, Quarrying, and Oil and Gas Extraction",1050.0,52660.0,,,,110.0,108310.0
-Tennessee,"Mining, Quarrying, and Oil and Gas Extraction",3560.0,47290.0,,,,1210.0,94690.0
-Texas,"Mining, Quarrying, and Oil and Gas Extraction",182020.0,58690.0,50.0,103470.0,0.03,13780.0,99350.0
-Utah,"Mining, Quarrying, and Oil and Gas Extraction",9480.0,63230.0,,,,3070.0,81250.0
-Vermont,"Mining, Quarrying, and Oil and Gas Extraction",660.0,49080.0,,,,150.0,
-Virginia,"Mining, Quarrying, and Oil and Gas Extraction",5160.0,59040.0,,,,4500.0,132400.0
-Washington,"Mining, Quarrying, and Oil and Gas Extraction",1980.0,58810.0,,,,4160.0,135850.0
-West Virginia,"Mining, Quarrying, and Oil and Gas Extraction",18560.0,62460.0,,,,70.0,67010.0
-Wisconsin,"Mining, Quarrying, and Oil and Gas Extraction",2970.0,52250.0,,,,2740.0,95410.0
-Wyoming,"Mining, Quarrying, and Oil and Gas Extraction",15820.0,72740.0,,,,40.0,139970.0
-Alabama,Utilities,10280.0,86410.0,,,,,85870.0
-Alaska,Utilities,2480.0,96670.0,,,,150.0,100040.0
-Arizona,Utilities,11730.0,87620.0,,,,2860.0,102770.0
-Arkansas,Utilities,7480.0,81690.0,,,,,
-California,Utilities,61770.0,108350.0,140.0,146860.0,0.22,29420.0,126810.0
-Colorado,Utilities,7550.0,97190.0,,,,3540.0,103200.0
-Connecticut,Utilities,4980.0,104280.0,,,,950.0,105700.0
-Delaware,Utilities,1600.0,86130.0,,,,480.0,132300.0
-District of Columbia,Utilities,2040.0,97340.0,,,,3200.0,97660.0
-Florida,Utilities,23080.0,64320.0,,,,8190.0,100520.0
-Georgia,Utilities,18640.0,83250.0,,,,5650.0,100400.0
-Hawaii,Utilities,3550.0,105580.0,,,,90.0,112330.0
-Idaho,Utilities,3120.0,75610.0,,,,250.0,96490.0
-Illinois,Utilities,23460.0,98580.0,,,,6350.0,103730.0
-Indiana,Utilities,13360.0,82770.0,,,,2200.0,75970.0
-Iowa,Utilities,5780.0,86430.0,,,,1970.0,94860.0
-Kansas,Utilities,5800.0,85480.0,,,,430.0,88860.0
-Kentucky,Utilities,6960.0,75760.0,,,,,81990.0
-Louisiana,Utilities,8370.0,78170.0,,,,580.0,65410.0
-Maine,Utilities,1720.0,76010.0,,,,800.0,95700.0
-Maryland,Utilities,9190.0,97050.0,,,,2010.0,117730.0
-Massachusetts,Utilities,12350.0,102030.0,,,,,106070.0
-Michigan,Utilities,21520.0,98740.0,,,,3900.0,85470.0
-Minnesota,Utilities,12170.0,98890.0,,,,1600.0,106920.0
-Mississippi,Utilities,7790.0,70680.0,,,,,56950.0
-Missouri,Utilities,11570.0,84730.0,,,,4020.0,78780.0
-Montana,Utilities,2780.0,87450.0,,,,90.0,75200.0
-Nebraska,Utilities,1000.0,80410.0,,,,1310.0,84490.0
-Nevada,Utilities,3990.0,87820.0,,,,850.0,82110.0
-New Hampshire,Utilities,2080.0,84650.0,,,,620.0,77620.0
-New Jersey,Utilities,14280.0,98600.0,,,,3030.0,129210.0
-New Mexico,Utilities,4270.0,72560.0,,,,330.0,78790.0
-New York,Utilities,34290.0,104270.0,,,,14760.0,124030.0
-North Carolina,Utilities,14250.0,76560.0,,,,5350.0,121970.0
-North Dakota,Utilities,3210.0,104640.0,,,,150.0,91050.0
-Ohio,Utilities,18550.0,84110.0,,,,3650.0,88950.0
-Oklahoma,Utilities,9650.0,78900.0,,,,1740.0,79720.0
-Oregon,Utilities,4830.0,97980.0,,,,1610.0,102530.0
-Pennsylvania,Utilities,20240.0,93750.0,,,,6370.0,91330.0
-Rhode Island,Utilities,1160.0,94600.0,,,,620.0,109240.0
-South Carolina,Utilities,10740.0,77890.0,,,,1180.0,99370.0
-South Dakota,Utilities,1990.0,81270.0,,,,110.0,108310.0
-Tennessee,Utilities,4120.0,69310.0,,,,1210.0,94690.0
-Texas,Utilities,55290.0,77490.0,240.0,78700.0,0.43,13780.0,99350.0
-Utah,Utilities,3660.0,86430.0,,,,3070.0,81250.0
-Vermont,Utilities,1240.0,95480.0,,,,150.0,
-Virginia,Utilities,10870.0,85670.0,,,,4500.0,132400.0
-Washington,Utilities,6420.0,97060.0,,,,4160.0,135850.0
-West Virginia,Utilities,5120.0,82580.0,,,,70.0,67010.0
-Wisconsin,Utilities,8140.0,100310.0,,,,2740.0,95410.0
-Wyoming,Utilities,2290.0,96050.0,,,,40.0,139970.0
-Alabama,Construction,97340.0,45870.0,,,,,85870.0
-Alaska,Construction,15930.0,68510.0,,,,150.0,100040.0
-Arizona,Construction,191490.0,49460.0,,,,2860.0,102770.0
-Arkansas,Construction,56530.0,42840.0,,,,,
-California,Construction,911260.0,62850.0,,,,29420.0,126810.0
-Colorado,Construction,183170.0,58660.0,,,,3540.0,103200.0
-Connecticut,Construction,62120.0,63310.0,,,,950.0,105700.0
-Delaware,Construction,23240.0,52140.0,,,,480.0,132300.0
-District of Columbia,Construction,15170.0,64280.0,,,,3200.0,97660.0
-Florida,Construction,594230.0,46850.0,40.0,79630.0,0.01,8190.0,100520.0
-Georgia,Construction,210930.0,48230.0,60.0,102270.0,0.03,5650.0,100400.0
-Hawaii,Construction,36450.0,79800.0,,,,90.0,112330.0
-Idaho,Construction,61050.0,46590.0,,,,250.0,96490.0
-Illinois,Construction,233590.0,72700.0,,,,6350.0,103730.0
-Indiana,Construction,157700.0,56490.0,,,,2200.0,75970.0
-Iowa,Construction,83060.0,50720.0,,,,1970.0,94860.0
-Kansas,Construction,64860.0,49850.0,,,,430.0,88860.0
-Kentucky,Construction,82020.0,48670.0,,,,,81990.0
-Louisiana,Construction,130650.0,49450.0,,,,580.0,65410.0
-Maine,Construction,33110.0,49150.0,,,,800.0,95700.0
-Maryland,Construction,159590.0,57250.0,,,,2010.0,117730.0
-Massachusetts,Construction,171990.0,73590.0,,,,,106070.0
-Michigan,Construction,185370.0,52390.0,,,,3900.0,85470.0
-Minnesota,Construction,136780.0,63900.0,,,,1600.0,106920.0
-Mississippi,Construction,45890.0,43040.0,,,,,56950.0
-Missouri,Construction,138840.0,58970.0,,,,4020.0,78780.0
-Montana,Construction,35880.0,50970.0,,,,90.0,75200.0
-Nebraska,Construction,56720.0,48130.0,,,,1310.0,84490.0
-Nevada,Construction,100950.0,58670.0,,,,850.0,82110.0
-New Hampshire,Construction,30440.0,54030.0,,,,620.0,77620.0
-New Jersey,Construction,163760.0,65780.0,,,,3030.0,129210.0
-New Mexico,Construction,49500.0,46330.0,,,,330.0,78790.0
-New York,Construction,387370.0,64270.0,,,,14760.0,124030.0
-North Carolina,Construction,244720.0,47260.0,,,,5350.0,121970.0
-North Dakota,Construction,25470.0,54120.0,,,,150.0,91050.0
-Ohio,Construction,237740.0,57730.0,,,,3650.0,88950.0
-Oklahoma,Construction,78710.0,46130.0,,,,1740.0,79720.0
-Oregon,Construction,112670.0,59700.0,,,,1610.0,102530.0
-Pennsylvania,Construction,263370.0,56570.0,,,,6370.0,91330.0
-Rhode Island,Construction,21510.0,59640.0,,,,620.0,109240.0
-South Carolina,Construction,107190.0,46770.0,,,,1180.0,99370.0
-South Dakota,Construction,26390.0,46310.0,,,,110.0,108310.0
-Tennessee,Construction,143230.0,46760.0,,,,1210.0,94690.0
-Texas,Construction,762490.0,48080.0,40.0,73110.0,0.01,13780.0,99350.0
-Utah,Construction,128570.0,49670.0,,,,3070.0,81250.0
-Vermont,Construction,15920.0,49590.0,,,,150.0,
-Virginia,Construction,206140.0,49450.0,,,,4500.0,132400.0
-Washington,Construction,216610.0,65010.0,,,,4160.0,135850.0
-West Virginia,Construction,32780.0,47070.0,,,,70.0,67010.0
-Wisconsin,Construction,131440.0,59820.0,,,,2740.0,95410.0
-Wyoming,Construction,21860.0,50890.0,,,,40.0,139970.0
-Alabama,Manufacturing,271450.0,42590.0,30.0,76480.0,0.01,,85870.0
-Alaska,Manufacturing,9000.0,42490.0,,,,150.0,100040.0
-Arizona,Manufacturing,186780.0,50980.0,150.0,98770.0,0.08,2860.0,102770.0
-Arkansas,Manufacturing,158910.0,37980.0,,,,,
-California,Manufacturing,1323280.0,57280.0,1360.0,124990.0,0.1,29420.0,126810.0
-Colorado,Manufacturing,149990.0,51590.0,110.0,101110.0,0.08,3540.0,103200.0
-Connecticut,Manufacturing,154370.0,60130.0,60.0,93130.0,0.04,950.0,105700.0
-Delaware,Manufacturing,25870.0,46690.0,,,,480.0,132300.0
-District of Columbia,Manufacturing,1030.0,50910.0,,,,3200.0,97660.0
-Florida,Manufacturing,405050.0,45400.0,200.0,92640.0,0.05,8190.0,100520.0
-Georgia,Manufacturing,408550.0,41250.0,160.0,73840.0,0.04,5650.0,100400.0
-Hawaii,Manufacturing,12420.0,39160.0,,,,90.0,112330.0
-Idaho,Manufacturing,72350.0,43380.0,,,,250.0,96490.0
-Illinois,Manufacturing,561560.0,47320.0,190.0,137960.0,0.03,6350.0,103730.0
-Indiana,Manufacturing,536080.0,46900.0,220.0,69530.0,0.04,2200.0,75970.0
-Iowa,Manufacturing,217830.0,46510.0,190.0,84480.0,0.09,1970.0,94860.0
-Kansas,Manufacturing,165210.0,46780.0,,,,430.0,88860.0
-Kentucky,Manufacturing,248430.0,46800.0,50.0,95010.0,0.02,,81990.0
-Louisiana,Manufacturing,131650.0,50810.0,,,,580.0,65410.0
-Maine,Manufacturing,54220.0,48700.0,40.0,82420.0,0.07,800.0,95700.0
-Maryland,Manufacturing,109190.0,57130.0,80.0,133720.0,0.07,2010.0,117730.0
-Massachusetts,Manufacturing,237480.0,58410.0,130.0,127480.0,0.06,,106070.0
-Michigan,Manufacturing,596670.0,47620.0,210.0,76910.0,0.04,3900.0,85470.0
-Minnesota,Manufacturing,320800.0,50230.0,80.0,116480.0,0.03,1600.0,106920.0
-Mississippi,Manufacturing,146210.0,39240.0,,,,,56950.0
-Missouri,Manufacturing,277640.0,46640.0,80.0,107430.0,0.03,4020.0,78780.0
-Montana,Manufacturing,21890.0,45050.0,,,,90.0,75200.0
-Nebraska,Manufacturing,99440.0,44390.0,,,,1310.0,84490.0
-Nevada,Manufacturing,63470.0,44600.0,40.0,96780.0,0.06,850.0,82110.0
-New Hampshire,Manufacturing,69430.0,52740.0,,,,620.0,77620.0
-New Jersey,Manufacturing,242240.0,49980.0,60.0,82790.0,0.03,3030.0,129210.0
-New Mexico,Manufacturing,28770.0,40920.0,,,,330.0,78790.0
-New York,Manufacturing,415530.0,49420.0,530.0,125950.0,0.13,14760.0,124030.0
-North Carolina,Manufacturing,469500.0,43100.0,120.0,89660.0,0.02,5350.0,121970.0
-North Dakota,Manufacturing,27130.0,48320.0,,,,150.0,91050.0
-Ohio,Manufacturing,672790.0,46670.0,140.0,84750.0,0.02,3650.0,88950.0
-Oklahoma,Manufacturing,131920.0,46240.0,50.0,80070.0,0.04,1740.0,79720.0
-Oregon,Manufacturing,189590.0,49610.0,400.0,159510.0,0.21,1610.0,102530.0
-Pennsylvania,Manufacturing,556830.0,47590.0,490.0,106520.0,0.09,6370.0,91330.0
-Rhode Island,Manufacturing,40070.0,50840.0,,,,620.0,109240.0
-South Carolina,Manufacturing,256290.0,46140.0,80.0,100930.0,0.03,1180.0,99370.0
-South Dakota,Manufacturing,44620.0,41380.0,,,,110.0,108310.0
-Tennessee,Manufacturing,356960.0,44940.0,110.0,85680.0,0.03,1210.0,94690.0
-Texas,Manufacturing,904800.0,46730.0,440.0,118590.0,0.05,13780.0,99350.0
-Utah,Manufacturing,149890.0,45780.0,80.0,81100.0,0.05,3070.0,81250.0
-Vermont,Manufacturing,28600.0,46820.0,,,,150.0,
-Virginia,Manufacturing,241430.0,47920.0,30.0,107000.0,0.01,4500.0,132400.0
-Washington,Manufacturing,262760.0,58270.0,180.0,134110.0,0.07,4160.0,135850.0
-West Virginia,Manufacturing,45670.0,44900.0,,,,70.0,67010.0
-Wisconsin,Manufacturing,473510.0,47720.0,100.0,83140.0,0.02,2740.0,95410.0
-Wyoming,Manufacturing,9990.0,53150.0,,,,40.0,139970.0
-Alabama,Wholesale Trade,74810.0,46090.0,,,,,85870.0
-Alaska,Wholesale Trade,6210.0,48010.0,,,,150.0,100040.0
-Arizona,Wholesale Trade,106350.0,50010.0,60.0,81170.0,0.05,2860.0,102770.0
-Arkansas,Wholesale Trade,49090.0,43870.0,,,,,
-California,Wholesale Trade,664050.0,52150.0,780.0,94920.0,0.12,29420.0,126810.0
-Colorado,Wholesale Trade,110780.0,59280.0,130.0,103730.0,0.12,3540.0,103200.0
-Connecticut,Wholesale Trade,59410.0,58780.0,,,,950.0,105700.0
-Delaware,Wholesale Trade,11460.0,52220.0,,,,480.0,132300.0
-District of Columbia,Wholesale Trade,5130.0,91900.0,,,,3200.0,97660.0
-Florida,Wholesale Trade,365040.0,47460.0,160.0,96480.0,0.04,8190.0,100520.0
-Georgia,Wholesale Trade,211640.0,48870.0,,118150.0,,5650.0,100400.0
-Hawaii,Wholesale Trade,17070.0,47270.0,,,,90.0,112330.0
-Idaho,Wholesale Trade,33850.0,46060.0,,,,250.0,96490.0
-Illinois,Wholesale Trade,287840.0,51720.0,230.0,88130.0,0.08,6350.0,103730.0
-Indiana,Wholesale Trade,126750.0,46710.0,60.0,72590.0,0.05,2200.0,75970.0
-Iowa,Wholesale Trade,66280.0,48760.0,,,,1970.0,94860.0
-Kansas,Wholesale Trade,56260.0,48270.0,,,,430.0,88860.0
-Kentucky,Wholesale Trade,75830.0,45360.0,190.0,135210.0,0.25,,81990.0
-Louisiana,Wholesale Trade,66520.0,45480.0,,,,580.0,65410.0
-Maine,Wholesale Trade,19500.0,50430.0,,,,800.0,95700.0
-Maryland,Wholesale Trade,84810.0,50820.0,,,,2010.0,117730.0
-Massachusetts,Wholesale Trade,122100.0,60230.0,60.0,106970.0,0.05,,106070.0
-Michigan,Wholesale Trade,166500.0,48470.0,150.0,108210.0,0.09,3900.0,85470.0
-Minnesota,Wholesale Trade,130490.0,54080.0,,,,1600.0,106920.0
-Mississippi,Wholesale Trade,34340.0,42170.0,,,,,56950.0
-Missouri,Wholesale Trade,122810.0,47410.0,130.0,76090.0,0.1,4020.0,78780.0
-Montana,Wholesale Trade,18250.0,48300.0,,,,90.0,75200.0
-Nebraska,Wholesale Trade,40450.0,47450.0,40.0,67230.0,0.11,1310.0,84490.0
-Nevada,Wholesale Trade,39770.0,48450.0,,,,850.0,82110.0
-New Hampshire,Wholesale Trade,30660.0,54850.0,,,,620.0,77620.0
-New Jersey,Wholesale Trade,209420.0,57290.0,160.0,118120.0,0.07,3030.0,129210.0
-New Mexico,Wholesale Trade,20500.0,44930.0,,,,330.0,78790.0
-New York,Wholesale Trade,304350.0,58970.0,360.0,115800.0,0.12,14760.0,124030.0
-North Carolina,Wholesale Trade,191000.0,47700.0,130.0,94250.0,0.07,5350.0,121970.0
-North Dakota,Wholesale Trade,22970.0,52800.0,,,,150.0,91050.0
-Ohio,Wholesale Trade,234880.0,48260.0,330.0,85800.0,0.14,3650.0,88950.0
-Oklahoma,Wholesale Trade,56270.0,44560.0,40.0,79730.0,0.07,1740.0,79720.0
-Oregon,Wholesale Trade,76250.0,51350.0,,,,1610.0,102530.0
-Pennsylvania,Wholesale Trade,211090.0,50110.0,130.0,97870.0,0.06,6370.0,91330.0
-Rhode Island,Wholesale Trade,16430.0,58070.0,,,,620.0,109240.0
-South Carolina,Wholesale Trade,79010.0,46960.0,40.0,78410.0,0.05,1180.0,99370.0
-South Dakota,Wholesale Trade,22050.0,46760.0,,,,110.0,108310.0
-Tennessee,Wholesale Trade,128450.0,46490.0,,,,1210.0,94690.0
-Texas,Wholesale Trade,609880.0,48100.0,580.0,121070.0,0.1,13780.0,99350.0
-Utah,Wholesale Trade,58040.0,47940.0,120.0,121750.0,0.22,3070.0,81250.0
-Vermont,Wholesale Trade,9040.0,47170.0,,191480.0,,150.0,
-Virginia,Wholesale Trade,109150.0,50370.0,,,,4500.0,132400.0
-Washington,Wholesale Trade,129580.0,58880.0,60.0,149740.0,0.05,4160.0,135850.0
-West Virginia,Wholesale Trade,18520.0,42800.0,,,,70.0,67010.0
-Wisconsin,Wholesale Trade,124460.0,49010.0,,,,2740.0,95410.0
-Wyoming,Wholesale Trade,7620.0,50600.0,,,,40.0,139970.0
-Alabama,Retail Trade,236520.0,28560.0,,,,,85870.0
-Alaska,Retail Trade,34570.0,36570.0,,,,150.0,100040.0
-Arizona,Retail Trade,346460.0,33910.0,,,,2860.0,102770.0
-Arkansas,Retail Trade,144340.0,28540.0,,,,,
-California,Retail Trade,1629560.0,36500.0,600.0,139640.0,0.04,29420.0,126810.0
-Colorado,Retail Trade,276470.0,35410.0,60.0,,0.02,3540.0,103200.0
-Connecticut,Retail Trade,167050.0,34890.0,,,,950.0,105700.0
-Delaware,Retail Trade,50740.0,30490.0,,,,480.0,132300.0
-District of Columbia,Retail Trade,20370.0,36010.0,,,,3200.0,97660.0
-Florida,Retail Trade,1128450.0,30710.0,80.0,82420.0,0.01,8190.0,100520.0
-Georgia,Retail Trade,509860.0,29620.0,80.0,101780.0,0.02,5650.0,100400.0
-Hawaii,Retail Trade,64570.0,35460.0,,,,90.0,112330.0
-Idaho,Retail Trade,94060.0,31700.0,,,,250.0,96490.0
-Illinois,Retail Trade,571290.0,33830.0,50.0,127330.0,0.01,6350.0,103730.0
-Indiana,Retail Trade,317130.0,30580.0,,,,2200.0,75970.0
-Iowa,Retail Trade,175450.0,30290.0,80.0,46990.0,0.05,1970.0,94860.0
-Kansas,Retail Trade,140840.0,29710.0,,,,430.0,88860.0
-Kentucky,Retail Trade,208390.0,29330.0,,,,,81990.0
-Louisiana,Retail Trade,222900.0,28040.0,,,,580.0,65410.0
-Maine,Retail Trade,79460.0,33960.0,,,,800.0,95700.0
-Maryland,Retail Trade,269340.0,33850.0,110.0,73020.0,0.04,2010.0,117730.0
-Massachusetts,Retail Trade,332310.0,35620.0,,,,,106070.0
-Michigan,Retail Trade,454800.0,31200.0,,,,3900.0,85470.0
-Minnesota,Retail Trade,282730.0,34240.0,,,,1600.0,106920.0
-Mississippi,Retail Trade,140530.0,27840.0,,,,,56950.0
-Missouri,Retail Trade,304350.0,29990.0,,,,4020.0,78780.0
-Montana,Retail Trade,61300.0,33420.0,,,,90.0,75200.0
-Nebraska,Retail Trade,106200.0,30510.0,,,,1310.0,84490.0
-Nevada,Retail Trade,150840.0,33590.0,,,,850.0,82110.0
-New Hampshire,Retail Trade,88500.0,33420.0,,,,620.0,77620.0
-New Jersey,Retail Trade,429030.0,34200.0,,,,3030.0,129210.0
-New Mexico,Retail Trade,92890.0,30180.0,,,,330.0,78790.0
-New York,Retail Trade,845250.0,35880.0,180.0,132970.0,0.02,14760.0,124030.0
-North Carolina,Retail Trade,518780.0,29790.0,,,,5350.0,121970.0
-North Dakota,Retail Trade,45310.0,34010.0,,,,150.0,91050.0
-Ohio,Retail Trade,551860.0,30110.0,,,,3650.0,88950.0
-Oklahoma,Retail Trade,183860.0,29110.0,,,,1740.0,79720.0
-Oregon,Retail Trade,210490.0,35490.0,,,,1610.0,102530.0
-Pennsylvania,Retail Trade,599650.0,30700.0,,,,6370.0,91330.0
-Rhode Island,Retail Trade,47640.0,34140.0,,,,620.0,109240.0
-South Carolina,Retail Trade,256330.0,29080.0,,,,1180.0,99370.0
-South Dakota,Retail Trade,52330.0,30670.0,,,,110.0,108310.0
-Tennessee,Retail Trade,338070.0,29910.0,,,,1210.0,94690.0
-Texas,Retail Trade,1370200.0,30780.0,180.0,109640.0,0.01,13780.0,99350.0
-Utah,Retail Trade,182740.0,33990.0,,,,3070.0,81250.0
-Vermont,Retail Trade,34760.0,35500.0,,,,150.0,
-Virginia,Retail Trade,395230.0,30780.0,,,,4500.0,132400.0
-Washington,Retail Trade,336610.0,37300.0,30.0,123170.0,0.01,4160.0,135850.0
-West Virginia,Retail Trade,79280.0,28200.0,,,,70.0,67010.0
-Wisconsin,Retail Trade,292520.0,30960.0,,,,2740.0,95410.0
-Wyoming,Retail Trade,30260.0,31030.0,,,,40.0,139970.0
-Alabama,Transportation and Warehousing,90690.0,,,,,,85870.0
-Alaska,Transportation and Warehousing,21550.0,59100.0,,,,150.0,100040.0
-Arizona,Transportation and Warehousing,148460.0,47000.0,,,,2860.0,102770.0
-Arkansas,Transportation and Warehousing,69310.0,44780.0,,,,,
-California,Transportation and Warehousing,843440.0,47530.0,210.0,171190.0,0.02,29420.0,126810.0
-Colorado,Transportation and Warehousing,113900.0,47420.0,,,,3540.0,103200.0
-Connecticut,Transportation and Warehousing,75050.0,46070.0,,,,950.0,105700.0
-Delaware,Transportation and Warehousing,23290.0,50040.0,,,,480.0,132300.0
-Florida,Transportation and Warehousing,436880.0,45140.0,140.0,105740.0,0.03,8190.0,100520.0
-Georgia,Transportation and Warehousing,277210.0,46700.0,,,,5650.0,100400.0
-Idaho,Transportation and Warehousing,31850.0,46350.0,,,,250.0,96490.0
-Illinois,Transportation and Warehousing,353480.0,49640.0,,,,6350.0,103730.0
-Indiana,Transportation and Warehousing,177970.0,46490.0,,,,2200.0,75970.0
-Iowa,Transportation and Warehousing,74440.0,47640.0,,,,1970.0,94860.0
-Kansas,Transportation and Warehousing,75330.0,47680.0,,,,430.0,88860.0
-Kentucky,Transportation and Warehousing,137950.0,47600.0,,,,,81990.0
-Louisiana,Transportation and Warehousing,87680.0,48990.0,,,,580.0,65410.0
-Maine,Transportation and Warehousing,20070.0,,,,,800.0,95700.0
-Massachusetts,Transportation and Warehousing,110580.0,48950.0,,,,,106070.0
-Michigan,Transportation and Warehousing,177210.0,50160.0,,,,3900.0,85470.0
-Minnesota,Transportation and Warehousing,111480.0,49840.0,,,,1600.0,106920.0
-Mississippi,Transportation and Warehousing,65160.0,46230.0,,,,,56950.0
-Missouri,Transportation and Warehousing,130860.0,47990.0,60.0,76140.0,0.05,4020.0,78780.0
-Montana,Transportation and Warehousing,18030.0,,,,,90.0,75200.0
-Nebraska,Transportation and Warehousing,53880.0,60150.0,,,,1310.0,84490.0
-Nevada,Transportation and Warehousing,96130.0,43720.0,,,,850.0,82110.0
-New Hampshire,Transportation and Warehousing,19870.0,47510.0,,,,620.0,77620.0
-New Jersey,Transportation and Warehousing,270430.0,45620.0,,,,3030.0,129210.0
-New York,Transportation and Warehousing,342120.0,49130.0,,,,14760.0,124030.0
-North Carolina,Transportation and Warehousing,209720.0,44260.0,,,,5350.0,121970.0
-North Dakota,Transportation and Warehousing,19630.0,55150.0,,,,150.0,91050.0
-Ohio,Transportation and Warehousing,278930.0,47840.0,30.0,84990.0,0.01,3650.0,88950.0
-Oklahoma,Transportation and Warehousing,77760.0,47900.0,,,,1740.0,79720.0
-Oregon,Transportation and Warehousing,81200.0,47200.0,,,,1610.0,102530.0
-Pennsylvania,Transportation and Warehousing,341560.0,46780.0,50.0,60150.0,0.02,6370.0,91330.0
-Rhode Island,Transportation and Warehousing,14490.0,,,,,620.0,109240.0
-South Carolina,Transportation and Warehousing,93570.0,43130.0,,,,1180.0,99370.0
-South Dakota,Transportation and Warehousing,14060.0,,,,,110.0,108310.0
-Tennessee,Transportation and Warehousing,214720.0,45210.0,,,,1210.0,94690.0
-Texas,Transportation and Warehousing,674970.0,47220.0,440.0,58530.0,0.06,13780.0,99350.0
-Utah,Transportation and Warehousing,73980.0,46990.0,30.0,75860.0,0.04,3070.0,81250.0
-Vermont,Transportation and Warehousing,8290.0,,,,,150.0,
-Washington,Transportation and Warehousing,135220.0,53040.0,,,,4160.0,135850.0
-Wisconsin,Transportation and Warehousing,130340.0,47800.0,,,,2740.0,95410.0
-Wyoming,Transportation and Warehousing,12570.0,52690.0,,,,40.0,139970.0
-Alabama,Information,22750.0,52990.0,60.0,59750.0,0.25,,85870.0
-Alaska,Information,4690.0,72280.0,,,,150.0,100040.0
-Arizona,Information,51720.0,65470.0,150.0,137490.0,0.29,2860.0,102770.0
-Arkansas,Information,12290.0,55110.0,,,,,
-California,Information,603870.0,111690.0,5630.0,166430.0,0.93,29420.0,126810.0
-Colorado,Information,73520.0,86420.0,630.0,112210.0,0.85,3540.0,103200.0
-Connecticut,Information,31370.0,80500.0,280.0,83450.0,0.9,950.0,105700.0
-Delaware,Information,3900.0,62100.0,,,,480.0,132300.0
-District of Columbia,Information,20900.0,93440.0,170.0,,0.81,3200.0,97660.0
-Florida,Information,152020.0,63770.0,1420.0,127810.0,0.93,8190.0,100520.0
-Georgia,Information,127810.0,79900.0,430.0,118580.0,0.33,5650.0,100400.0
-Hawaii,Information,7650.0,73790.0,,,,90.0,112330.0
-Idaho,Information,9040.0,47530.0,,,,250.0,96490.0
-Illinois,Information,95600.0,71850.0,280.0,132440.0,0.29,6350.0,103730.0
-Indiana,Information,26830.0,48870.0,50.0,81240.0,0.18,2200.0,75970.0
-Iowa,Information,19270.0,53020.0,60.0,101610.0,0.3,1970.0,94860.0
-Kansas,Information,18520.0,61980.0,250.0,88860.0,1.36,430.0,88860.0
-Kentucky,Information,20660.0,47730.0,50.0,77260.0,0.25,,81990.0
-Louisiana,Information,22670.0,50020.0,,,,580.0,65410.0
-Maine,Information,7370.0,58090.0,260.0,131190.0,3.46,800.0,95700.0
-Maryland,Information,34940.0,77700.0,90.0,107120.0,0.25,2010.0,117730.0
-Massachusetts,Information,95100.0,98120.0,370.0,121140.0,0.39,,106070.0
-Michigan,Information,54870.0,59950.0,240.0,70960.0,0.44,3900.0,85470.0
-Minnesota,Information,44890.0,65100.0,40.0,99800.0,0.09,1600.0,106920.0
-Mississippi,Information,9820.0,46510.0,40.0,57990.0,0.39,,56950.0
-Missouri,Information,47420.0,58280.0,,55440.0,,4020.0,78780.0
-Montana,Information,5800.0,50750.0,,,,90.0,75200.0
-Nebraska,Information,17890.0,62570.0,250.0,87310.0,1.39,1310.0,84490.0
-Nevada,Information,16590.0,64010.0,,133480.0,,850.0,82110.0
-New Hampshire,Information,11670.0,81580.0,100.0,,0.85,620.0,77620.0
-New Jersey,Information,78970.0,96420.0,,162110.0,,3030.0,129210.0
-New Mexico,Information,10710.0,54240.0,,,,330.0,78790.0
-New York,Information,288060.0,99300.0,3080.0,130870.0,1.07,14760.0,124030.0
-North Carolina,Information,73890.0,73550.0,410.0,109270.0,0.56,5350.0,121970.0
-North Dakota,Information,5810.0,60860.0,,,,150.0,91050.0
-Ohio,Information,68470.0,59350.0,,67780.0,,3650.0,88950.0
-Oklahoma,Information,18250.0,48810.0,,,,1740.0,79720.0
-Oregon,Information,36500.0,77510.0,130.0,94630.0,0.35,1610.0,102530.0
-Pennsylvania,Information,91540.0,62520.0,170.0,78990.0,0.19,6370.0,91330.0
-Rhode Island,Information,5890.0,83500.0,,,,620.0,109240.0
-South Carolina,Information,29390.0,58210.0,110.0,78280.0,0.37,1180.0,99370.0
-South Dakota,Information,5230.0,44680.0,,,,110.0,108310.0
-Tennessee,Information,51710.0,60800.0,160.0,128290.0,0.3,1210.0,94690.0
-Texas,Information,220710.0,61810.0,1490.0,102520.0,0.67,13780.0,99350.0
-Utah,Information,42870.0,70000.0,310.0,94630.0,0.72,3070.0,81250.0
-Vermont,Information,4240.0,54850.0,,,,150.0,
-Virginia,Information,68810.0,82350.0,140.0,143520.0,0.2,4500.0,132400.0
-Washington,Information,169060.0,135340.0,1670.0,169360.0,0.99,4160.0,135850.0
-West Virginia,Information,7770.0,57020.0,,,,70.0,67010.0
-Wisconsin,Information,45970.0,62500.0,670.0,76410.0,1.47,2740.0,95410.0
-Wyoming,Information,3090.0,48240.0,,,,40.0,139970.0
-Alabama,Finance and Insurance,72640.0,48240.0,80.0,48750.0,0.11,,85870.0
-Alaska,Finance and Insurance,6400.0,53070.0,,,,150.0,100040.0
-Arizona,Finance and Insurance,178290.0,59600.0,510.0,120380.0,0.28,2860.0,102770.0
-Arkansas,Finance and Insurance,40550.0,46850.0,,,,,
-California,Finance and Insurance,538910.0,73480.0,2220.0,140070.0,0.41,29420.0,126810.0
-Colorado,Finance and Insurance,117180.0,65670.0,440.0,103150.0,0.37,3540.0,103200.0
-Connecticut,Finance and Insurance,97080.0,94590.0,330.0,130530.0,0.34,950.0,105700.0
-Delaware,Finance and Insurance,40610.0,82070.0,420.0,132350.0,1.03,480.0,132300.0
-District of Columbia,Finance and Insurance,14710.0,100820.0,230.0,97960.0,1.57,3200.0,97660.0
-Florida,Finance and Insurance,439160.0,60370.0,1210.0,100310.0,0.28,8190.0,100520.0
-Georgia,Finance and Insurance,180940.0,60380.0,740.0,105160.0,0.41,5650.0,100400.0
-Hawaii,Finance and Insurance,15450.0,58660.0,50.0,100400.0,0.3,90.0,112330.0
-Idaho,Finance and Insurance,28000.0,49020.0,40.0,84790.0,0.15,250.0,96490.0
-Illinois,Finance and Insurance,299980.0,67310.0,2190.0,106400.0,0.73,6350.0,103730.0
-Indiana,Finance and Insurance,100980.0,50810.0,310.0,65090.0,0.31,2200.0,75970.0
-Iowa,Finance and Insurance,89080.0,62070.0,920.0,106900.0,1.03,1970.0,94860.0
-Kansas,Finance and Insurance,58090.0,57460.0,,,,430.0,88860.0
-Kentucky,Finance and Insurance,74810.0,57660.0,,81990.0,,,81990.0
-Louisiana,Finance and Insurance,54310.0,46540.0,,,,580.0,65410.0
-Maine,Finance and Insurance,23210.0,59640.0,100.0,76750.0,0.45,800.0,95700.0
-Maryland,Finance and Insurance,86450.0,71950.0,70.0,128460.0,0.08,2010.0,117730.0
-Massachusetts,Finance and Insurance,166690.0,84100.0,1520.0,128340.0,0.91,,106070.0
-Michigan,Finance and Insurance,163670.0,58170.0,410.0,82470.0,0.25,3900.0,85470.0
-Minnesota,Finance and Insurance,137790.0,68130.0,560.0,120250.0,0.41,1600.0,106920.0
-Mississippi,Finance and Insurance,31990.0,43250.0,,,,,56950.0
-Missouri,Finance and Insurance,133310.0,56490.0,700.0,77710.0,0.52,4020.0,78780.0
-Montana,Finance and Insurance,16710.0,47710.0,,,,90.0,75200.0
-Nebraska,Finance and Insurance,53570.0,57410.0,120.0,97940.0,0.22,1310.0,84490.0
-Nevada,Finance and Insurance,41340.0,49310.0,130.0,84880.0,0.32,850.0,82110.0
-New Hampshire,Finance and Insurance,26800.0,64070.0,90.0,110490.0,0.35,620.0,77620.0
-New Jersey,Finance and Insurance,179750.0,81660.0,,139110.0,,3030.0,129210.0
-New Mexico,Finance and Insurance,23290.0,47840.0,70.0,91000.0,0.28,330.0,78790.0
-New York,Finance and Insurance,489990.0,103960.0,2570.0,159300.0,0.52,14760.0,124030.0
-North Carolina,Finance and Insurance,214910.0,76560.0,1980.0,136230.0,0.92,5350.0,121970.0
-North Dakota,Finance and Insurance,17000.0,55480.0,,,,150.0,91050.0
-Ohio,Finance and Insurance,233540.0,60810.0,690.0,97880.0,0.3,3650.0,88950.0
-Oklahoma,Finance and Insurance,57010.0,47470.0,80.0,85030.0,0.14,1740.0,79720.0
-Oregon,Finance and Insurance,53900.0,58920.0,60.0,113100.0,0.11,1610.0,102530.0
-Pennsylvania,Finance and Insurance,260460.0,63130.0,1540.0,100820.0,0.59,6370.0,91330.0
-Rhode Island,Finance and Insurance,23720.0,67720.0,80.0,133840.0,0.34,620.0,109240.0
-South Carolina,Finance and Insurance,77280.0,49770.0,340.0,99690.0,0.43,1180.0,99370.0
-South Dakota,Finance and Insurance,23190.0,48960.0,70.0,105820.0,0.32,110.0,108310.0
-Tennessee,Finance and Insurance,124020.0,51600.0,130.0,107240.0,0.11,1210.0,94690.0
-Texas,Finance and Insurance,603090.0,58690.0,1890.0,107720.0,0.31,13780.0,99350.0
-Utah,Finance and Insurance,75280.0,52190.0,430.0,89550.0,0.57,3070.0,81250.0
-Vermont,Finance and Insurance,8650.0,58640.0,,,,150.0,
-Virginia,Finance and Insurance,144200.0,63260.0,500.0,142580.0,0.35,4500.0,132400.0
-Washington,Finance and Insurance,99620.0,62180.0,210.0,128640.0,0.21,4160.0,135850.0
-West Virginia,Finance and Insurance,17940.0,39810.0,,,,70.0,67010.0
-Wisconsin,Finance and Insurance,124100.0,58110.0,500.0,101600.0,0.41,2740.0,95410.0
-Wyoming,Finance and Insurance,7450.0,46340.0,,,,40.0,139970.0
-Alabama,Real Estate and Rental and Leasing,25050.0,39260.0,,,,,85870.0
-Alaska,Real Estate and Rental and Leasing,4370.0,47530.0,,,,150.0,100040.0
-Arizona,Real Estate and Rental and Leasing,58540.0,47150.0,,,,2860.0,102770.0
-Arkansas,Real Estate and Rental and Leasing,14680.0,34860.0,,,,,
-California,Real Estate and Rental and Leasing,307310.0,49220.0,70.0,122650.0,0.02,29420.0,126810.0
-Colorado,Real Estate and Rental and Leasing,57200.0,50570.0,,,,3540.0,103200.0
-Connecticut,Real Estate and Rental and Leasing,18710.0,54420.0,,,,950.0,105700.0
-Delaware,Real Estate and Rental and Leasing,5910.0,45450.0,,,,480.0,132300.0
-District of Columbia,Real Estate and Rental and Leasing,12590.0,61760.0,,,,3200.0,97660.0
-Florida,Real Estate and Rental and Leasing,208170.0,42080.0,50.0,96490.0,0.02,8190.0,100520.0
-Georgia,Real Estate and Rental and Leasing,76160.0,45510.0,,,,5650.0,100400.0
-Hawaii,Real Estate and Rental and Leasing,11750.0,47610.0,,,,90.0,112330.0
-Idaho,Real Estate and Rental and Leasing,10410.0,38180.0,,,,250.0,96490.0
-Illinois,Real Estate and Rental and Leasing,80280.0,45970.0,110.0,101730.0,0.13,6350.0,103730.0
-Indiana,Real Estate and Rental and Leasing,35790.0,40200.0,,,,2200.0,75970.0
-Iowa,Real Estate and Rental and Leasing,14880.0,43280.0,,,,1970.0,94860.0
-Kansas,Real Estate and Rental and Leasing,15340.0,38620.0,,,,430.0,88860.0
-Kentucky,Real Estate and Rental and Leasing,20850.0,37120.0,,,,,81990.0
-Louisiana,Real Estate and Rental and Leasing,29580.0,38840.0,,,,580.0,65410.0
-Maine,Real Estate and Rental and Leasing,7170.0,44760.0,,,,800.0,95700.0
-Maryland,Real Estate and Rental and Leasing,42200.0,49290.0,,,,2010.0,117730.0
-Massachusetts,Real Estate and Rental and Leasing,47670.0,59250.0,,,,,106070.0
-Michigan,Real Estate and Rental and Leasing,55450.0,44590.0,,,,3900.0,85470.0
-Minnesota,Real Estate and Rental and Leasing,35160.0,47380.0,,,,1600.0,106920.0
-Mississippi,Real Estate and Rental and Leasing,11420.0,36270.0,,,,,56950.0
-Missouri,Real Estate and Rental and Leasing,40320.0,39900.0,,,,4020.0,78780.0
-Montana,Real Estate and Rental and Leasing,6970.0,40220.0,,,,90.0,75200.0
-Nebraska,Real Estate and Rental and Leasing,10750.0,41180.0,,,,1310.0,84490.0
-Nevada,Real Estate and Rental and Leasing,28210.0,43380.0,,,,850.0,82110.0
-New Hampshire,Real Estate and Rental and Leasing,6920.0,48300.0,,,,620.0,77620.0
-New Jersey,Real Estate and Rental and Leasing,60950.0,52600.0,,,,3030.0,129210.0
-New Mexico,Real Estate and Rental and Leasing,10240.0,38950.0,,,,330.0,78790.0
-New York,Real Estate and Rental and Leasing,192430.0,55590.0,130.0,172560.0,0.07,14760.0,124030.0
-North Carolina,Real Estate and Rental and Leasing,67500.0,43780.0,,,,5350.0,121970.0
-North Dakota,Real Estate and Rental and Leasing,5080.0,46560.0,,,,150.0,91050.0
-Ohio,Real Estate and Rental and Leasing,66090.0,42250.0,,,,3650.0,88950.0
-Oklahoma,Real Estate and Rental and Leasing,21310.0,35920.0,,,,1740.0,79720.0
-Oregon,Real Estate and Rental and Leasing,29190.0,45400.0,,,,1610.0,102530.0
-Pennsylvania,Real Estate and Rental and Leasing,66850.0,45410.0,,,,6370.0,91330.0
-Rhode Island,Real Estate and Rental and Leasing,6460.0,47560.0,,,,620.0,109240.0
-South Carolina,Real Estate and Rental and Leasing,33080.0,41810.0,,,,1180.0,99370.0
-South Dakota,Real Estate and Rental and Leasing,4240.0,39530.0,,,,110.0,108310.0
-Tennessee,Real Estate and Rental and Leasing,41320.0,38990.0,,,,1210.0,94690.0
-Texas,Real Estate and Rental and Leasing,237530.0,43860.0,,78850.0,,13780.0,99350.0
-Utah,Real Estate and Rental and Leasing,22780.0,45400.0,,,,3070.0,81250.0
-Vermont,Real Estate and Rental and Leasing,3110.0,47200.0,,,,150.0,
-Virginia,Real Estate and Rental and Leasing,56640.0,47740.0,,,,4500.0,132400.0
-Washington,Real Estate and Rental and Leasing,55230.0,51160.0,30.0,127330.0,0.06,4160.0,135850.0
-West Virginia,Real Estate and Rental and Leasing,6720.0,36780.0,,,,70.0,67010.0
-Wisconsin,Real Estate and Rental and Leasing,26630.0,43510.0,,,,2740.0,95410.0
-Wyoming,Real Estate and Rental and Leasing,4050.0,43750.0,,,,40.0,139970.0
-Alabama,"Professional, Scientific, and Technical Services",117090.0,70910.0,640.0,98270.0,0.55,,85870.0
-Alaska,"Professional, Scientific, and Technical Services",12890.0,76800.0,,,,150.0,100040.0
-Arizona,"Professional, Scientific, and Technical Services",176040.0,65290.0,1170.0,102240.0,0.66,2860.0,102770.0
-Arkansas,"Professional, Scientific, and Technical Services",46960.0,51240.0,,,,,
-California,"Professional, Scientific, and Technical Services",1420730.0,96420.0,9350.0,127970.0,0.66,29420.0,126810.0
-Colorado,"Professional, Scientific, and Technical Services",274650.0,92770.0,1120.0,120790.0,0.41,3540.0,103200.0
-Connecticut,"Professional, Scientific, and Technical Services",96210.0,82580.0,170.0,77320.0,0.18,950.0,105700.0
-Delaware,"Professional, Scientific, and Technical Services",26720.0,78750.0,,,,480.0,132300.0
-District of Columbia,"Professional, Scientific, and Technical Services",123970.0,108870.0,2330.0,98670.0,1.88,3200.0,97660.0
-Florida,"Professional, Scientific, and Technical Services",695950.0,62470.0,2620.0,99330.0,0.38,8190.0,100520.0
-Georgia,"Professional, Scientific, and Technical Services",307090.0,74320.0,1860.0,87130.0,0.61,5650.0,100400.0
-Hawaii,"Professional, Scientific, and Technical Services",25660.0,70310.0,,,,90.0,112330.0
-Idaho,"Professional, Scientific, and Technical Services",47570.0,62390.0,,96550.0,,250.0,96490.0
-Illinois,"Professional, Scientific, and Technical Services",442200.0,80000.0,1640.0,105660.0,0.37,6350.0,103730.0
-Indiana,"Professional, Scientific, and Technical Services",139310.0,59760.0,540.0,81790.0,0.39,2200.0,75970.0
-Iowa,"Professional, Scientific, and Technical Services",55160.0,60440.0,180.0,77830.0,0.33,1970.0,94860.0
-Kansas,"Professional, Scientific, and Technical Services",75330.0,61820.0,,92510.0,,430.0,88860.0
-Kentucky,"Professional, Scientific, and Technical Services",84100.0,53680.0,360.0,89110.0,0.43,,81990.0
-Louisiana,"Professional, Scientific, and Technical Services",92560.0,57970.0,,61510.0,,580.0,65410.0
-Maine,"Professional, Scientific, and Technical Services",31560.0,64480.0,140.0,78950.0,0.46,800.0,95700.0
-Maryland,"Professional, Scientific, and Technical Services",274900.0,93610.0,1400.0,127560.0,0.51,2010.0,117730.0
-Massachusetts,"Professional, Scientific, and Technical Services",372090.0,103060.0,2750.0,102170.0,0.74,,106070.0
-Michigan,"Professional, Scientific, and Technical Services",309510.0,76560.0,1390.0,101840.0,0.45,3900.0,85470.0
-Minnesota,"Professional, Scientific, and Technical Services",167000.0,77690.0,350.0,107150.0,0.21,1600.0,106920.0
-Mississippi,"Professional, Scientific, and Technical Services",36270.0,49620.0,110.0,41750.0,0.31,,56950.0
-Missouri,"Professional, Scientific, and Technical Services",170330.0,62890.0,1570.0,64820.0,0.92,4020.0,78780.0
-Montana,"Professional, Scientific, and Technical Services",27000.0,61290.0,50.0,50230.0,0.19,90.0,75200.0
-Nebraska,"Professional, Scientific, and Technical Services",48230.0,59990.0,300.0,100120.0,0.61,1310.0,84490.0
-Nevada,"Professional, Scientific, and Technical Services",65960.0,65000.0,380.0,,0.57,850.0,82110.0
-New Hampshire,"Professional, Scientific, and Technical Services",46550.0,79280.0,230.0,82190.0,0.5,620.0,77620.0
-New Jersey,"Professional, Scientific, and Technical Services",338100.0,92710.0,1290.0,128320.0,0.38,3030.0,129210.0
-New Mexico,"Professional, Scientific, and Technical Services",63360.0,79470.0,40.0,,0.06,330.0,78790.0
-New York,"Professional, Scientific, and Technical Services",690420.0,86270.0,4790.0,118710.0,0.69,14760.0,124030.0
-North Carolina,"Professional, Scientific, and Technical Services",319090.0,75800.0,1440.0,110370.0,0.45,5350.0,121970.0
-North Dakota,"Professional, Scientific, and Technical Services",16650.0,61100.0,,,,150.0,91050.0
-Ohio,"Professional, Scientific, and Technical Services",281490.0,68340.0,790.0,105640.0,0.28,3650.0,88950.0
-Oklahoma,"Professional, Scientific, and Technical Services",73430.0,55410.0,540.0,69260.0,0.73,1740.0,79720.0
-Oregon,"Professional, Scientific, and Technical Services",106840.0,74940.0,430.0,63230.0,0.4,1610.0,102530.0
-Pennsylvania,"Professional, Scientific, and Technical Services",385560.0,71690.0,2540.0,91300.0,0.66,6370.0,91330.0
-Rhode Island,"Professional, Scientific, and Technical Services",30270.0,78310.0,120.0,128160.0,0.39,620.0,109240.0
-South Carolina,"Professional, Scientific, and Technical Services",115480.0,59970.0,210.0,95560.0,0.19,1180.0,99370.0
-South Dakota,"Professional, Scientific, and Technical Services",17270.0,58550.0,30.0,108310.0,0.19,110.0,108310.0
-Tennessee,"Professional, Scientific, and Technical Services",163110.0,62040.0,340.0,80000.0,0.21,1210.0,94690.0
-Texas,"Professional, Scientific, and Technical Services",965410.0,73010.0,5300.0,89710.0,0.55,13780.0,99350.0
-Utah,"Professional, Scientific, and Technical Services",129550.0,64300.0,1480.0,74170.0,1.14,3070.0,81250.0
-Vermont,"Professional, Scientific, and Technical Services",17080.0,74450.0,,183810.0,,150.0,
-Virginia,"Professional, Scientific, and Technical Services",449220.0,99060.0,2750.0,137620.0,0.61,4500.0,132400.0
-Washington,"Professional, Scientific, and Technical Services",240030.0,84480.0,940.0,132960.0,0.39,4160.0,135850.0
-West Virginia,"Professional, Scientific, and Technical Services",27750.0,50060.0,,,,70.0,67010.0
-Wisconsin,"Professional, Scientific, and Technical Services",121170.0,64080.0,660.0,96900.0,0.54,2740.0,95410.0
-Wyoming,"Professional, Scientific, and Technical Services",10610.0,59530.0,,,,40.0,139970.0
-Alabama,Management of Companies and Enterprises,21660.0,69000.0,50.0,101560.0,0.24,,85870.0
-Alaska,Management of Companies and Enterprises,2790.0,64440.0,,,,150.0,100040.0
-Arizona,Management of Companies and Enterprises,39990.0,67810.0,180.0,105020.0,0.44,2860.0,102770.0
-Arkansas,Management of Companies and Enterprises,36640.0,81740.0,,,,,
-California,Management of Companies and Enterprises,251990.0,94910.0,2900.0,133920.0,1.15,29420.0,126810.0
-Colorado,Management of Companies and Enterprises,59140.0,85830.0,210.0,106520.0,0.35,3540.0,103200.0
-Connecticut,Management of Companies and Enterprises,37970.0,88080.0,40.0,134010.0,0.09,950.0,105700.0
-Delaware,Management of Companies and Enterprises,10680.0,105050.0,,,,480.0,132300.0
-District of Columbia,Management of Companies and Enterprises,2950.0,104290.0,,,,3200.0,97660.0
-Florida,Management of Companies and Enterprises,130980.0,64680.0,610.0,81850.0,0.47,8190.0,100520.0
-Georgia,Management of Companies and Enterprises,106440.0,83160.0,840.0,124610.0,0.79,5650.0,100400.0
-Hawaii,Management of Companies and Enterprises,8420.0,66270.0,,,,90.0,112330.0
-Idaho,Management of Companies and Enterprises,8660.0,68600.0,,,,250.0,96490.0
-Illinois,Management of Companies and Enterprises,89880.0,84310.0,640.0,106670.0,0.71,6350.0,103730.0
-Indiana,Management of Companies and Enterprises,35700.0,61050.0,210.0,76670.0,0.58,2200.0,75970.0
-Iowa,Management of Companies and Enterprises,28830.0,64590.0,240.0,103490.0,0.85,1970.0,94860.0
-Kansas,Management of Companies and Enterprises,21670.0,77480.0,70.0,92840.0,0.31,430.0,88860.0
-Kentucky,Management of Companies and Enterprises,21080.0,60430.0,90.0,98580.0,0.43,,81990.0
-Louisiana,Management of Companies and Enterprises,21220.0,60510.0,,,,580.0,65410.0
-Maine,Management of Companies and Enterprises,15300.0,62550.0,100.0,92120.0,0.67,800.0,95700.0
-Maryland,Management of Companies and Enterprises,30670.0,82360.0,,,,2010.0,117730.0
-Massachusetts,Management of Companies and Enterprises,67930.0,80220.0,230.0,120270.0,0.34,,106070.0
-Michigan,Management of Companies and Enterprises,75830.0,84200.0,470.0,101710.0,0.62,3900.0,85470.0
-Minnesota,Management of Companies and Enterprises,91730.0,85150.0,430.0,104540.0,0.47,1600.0,106920.0
-Mississippi,Management of Companies and Enterprises,12390.0,61940.0,,,,,56950.0
-Missouri,Management of Companies and Enterprises,61110.0,74710.0,370.0,105000.0,0.6,4020.0,78780.0
-Montana,Management of Companies and Enterprises,2110.0,53040.0,,,,90.0,75200.0
-Nebraska,Management of Companies and Enterprises,21250.0,76480.0,210.0,86020.0,0.99,1310.0,84490.0
-Nevada,Management of Companies and Enterprises,28290.0,64560.0,110.0,95070.0,0.37,850.0,82110.0
-New Hampshire,Management of Companies and Enterprises,11650.0,65630.0,40.0,98980.0,0.32,620.0,77620.0
-New Jersey,Management of Companies and Enterprises,93660.0,117410.0,330.0,129720.0,0.36,3030.0,129210.0
-New Mexico,Management of Companies and Enterprises,5760.0,59480.0,,,,330.0,78790.0
-New York,Management of Companies and Enterprises,167030.0,100660.0,1070.0,108090.0,0.64,14760.0,124030.0
-North Carolina,Management of Companies and Enterprises,93810.0,85090.0,510.0,129690.0,0.54,5350.0,121970.0
-North Dakota,Management of Companies and Enterprises,4200.0,74260.0,,,,150.0,91050.0
-Ohio,Management of Companies and Enterprises,144670.0,77790.0,760.0,99540.0,0.53,3650.0,88950.0
-Oklahoma,Management of Companies and Enterprises,28050.0,66820.0,270.0,110850.0,0.97,1740.0,79720.0
-Oregon,Management of Companies and Enterprises,50140.0,82000.0,170.0,110670.0,0.33,1610.0,102530.0
-Pennsylvania,Management of Companies and Enterprises,146270.0,76740.0,750.0,96740.0,0.51,6370.0,91330.0
-Rhode Island,Management of Companies and Enterprises,14940.0,84240.0,260.0,118080.0,1.72,620.0,109240.0
-South Carolina,Management of Companies and Enterprises,25480.0,64380.0,130.0,104600.0,0.51,1180.0,99370.0
-South Dakota,Management of Companies and Enterprises,5350.0,63820.0,,,,110.0,108310.0
-Tennessee,Management of Companies and Enterprises,58510.0,62040.0,170.0,102700.0,0.29,1210.0,94690.0
-Texas,Management of Companies and Enterprises,199420.0,86690.0,850.0,102490.0,0.43,13780.0,99350.0
-Utah,Management of Companies and Enterprises,20330.0,64380.0,120.0,85990.0,0.57,3070.0,81250.0
-Vermont,Management of Companies and Enterprises,2670.0,70520.0,,,,150.0,
-Virginia,Management of Companies and Enterprises,87190.0,90890.0,620.0,111010.0,0.71,4500.0,132400.0
-Washington,Management of Companies and Enterprises,106900.0,66640.0,670.0,,0.63,4160.0,135850.0
-West Virginia,Management of Companies and Enterprises,7720.0,55800.0,,,,70.0,67010.0
-Wisconsin,Management of Companies and Enterprises,65530.0,72380.0,370.0,102090.0,0.56,2740.0,95410.0
-Wyoming,Management of Companies and Enterprises,960.0,88450.0,,,,40.0,139970.0
-Alabama,Administrative and Support and Waste Management and Remediation Services,128590.0,30050.0,,,,,85870.0
-Alaska,Administrative and Support and Waste Management and Remediation Services,11070.0,46760.0,,,,150.0,100040.0
-Arizona,Administrative and Support and Waste Management and Remediation Services,249760.0,36720.0,,182640.0,,2860.0,102770.0
-Arkansas,Administrative and Support and Waste Management and Remediation Services,68330.0,30660.0,,,,,
-California,Administrative and Support and Waste Management and Remediation Services,1179660.0,40060.0,2530.0,75400.0,0.21,29420.0,126810.0
-Colorado,Administrative and Support and Waste Management and Remediation Services,157170.0,41320.0,120.0,79990.0,0.08,3540.0,103200.0
-Connecticut,Administrative and Support and Waste Management and Remediation Services,89030.0,38240.0,,93530.0,,950.0,105700.0
-Delaware,Administrative and Support and Waste Management and Remediation Services,30470.0,36250.0,,,,480.0,132300.0
-District of Columbia,Administrative and Support and Waste Management and Remediation Services,47640.0,50140.0,130.0,97150.0,0.28,3200.0,97660.0
-Florida,Administrative and Support and Waste Management and Remediation Services,735420.0,35850.0,650.0,98520.0,0.09,8190.0,100520.0
-Georgia,Administrative and Support and Waste Management and Remediation Services,363540.0,34980.0,570.0,130210.0,0.16,5650.0,100400.0
-Hawaii,Administrative and Support and Waste Management and Remediation Services,36150.0,36140.0,,,,90.0,112330.0
-Idaho,Administrative and Support and Waste Management and Remediation Services,49430.0,37090.0,,,,250.0,96490.0
-Illinois,Administrative and Support and Waste Management and Remediation Services,448510.0,36420.0,,103340.0,,6350.0,103730.0
-Indiana,Administrative and Support and Waste Management and Remediation Services,192000.0,35320.0,110.0,52420.0,0.06,2200.0,75970.0
-Iowa,Administrative and Support and Waste Management and Remediation Services,67470.0,36100.0,50.0,89290.0,0.07,1970.0,94860.0
-Kansas,Administrative and Support and Waste Management and Remediation Services,81830.0,36430.0,,,,430.0,88860.0
-Kentucky,Administrative and Support and Waste Management and Remediation Services,123670.0,34850.0,200.0,75650.0,0.16,,81990.0
-Louisiana,Administrative and Support and Waste Management and Remediation Services,104850.0,31560.0,,,,580.0,65410.0
-Maine,Administrative and Support and Waste Management and Remediation Services,29510.0,38570.0,,,,800.0,95700.0
-Maryland,Administrative and Support and Waste Management and Remediation Services,172320.0,41030.0,50.0,69610.0,0.03,2010.0,117730.0
-Massachusetts,Administrative and Support and Waste Management and Remediation Services,192300.0,45800.0,220.0,103840.0,0.11,,106070.0
-Michigan,Administrative and Support and Waste Management and Remediation Services,279720.0,36460.0,160.0,90760.0,0.06,3900.0,85470.0
-Minnesota,Administrative and Support and Waste Management and Remediation Services,133900.0,38190.0,,,,1600.0,106920.0
-Mississippi,Administrative and Support and Waste Management and Remediation Services,72170.0,29390.0,40.0,62070.0,0.06,,56950.0
-Missouri,Administrative and Support and Waste Management and Remediation Services,153460.0,35570.0,430.0,92950.0,0.28,4020.0,78780.0
-Montana,Administrative and Support and Waste Management and Remediation Services,20270.0,39440.0,,,,90.0,75200.0
-Nebraska,Administrative and Support and Waste Management and Remediation Services,51640.0,36380.0,30.0,88940.0,0.06,1310.0,84490.0
-Nevada,Administrative and Support and Waste Management and Remediation Services,108880.0,35960.0,,,,850.0,82110.0
-New Hampshire,Administrative and Support and Waste Management and Remediation Services,37370.0,45220.0,,122950.0,,620.0,77620.0
-New Jersey,Administrative and Support and Waste Management and Remediation Services,299380.0,37440.0,190.0,106870.0,0.06,3030.0,129210.0
-New Mexico,Administrative and Support and Waste Management and Remediation Services,45770.0,36250.0,,,,330.0,78790.0
-New York,Administrative and Support and Waste Management and Remediation Services,501350.0,43060.0,650.0,85230.0,0.13,14760.0,124030.0
-North Carolina,Administrative and Support and Waste Management and Remediation Services,335140.0,34810.0,520.0,105020.0,0.16,5350.0,121970.0
-North Dakota,Administrative and Support and Waste Management and Remediation Services,12730.0,38530.0,,,,150.0,91050.0
-Ohio,Administrative and Support and Waste Management and Remediation Services,326120.0,35510.0,,,,3650.0,88950.0
-Oklahoma,Administrative and Support and Waste Management and Remediation Services,101230.0,33880.0,,,,1740.0,79720.0
-Oregon,Administrative and Support and Waste Management and Remediation Services,104290.0,39570.0,100.0,125670.0,0.1,1610.0,102530.0
-Pennsylvania,Administrative and Support and Waste Management and Remediation Services,313250.0,36080.0,270.0,61720.0,0.09,6370.0,91330.0
-Rhode Island,Administrative and Support and Waste Management and Remediation Services,29790.0,38620.0,,,,620.0,109240.0
-South Carolina,Administrative and Support and Waste Management and Remediation Services,169250.0,34010.0,110.0,194550.0,0.06,1180.0,99370.0
-South Dakota,Administrative and Support and Waste Management and Remediation Services,14420.0,35720.0,,,,110.0,108310.0
-Tennessee,Administrative and Support and Waste Management and Remediation Services,240330.0,34420.0,,,,1210.0,94690.0
-Texas,Administrative and Support and Waste Management and Remediation Services,903700.0,35660.0,1640.0,75920.0,0.18,13780.0,99350.0
-Utah,Administrative and Support and Waste Management and Remediation Services,95020.0,36440.0,110.0,69150.0,0.11,3070.0,81250.0
-Vermont,Administrative and Support and Waste Management and Remediation Services,12540.0,41600.0,,,,150.0,
-Virginia,Administrative and Support and Waste Management and Remediation Services,255190.0,37360.0,80.0,140450.0,0.03,4500.0,132400.0
-Washington,Administrative and Support and Waste Management and Remediation Services,181450.0,46630.0,200.0,118080.0,0.11,4160.0,135850.0
-West Virginia,Administrative and Support and Waste Management and Remediation Services,36230.0,32770.0,,,,70.0,67010.0
-Wisconsin,Administrative and Support and Waste Management and Remediation Services,138990.0,36140.0,140.0,85710.0,0.1,2740.0,95410.0
-Wyoming,Administrative and Support and Waste Management and Remediation Services,9180.0,37720.0,,,,40.0,139970.0
-Alabama,Educational Services,164970.0,48960.0,,,,,85870.0
-Alaska,Educational Services,29060.0,61030.0,,,,150.0,100040.0
-Arizona,Educational Services,236800.0,48260.0,120.0,65940.0,0.05,2860.0,102770.0
-Arkansas,Educational Services,104550.0,47030.0,,,,,
-California,Educational Services,1454700.0,62440.0,790.0,110380.0,0.05,29420.0,126810.0
-Colorado,Educational Services,229360.0,53130.0,60.0,80320.0,0.02,3540.0,103200.0
-Connecticut,Educational Services,176410.0,65140.0,,,,950.0,105700.0
-Delaware,Educational Services,41250.0,59330.0,,,,480.0,132300.0
-District of Columbia,Educational Services,54660.0,66390.0,,,,3200.0,97660.0
-Florida,Educational Services,628530.0,49000.0,300.0,49350.0,0.05,8190.0,100520.0
-Georgia,Educational Services,391680.0,52410.0,260.0,67680.0,0.07,5650.0,100400.0
-Hawaii,Educational Services,55470.0,51810.0,,,,90.0,112330.0
-Idaho,Educational Services,68000.0,46890.0,,,,250.0,96490.0
-Illinois,Educational Services,539110.0,55370.0,130.0,67060.0,0.02,6350.0,103730.0
-Indiana,Educational Services,248910.0,47840.0,250.0,74370.0,0.1,2200.0,75970.0
-Iowa,Educational Services,152580.0,48010.0,120.0,67290.0,0.08,1970.0,94860.0
-Kansas,Educational Services,137720.0,46860.0,,,,430.0,88860.0
-Kentucky,Educational Services,166920.0,48050.0,120.0,62200.0,0.07,,81990.0
-Louisiana,Educational Services,166650.0,48730.0,,,,580.0,65410.0
-Maine,Educational Services,60020.0,49120.0,40.0,70230.0,0.07,800.0,95700.0
-Maryland,Educational Services,265950.0,61180.0,,,,2010.0,117730.0
-Massachusetts,Educational Services,372080.0,67230.0,120.0,74950.0,0.03,,106070.0
-Michigan,Educational Services,337500.0,49480.0,140.0,79960.0,0.04,3900.0,85470.0
-Minnesota,Educational Services,233940.0,53350.0,,,,1600.0,106920.0
-Mississippi,Educational Services,108190.0,45650.0,,,,,56950.0
-Missouri,Educational Services,243500.0,48030.0,230.0,63910.0,0.09,4020.0,78780.0
-Montana,Educational Services,43340.0,47480.0,,,,90.0,75200.0
-Nebraska,Educational Services,92030.0,49300.0,120.0,77360.0,0.13,1310.0,84490.0
-Nevada,Educational Services,82690.0,51490.0,40.0,46970.0,0.05,850.0,82110.0
-New Hampshire,Educational Services,62380.0,56560.0,30.0,86930.0,0.05,620.0,77620.0
-New Jersey,Educational Services,383830.0,63450.0,,,,3030.0,129210.0
-New Mexico,Educational Services,76420.0,50490.0,,,,330.0,78790.0
-New York,Educational Services,977870.0,63220.0,320.0,84650.0,0.03,14760.0,124030.0
-North Carolina,Educational Services,390150.0,48160.0,,,,5350.0,121970.0
-North Dakota,Educational Services,37640.0,49030.0,,,,150.0,91050.0
-Ohio,Educational Services,435180.0,58870.0,120.0,60530.0,0.03,3650.0,88950.0
-Oklahoma,Educational Services,147870.0,46210.0,370.0,62640.0,0.25,1740.0,79720.0
-Oregon,Educational Services,155120.0,61980.0,,,,1610.0,102530.0
-Pennsylvania,Educational Services,487000.0,60260.0,40.0,85050.0,0.01,6370.0,91330.0
-Rhode Island,Educational Services,46820.0,63600.0,30.0,85710.0,0.07,620.0,109240.0
-South Carolina,Educational Services,174220.0,47600.0,40.0,77170.0,0.03,1180.0,99370.0
-South Dakota,Educational Services,37170.0,44990.0,,,,110.0,108310.0
-Tennessee,Educational Services,241010.0,48350.0,50.0,83100.0,0.02,1210.0,94690.0
-Texas,Educational Services,1266610.0,54280.0,250.0,102330.0,0.02,13780.0,99350.0
-Utah,Educational Services,153900.0,47950.0,180.0,98670.0,0.12,3070.0,81250.0
-Vermont,Educational Services,39160.0,51960.0,,,,150.0,
-Virginia,Educational Services,359890.0,52740.0,80.0,95630.0,0.02,4500.0,132400.0
-Washington,Educational Services,279630.0,63030.0,,,,4160.0,135850.0
-West Virginia,Educational Services,61480.0,47450.0,,,,70.0,67010.0
-Wisconsin,Educational Services,223000.0,51520.0,160.0,69090.0,0.07,2740.0,95410.0
-Wyoming,Educational Services,28580.0,49470.0,,,,40.0,139970.0
-Alabama,Health Care and Social Assistance,260940.0,38240.0,,,,,85870.0
-Alaska,Health Care and Social Assistance,48570.0,52260.0,40.0,88100.0,0.07,150.0,100040.0
-Arizona,Health Care and Social Assistance,414710.0,44600.0,220.0,89030.0,0.05,2860.0,102770.0
-Arkansas,Health Care and Social Assistance,184560.0,37200.0,,,,,
-California,Health Care and Social Assistance,2680270.0,46130.0,1040.0,98170.0,0.04,29420.0,126810.0
-Colorado,Health Care and Social Assistance,344530.0,49520.0,310.0,99070.0,0.09,3540.0,103200.0
-Connecticut,Health Care and Social Assistance,274700.0,46960.0,,,,950.0,105700.0
-Delaware,Health Care and Social Assistance,71240.0,45830.0,,,,480.0,132300.0
-District of Columbia,Health Care and Social Assistance,68190.0,56250.0,,,,3200.0,97660.0
-Florida,Health Care and Social Assistance,1239930.0,45160.0,440.0,75740.0,0.04,8190.0,100520.0
-Georgia,Health Care and Social Assistance,530860.0,45320.0,280.0,96010.0,0.05,5650.0,100400.0
-Hawaii,Health Care and Social Assistance,75440.0,49560.0,,,,90.0,112330.0
-Idaho,Health Care and Social Assistance,111490.0,39700.0,90.0,101330.0,0.08,250.0,96490.0
-Illinois,Health Care and Social Assistance,786900.0,45420.0,350.0,79880.0,0.04,6350.0,103730.0
-Indiana,Health Care and Social Assistance,436140.0,44270.0,300.0,82880.0,0.07,2200.0,75970.0
-Iowa,Health Care and Social Assistance,210790.0,41130.0,40.0,67620.0,0.02,1970.0,94860.0
-Kansas,Health Care and Social Assistance,198870.0,39620.0,,,,430.0,88860.0
-Kentucky,Health Care and Social Assistance,269510.0,42510.0,50.0,78750.0,0.02,,81990.0
-Louisiana,Health Care and Social Assistance,292920.0,38240.0,,,,580.0,65410.0
-Maine,Health Care and Social Assistance,102790.0,42980.0,50.0,85040.0,0.05,800.0,95700.0
-Maryland,Health Care and Social Assistance,359790.0,47790.0,80.0,85510.0,0.02,2010.0,117730.0
-Massachusetts,Health Care and Social Assistance,633170.0,50210.0,200.0,76910.0,0.03,,106070.0
-Michigan,Health Care and Social Assistance,613790.0,44060.0,350.0,67330.0,0.06,3900.0,85470.0
-Minnesota,Health Care and Social Assistance,482370.0,47600.0,60.0,103860.0,0.01,1600.0,106920.0
-Mississippi,Health Care and Social Assistance,158260.0,37550.0,30.0,49090.0,0.02,,56950.0
-Missouri,Health Care and Social Assistance,431380.0,38160.0,220.0,73330.0,0.05,4020.0,78780.0
-Montana,Health Care and Social Assistance,71230.0,41530.0,,,,90.0,75200.0
-Nebraska,Health Care and Social Assistance,132570.0,44120.0,130.0,81900.0,0.09,1310.0,84490.0
-Nevada,Health Care and Social Assistance,141980.0,46380.0,,,,850.0,82110.0
-New Hampshire,Health Care and Social Assistance,92410.0,49460.0,40.0,76410.0,0.04,620.0,77620.0
-New Jersey,Health Care and Social Assistance,600710.0,47320.0,40.0,97800.0,0.01,3030.0,129210.0
-New Mexico,Health Care and Social Assistance,130530.0,36100.0,80.0,78140.0,0.06,330.0,78790.0
-New York,Health Care and Social Assistance,1675200.0,45490.0,650.0,82950.0,0.04,14760.0,124030.0
-North Carolina,Health Care and Social Assistance,602590.0,43760.0,150.0,99210.0,0.02,5350.0,121970.0
-North Dakota,Health Care and Social Assistance,62120.0,45470.0,,,,150.0,91050.0
-Ohio,Health Care and Social Assistance,817650.0,43910.0,160.0,68590.0,0.02,3650.0,88950.0
-Oklahoma,Health Care and Social Assistance,210210.0,39160.0,180.0,84400.0,0.08,1740.0,79720.0
-Oregon,Health Care and Social Assistance,271220.0,46500.0,90.0,81900.0,0.03,1610.0,102530.0
-Pennsylvania,Health Care and Social Assistance,1015210.0,42260.0,310.0,78630.0,0.03,6370.0,91330.0
-Rhode Island,Health Care and Social Assistance,78000.0,47720.0,,,,620.0,109240.0
-South Carolina,Health Care and Social Assistance,265680.0,40710.0,40.0,84010.0,0.01,1180.0,99370.0
-South Dakota,Health Care and Social Assistance,68320.0,41810.0,,,,110.0,108310.0
-Tennessee,Health Care and Social Assistance,404730.0,44930.0,170.0,,0.04,1210.0,94690.0
-Texas,Health Care and Social Assistance,1637730.0,39210.0,160.0,108560.0,0.01,13780.0,99350.0
-Utah,Health Care and Social Assistance,176540.0,42690.0,80.0,61760.0,0.05,3070.0,81250.0
-Vermont,Health Care and Social Assistance,49310.0,45070.0,,,,150.0,
-Virginia,Health Care and Social Assistance,466200.0,44950.0,60.0,78280.0,0.01,4500.0,132400.0
-Washington,Health Care and Social Assistance,483680.0,47570.0,100.0,72810.0,0.02,4160.0,135850.0
-West Virginia,Health Care and Social Assistance,124390.0,36200.0,,,,70.0,67010.0
-Wisconsin,Health Care and Social Assistance,406690.0,43660.0,60.0,86950.0,0.01,2740.0,95410.0
-Wyoming,Health Care and Social Assistance,33160.0,43520.0,,,,40.0,139970.0
-Alabama,"Arts, Entertainment, and Recreation",22630.0,27040.0,,,,,85870.0
-Alaska,"Arts, Entertainment, and Recreation",4100.0,40050.0,,,,150.0,100040.0
-Arizona,"Arts, Entertainment, and Recreation",54120.0,34860.0,,,,2860.0,102770.0
-Arkansas,"Arts, Entertainment, and Recreation",12360.0,29050.0,,,,,
-California,"Arts, Entertainment, and Recreation",323630.0,38320.0,60.0,101730.0,0.02,29420.0,126810.0
-Colorado,"Arts, Entertainment, and Recreation",48990.0,39510.0,,,,3540.0,103200.0
-Connecticut,"Arts, Entertainment, and Recreation",24910.0,37300.0,,,,950.0,105700.0
-Delaware,"Arts, Entertainment, and Recreation",8180.0,31200.0,,,,480.0,132300.0
-District of Columbia,"Arts, Entertainment, and Recreation",8140.0,49920.0,,,,3200.0,97660.0
-Florida,"Arts, Entertainment, and Recreation",232840.0,33230.0,30.0,61470.0,0.01,8190.0,100520.0
-Georgia,"Arts, Entertainment, and Recreation",55020.0,28890.0,,,,5650.0,100400.0
-Hawaii,"Arts, Entertainment, and Recreation",11050.0,38480.0,,,,90.0,112330.0
-Idaho,"Arts, Entertainment, and Recreation",13120.0,33270.0,,,,250.0,96490.0
-Illinois,"Arts, Entertainment, and Recreation",81880.0,36040.0,50.0,61230.0,0.06,6350.0,103730.0
-Indiana,"Arts, Entertainment, and Recreation",38260.0,30630.0,,,,2200.0,75970.0
-Iowa,"Arts, Entertainment, and Recreation",19390.0,29810.0,,,,1970.0,94860.0
-Kansas,"Arts, Entertainment, and Recreation",17150.0,28080.0,,,,430.0,88860.0
-Kentucky,"Arts, Entertainment, and Recreation",21770.0,28240.0,,,,,81990.0
-Louisiana,"Arts, Entertainment, and Recreation",26620.0,27020.0,,,,580.0,65410.0
-Maine,"Arts, Entertainment, and Recreation",8290.0,38260.0,,,,800.0,95700.0
-Maryland,"Arts, Entertainment, and Recreation",37140.0,34640.0,,,,2010.0,117730.0
-Massachusetts,"Arts, Entertainment, and Recreation",52990.0,44000.0,,,,,106070.0
-Michigan,"Arts, Entertainment, and Recreation",51490.0,32750.0,,,,3900.0,85470.0
-Minnesota,"Arts, Entertainment, and Recreation",44990.0,33960.0,,,,1600.0,106920.0
-Mississippi,"Arts, Entertainment, and Recreation",9160.0,24540.0,,,,,56950.0
-Missouri,"Arts, Entertainment, and Recreation",40620.0,30560.0,,,,4020.0,78780.0
-Montana,"Arts, Entertainment, and Recreation",11620.0,28960.0,,,,90.0,75200.0
-Nebraska,"Arts, Entertainment, and Recreation",14380.0,29480.0,,,,1310.0,84490.0
-Nevada,"Arts, Entertainment, and Recreation",33460.0,29690.0,,,,850.0,82110.0
-New Hampshire,"Arts, Entertainment, and Recreation",10970.0,35870.0,,,,620.0,77620.0
-New Jersey,"Arts, Entertainment, and Recreation",60140.0,36670.0,40.0,80000.0,0.07,3030.0,129210.0
-New Mexico,"Arts, Entertainment, and Recreation",10650.0,29720.0,,,,330.0,78790.0
-New York,"Arts, Entertainment, and Recreation",148000.0,45820.0,,,,14760.0,124030.0
-North Carolina,"Arts, Entertainment, and Recreation",73630.0,31200.0,,,,5350.0,121970.0
-North Dakota,"Arts, Entertainment, and Recreation",7160.0,34330.0,,,,150.0,91050.0
-Ohio,"Arts, Entertainment, and Recreation",77860.0,29200.0,,,,3650.0,88950.0
-Oklahoma,"Arts, Entertainment, and Recreation",36320.0,27760.0,,,,1740.0,79720.0
-Oregon,"Arts, Entertainment, and Recreation",23780.0,37170.0,,,,1610.0,102530.0
-Pennsylvania,"Arts, Entertainment, and Recreation",89130.0,31090.0,,,,6370.0,91330.0
-Rhode Island,"Arts, Entertainment, and Recreation",7030.0,43920.0,,,,620.0,109240.0
-South Carolina,"Arts, Entertainment, and Recreation",32480.0,28290.0,,,,1180.0,99370.0
-South Dakota,"Arts, Entertainment, and Recreation",8030.0,28540.0,,,,110.0,108310.0
-Tennessee,"Arts, Entertainment, and Recreation",42120.0,31140.0,,,,1210.0,94690.0
-Texas,"Arts, Entertainment, and Recreation",145120.0,30180.0,,,,13780.0,99350.0
-Utah,"Arts, Entertainment, and Recreation",25870.0,32490.0,,,,3070.0,81250.0
-Vermont,"Arts, Entertainment, and Recreation",3580.0,42780.0,,,,150.0,
-Virginia,"Arts, Entertainment, and Recreation",54840.0,30100.0,,,,4500.0,132400.0
-Washington,"Arts, Entertainment, and Recreation",59700.0,38840.0,,,,4160.0,135850.0
-West Virginia,"Arts, Entertainment, and Recreation",8350.0,23350.0,,,,70.0,67010.0
-Wisconsin,"Arts, Entertainment, and Recreation",41640.0,30600.0,,,,2740.0,95410.0
-Wyoming,"Arts, Entertainment, and Recreation",3510.0,30340.0,,,,40.0,139970.0
-Alabama,Accommodation and Food Services,174870.0,22590.0,,,,,85870.0
-Alaska,Accommodation and Food Services,27410.0,30100.0,,,,150.0,100040.0
-Arizona,Accommodation and Food Services,289790.0,31530.0,,,,2860.0,102770.0
-Arkansas,Accommodation and Food Services,109450.0,26260.0,,,,,
-California,Accommodation and Food Services,1606930.0,34700.0,,,,29420.0,126810.0
-Colorado,Accommodation and Food Services,275690.0,33760.0,,,,3540.0,103200.0
-Connecticut,Accommodation and Food Services,128920.0,31390.0,,,,950.0,105700.0
-Delaware,Accommodation and Food Services,40660.0,28260.0,,,,480.0,132300.0
-District of Columbia,Accommodation and Food Services,54740.0,37000.0,,,,3200.0,97660.0
-Florida,Accommodation and Food Services,994830.0,28710.0,,,,8190.0,100520.0
-Georgia,Accommodation and Food Services,418010.0,24310.0,,,,5650.0,100400.0
-Hawaii,Accommodation and Food Services,95490.0,36500.0,,,,90.0,112330.0
-Idaho,Accommodation and Food Services,73180.0,26990.0,,,,250.0,96490.0
-Illinois,Accommodation and Food Services,472860.0,29270.0,,,,6350.0,103730.0
-Indiana,Accommodation and Food Services,261350.0,26760.0,,,,2200.0,75970.0
-Iowa,Accommodation and Food Services,115660.0,27140.0,,,,1970.0,94860.0
-Kansas,Accommodation and Food Services,111310.0,26500.0,,,,430.0,88860.0
-Kentucky,Accommodation and Food Services,168250.0,23670.0,,,,,81990.0
-Louisiana,Accommodation and Food Services,184660.0,22100.0,,,,580.0,65410.0
-Maine,Accommodation and Food Services,52940.0,34170.0,,,,800.0,95700.0
-Maryland,Accommodation and Food Services,208940.0,30320.0,,,,2010.0,117730.0
-Massachusetts,Accommodation and Food Services,278730.0,34750.0,,,,,106070.0
-Michigan,Accommodation and Food Services,353990.0,28570.0,,,,3900.0,85470.0
-Minnesota,Accommodation and Food Services,209860.0,29550.0,,,,1600.0,106920.0
-Mississippi,Accommodation and Food Services,123630.0,21580.0,,,,,56950.0
-Missouri,Accommodation and Food Services,250590.0,27940.0,,,,4020.0,78780.0
-Montana,Accommodation and Food Services,55770.0,27920.0,,,,90.0,75200.0
-Nebraska,Accommodation and Food Services,75050.0,26980.0,,,,1310.0,84490.0
-Nevada,Accommodation and Food Services,286830.0,28890.0,,,,850.0,82110.0
-New Hampshire,Accommodation and Food Services,55020.0,30820.0,,,,620.0,77620.0
-New Jersey,Accommodation and Food Services,299680.0,33280.0,,,,3030.0,129210.0
-New Mexico,Accommodation and Food Services,87730.0,27140.0,,,,330.0,78790.0
-New York,Accommodation and Food Services,687890.0,35020.0,,,,14760.0,124030.0
-North Carolina,Accommodation and Food Services,422190.0,25270.0,,,,5350.0,121970.0
-North Dakota,Accommodation and Food Services,32790.0,28540.0,,,,150.0,91050.0
-Ohio,Accommodation and Food Services,455930.0,26950.0,,,,3650.0,88950.0
-Oklahoma,Accommodation and Food Services,153330.0,22630.0,,,,1740.0,79720.0
-Oregon,Accommodation and Food Services,171740.0,31200.0,,,,1610.0,102530.0
-Pennsylvania,Accommodation and Food Services,434410.0,27730.0,,,,6370.0,91330.0
-Rhode Island,Accommodation and Food Services,49120.0,29170.0,,,,620.0,109240.0
-South Carolina,Accommodation and Food Services,228230.0,23780.0,,,,1180.0,99370.0
-South Dakota,Accommodation and Food Services,40630.0,27570.0,,,,110.0,108310.0
-Tennessee,Accommodation and Food Services,294610.0,25760.0,,,,1210.0,94690.0
-Texas,Accommodation and Food Services,1229140.0,26300.0,,,,13780.0,99350.0
-Utah,Accommodation and Food Services,129110.0,28460.0,,,,3070.0,81250.0
-Vermont,Accommodation and Food Services,25290.0,35430.0,,,,150.0,
-Virginia,Accommodation and Food Services,322500.0,28470.0,,,,4500.0,132400.0
-Washington,Accommodation and Food Services,267310.0,35940.0,,,,4160.0,135850.0
-West Virginia,Accommodation and Food Services,61520.0,22800.0,,,,70.0,67010.0
-Wisconsin,Accommodation and Food Services,223270.0,27750.0,,,,2740.0,95410.0
-Wyoming,Accommodation and Food Services,31350.0,27420.0,,,,40.0,139970.0
-Alabama,Other Services (except Public Administration),44040.0,35770.0,,,,,85870.0
-Alaska,Other Services (except Public Administration),9540.0,47430.0,,,,150.0,100040.0
-Arizona,Other Services (except Public Administration),77520.0,38810.0,,,,2860.0,102770.0
-Arkansas,Other Services (except Public Administration),24970.0,34320.0,,,,,
-California,Other Services (except Public Administration),497870.0,42770.0,270.0,73080.0,0.05,29420.0,126810.0
-Colorado,Other Services (except Public Administration),80070.0,45040.0,50.0,78520.0,0.06,3540.0,103200.0
-Connecticut,Other Services (except Public Administration),47980.0,39140.0,,,,950.0,105700.0
-Delaware,Other Services (except Public Administration),11310.0,35980.0,,,,480.0,132300.0
-District of Columbia,Other Services (except Public Administration),63490.0,86420.0,170.0,77240.0,0.27,3200.0,97660.0
-Florida,Other Services (except Public Administration),262040.0,36940.0,100.0,109230.0,0.04,8190.0,100520.0
-Georgia,Other Services (except Public Administration),106670.0,36340.0,50.0,97520.0,0.05,5650.0,100400.0
-Hawaii,Other Services (except Public Administration),23840.0,42340.0,,,,90.0,112330.0
-Idaho,Other Services (except Public Administration),19100.0,36850.0,,,,250.0,96490.0
-Illinois,Other Services (except Public Administration),187700.0,45800.0,40.0,85610.0,0.02,6350.0,103730.0
-Indiana,Other Services (except Public Administration),85610.0,36840.0,40.0,43980.0,0.04,2200.0,75970.0
-Iowa,Other Services (except Public Administration),37970.0,39200.0,,,,1970.0,94860.0
-Kansas,Other Services (except Public Administration),33070.0,36400.0,,,,430.0,88860.0
-Kentucky,Other Services (except Public Administration),41540.0,36540.0,,,,,81990.0
-Louisiana,Other Services (except Public Administration),43360.0,35160.0,,,,580.0,65410.0
-Maine,Other Services (except Public Administration),16050.0,41610.0,,,,800.0,95700.0
-Maryland,Other Services (except Public Administration),78200.0,43410.0,,,,2010.0,117730.0
-Massachusetts,Other Services (except Public Administration),105240.0,44720.0,40.0,78060.0,0.04,,106070.0
-Michigan,Other Services (except Public Administration),119960.0,38470.0,60.0,71990.0,0.05,3900.0,85470.0
-Minnesota,Other Services (except Public Administration),80390.0,40200.0,,,,1600.0,106920.0
-Mississippi,Other Services (except Public Administration),20500.0,33800.0,,,,,56950.0
-Missouri,Other Services (except Public Administration),72140.0,37680.0,60.0,80590.0,0.08,4020.0,78780.0
-Montana,Other Services (except Public Administration),17630.0,38310.0,,,,90.0,75200.0
-Nebraska,Other Services (except Public Administration),24630.0,36970.0,,,,1310.0,84490.0
-Nevada,Other Services (except Public Administration),34150.0,35940.0,,,,850.0,82110.0
-New Hampshire,Other Services (except Public Administration),19230.0,41020.0,,,,620.0,77620.0
-New Jersey,Other Services (except Public Administration),128420.0,40700.0,,,,3030.0,129210.0
-New Mexico,Other Services (except Public Administration),19880.0,36850.0,,,,330.0,78790.0
-New York,Other Services (except Public Administration),310530.0,43310.0,320.0,93540.0,0.1,14760.0,124030.0
-North Carolina,Other Services (except Public Administration),110360.0,36770.0,,,,5350.0,121970.0
-North Dakota,Other Services (except Public Administration),10570.0,43780.0,,,,150.0,91050.0
-Ohio,Other Services (except Public Administration),147700.0,36630.0,60.0,65090.0,0.04,3650.0,88950.0
-Oklahoma,Other Services (except Public Administration),35720.0,36620.0,,,,1740.0,79720.0
-Oregon,Other Services (except Public Administration),60780.0,44900.0,30.0,62090.0,0.05,1610.0,102530.0
-Pennsylvania,Other Services (except Public Administration),189660.0,36770.0,,,,6370.0,91330.0
-Rhode Island,Other Services (except Public Administration),15930.0,41600.0,,,,620.0,109240.0
-South Carolina,Other Services (except Public Administration),53060.0,35970.0,,,,1180.0,99370.0
-South Dakota,Other Services (except Public Administration),11740.0,36790.0,,,,110.0,108310.0
-Tennessee,Other Services (except Public Administration),74180.0,36630.0,,,,1210.0,94690.0
-Texas,Other Services (except Public Administration),324220.0,35980.0,120.0,70740.0,0.04,13780.0,99350.0
-Utah,Other Services (except Public Administration),37870.0,38460.0,,,,3070.0,81250.0
-Vermont,Other Services (except Public Administration),7710.0,43510.0,,,,150.0,
-Virginia,Other Services (except Public Administration),119960.0,43960.0,80.0,97570.0,0.07,4500.0,132400.0
-Washington,Other Services (except Public Administration),89360.0,47000.0,,,,4160.0,135850.0
-West Virginia,Other Services (except Public Administration),16610.0,33520.0,,,,70.0,67010.0
-Wisconsin,Other Services (except Public Administration),72700.0,37480.0,,,,2740.0,95410.0
-Wyoming,Other Services (except Public Administration),6670.0,39970.0,,,,40.0,139970.0
-Alabama,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",156650.0,49260.0,,,,,85870.0
-Alaska,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",44610.0,69600.0,,,,150.0,100040.0
-Arizona,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",190870.0,56890.0,40.0,75000.0,0.02,2860.0,102770.0
-Arkansas,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",82490.0,42470.0,,,,,
-California,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",1080750.0,79370.0,1450.0,84950.0,0.13,29420.0,126810.0
-Colorado,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",184680.0,64150.0,160.0,69600.0,0.09,3540.0,103200.0
-Connecticut,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",84470.0,69760.0,,,,950.0,105700.0
-Delaware,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",28200.0,53120.0,,,,480.0,132300.0
-Florida,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",519410.0,55860.0,90.0,62860.0,0.02,8190.0,100520.0
-Georgia,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",297430.0,49590.0,,,,5650.0,100400.0
-Hawaii,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",62640.0,68280.0,,,,90.0,112330.0
-Idaho,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",55720.0,50430.0,,,,250.0,96490.0
-Illinois,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",317470.0,67820.0,,,,6350.0,103730.0
-Indiana,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",152420.0,48900.0,50.0,49600.0,0.03,2200.0,75970.0
-Iowa,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",80720.0,56700.0,,,,1970.0,94860.0
-Kansas,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",95010.0,47240.0,,,,430.0,88860.0
-Kentucky,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",115500.0,45900.0,,,,,81990.0
-Louisiana,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",129160.0,46590.0,,,,580.0,65410.0
-Maine,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",46170.0,54600.0,,,,800.0,95700.0
-Maryland,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",289540.0,83740.0,40.0,86250.0,0.01,2010.0,117730.0
-Massachusetts,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",193550.0,69600.0,,,,,106070.0
-Michigan,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",219520.0,58470.0,80.0,63880.0,0.04,3900.0,85470.0
-Minnesota,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",161440.0,64280.0,,,,1600.0,106920.0
-Mississippi,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",90290.0,38810.0,,,,,56950.0
-Missouri,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",181930.0,46340.0,,,,4020.0,78780.0
-Montana,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",45780.0,51650.0,,,,90.0,75200.0
-Nebraska,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",68020.0,52210.0,,,,1310.0,84490.0
-Nevada,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",73660.0,64010.0,,,,850.0,82110.0
-New Hampshire,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",36210.0,54720.0,,,,620.0,77620.0
-New Jersey,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",252950.0,69950.0,,,,3030.0,129210.0
-New Mexico,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",88370.0,50040.0,60.0,49900.0,0.06,330.0,78790.0
-New York,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",643900.0,67060.0,40.0,104930.0,0.01,14760.0,124030.0
-North Carolina,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",287300.0,48480.0,30.0,70730.0,0.01,5350.0,121970.0
-North Dakota,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",34000.0,55340.0,,,,150.0,91050.0
-Ohio,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",315230.0,58720.0,80.0,59900.0,0.02,3650.0,88950.0
-Oklahoma,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",153610.0,49210.0,90.0,67350.0,0.06,1740.0,79720.0
-Oregon,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",143140.0,65520.0,150.0,83550.0,0.1,1610.0,102530.0
-Pennsylvania,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",313440.0,60200.0,,,,6370.0,91330.0
-Rhode Island,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",29780.0,73550.0,40.0,106020.0,0.14,620.0,109240.0
-South Carolina,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",139620.0,46110.0,,,,1180.0,99370.0
-South Dakota,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",36470.0,46950.0,,,,110.0,108310.0
-Tennessee,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",195100.0,48970.0,,,,1210.0,94690.0
-Texas,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",687960.0,53390.0,,,,13780.0,99350.0
-Utah,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",110900.0,52850.0,,,,3070.0,81250.0
-Vermont,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",21040.0,60260.0,,,,150.0,
-Virginia,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",357640.0,65750.0,50.0,84680.0,0.01,4500.0,132400.0
-Washington,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",258360.0,77760.0,,,,4160.0,135850.0
-West Virginia,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",76640.0,43590.0,40.0,64690.0,0.05,70.0,67010.0
-Wisconsin,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",160490.0,54890.0,,,,2740.0,95410.0
-Wyoming,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",28910.0,50260.0,,,,40.0,139970.0
+state,sector,state_sector_tot_headcount,state_sector_salary,ds_state_sector_headcount,ds_state_sector_salary,ds_state_sector_pct,ds_state_tot_headcount,ds_state_mdn_salary,ds_sector_salary
+Alabama,"Agriculture, Forestry, Fishing and Hunting",5800.0,41080.0,,,,,85870.0,
+Alaska,"Agriculture, Forestry, Fishing and Hunting",210.0,57260.0,,,,150.0,100040.0,
+Arizona,"Agriculture, Forestry, Fishing and Hunting",9840.0,30080.0,,,,2860.0,102770.0,
+Arkansas,"Agriculture, Forestry, Fishing and Hunting",4120.0,37920.0,,,,,,
+California,"Agriculture, Forestry, Fishing and Hunting",239210.0,33540.0,,,,29420.0,126810.0,
+Colorado,"Agriculture, Forestry, Fishing and Hunting",2350.0,35940.0,,,,3540.0,103200.0,
+Connecticut,"Agriculture, Forestry, Fishing and Hunting",290.0,41140.0,,,,950.0,105700.0,
+Delaware,"Agriculture, Forestry, Fishing and Hunting",120.0,40780.0,,,,480.0,132300.0,
+Florida,"Agriculture, Forestry, Fishing and Hunting",14960.0,29130.0,,,,8190.0,100520.0,
+Georgia,"Agriculture, Forestry, Fishing and Hunting",8910.0,37160.0,,,,5650.0,100400.0,
+Hawaii,"Agriculture, Forestry, Fishing and Hunting",520.0,35500.0,,,,90.0,112330.0,
+Idaho,"Agriculture, Forestry, Fishing and Hunting",4590.0,34880.0,,,,250.0,96490.0,
+Illinois,"Agriculture, Forestry, Fishing and Hunting",3420.0,44540.0,,,,6350.0,103730.0,
+Indiana,"Agriculture, Forestry, Fishing and Hunting",2120.0,38900.0,,,,2200.0,75970.0,
+Iowa,"Agriculture, Forestry, Fishing and Hunting",3570.0,41180.0,,,,1970.0,94860.0,
+Kansas,"Agriculture, Forestry, Fishing and Hunting",2100.0,36690.0,,,,430.0,88860.0,
+Kentucky,"Agriculture, Forestry, Fishing and Hunting",3480.0,33390.0,,,,,81990.0,
+Louisiana,"Agriculture, Forestry, Fishing and Hunting",3310.0,45250.0,,,,580.0,65410.0,
+Maine,"Agriculture, Forestry, Fishing and Hunting",1880.0,42470.0,,,,800.0,95700.0,
+Maryland,"Agriculture, Forestry, Fishing and Hunting",,36730.0,,,,2010.0,117730.0,
+Massachusetts,"Agriculture, Forestry, Fishing and Hunting",730.0,44670.0,,,,,106070.0,
+Michigan,"Agriculture, Forestry, Fishing and Hunting",4990.0,37440.0,,,,3900.0,85470.0,
+Minnesota,"Agriculture, Forestry, Fishing and Hunting",3450.0,44520.0,,,,1600.0,106920.0,
+Mississippi,"Agriculture, Forestry, Fishing and Hunting",4420.0,39840.0,,,,,56950.0,
+Missouri,"Agriculture, Forestry, Fishing and Hunting",3350.0,35980.0,,,,4020.0,78780.0,
+Montana,"Agriculture, Forestry, Fishing and Hunting",970.0,,,,,90.0,75200.0,
+Nebraska,"Agriculture, Forestry, Fishing and Hunting",1800.0,48270.0,,,,1310.0,84490.0,
+Nevada,"Agriculture, Forestry, Fishing and Hunting",270.0,34530.0,,,,850.0,82110.0,
+New Hampshire,"Agriculture, Forestry, Fishing and Hunting",460.0,45050.0,,,,620.0,77620.0,
+New Jersey,"Agriculture, Forestry, Fishing and Hunting",2420.0,31930.0,,,,3030.0,129210.0,
+New Mexico,"Agriculture, Forestry, Fishing and Hunting",,24140.0,,,,330.0,78790.0,
+New York,"Agriculture, Forestry, Fishing and Hunting",3100.0,38480.0,,,,14760.0,124030.0,
+North Carolina,"Agriculture, Forestry, Fishing and Hunting",5880.0,36780.0,,,,5350.0,121970.0,
+North Dakota,"Agriculture, Forestry, Fishing and Hunting",780.0,40370.0,,,,150.0,91050.0,
+Ohio,"Agriculture, Forestry, Fishing and Hunting",2620.0,38640.0,,,,3650.0,88950.0,
+Oklahoma,"Agriculture, Forestry, Fishing and Hunting",1860.0,36350.0,,,,1740.0,79720.0,
+Oregon,"Agriculture, Forestry, Fishing and Hunting",13530.0,35140.0,,,,1610.0,102530.0,
+Pennsylvania,"Agriculture, Forestry, Fishing and Hunting",3920.0,37570.0,,,,6370.0,91330.0,
+Rhode Island,"Agriculture, Forestry, Fishing and Hunting",60.0,38700.0,,,,620.0,109240.0,
+South Carolina,"Agriculture, Forestry, Fishing and Hunting",3930.0,43570.0,,,,1180.0,99370.0,
+South Dakota,"Agriculture, Forestry, Fishing and Hunting",720.0,,,,,110.0,108310.0,
+Tennessee,"Agriculture, Forestry, Fishing and Hunting",1690.0,37600.0,,,,1210.0,94690.0,
+Texas,"Agriculture, Forestry, Fishing and Hunting",12470.0,31500.0,,,,13780.0,99350.0,
+Utah,"Agriculture, Forestry, Fishing and Hunting",810.0,37600.0,,,,3070.0,81250.0,
+Vermont,"Agriculture, Forestry, Fishing and Hunting",390.0,,,,,150.0,,
+Virginia,"Agriculture, Forestry, Fishing and Hunting",,41610.0,,,,4500.0,132400.0,
+Washington,"Agriculture, Forestry, Fishing and Hunting",25990.0,35690.0,,,,4160.0,135850.0,
+West Virginia,"Agriculture, Forestry, Fishing and Hunting",,30870.0,,,,70.0,67010.0,
+Wisconsin,"Agriculture, Forestry, Fishing and Hunting",4310.0,40400.0,,,,2740.0,95410.0,
+Wyoming,"Agriculture, Forestry, Fishing and Hunting",200.0,47840.0,,,,40.0,139970.0,
+Alabama,"Mining, Quarrying, and Oil and Gas Extraction",5230.0,,,,,,85870.0,121374.6153846154
+Alaska,"Mining, Quarrying, and Oil and Gas Extraction",10660.0,81700.0,30.0,144290.0,0.33,150.0,100040.0,121374.6153846154
+Arizona,"Mining, Quarrying, and Oil and Gas Extraction",12340.0,59040.0,,,,2860.0,102770.0,121374.6153846154
+Arkansas,"Mining, Quarrying, and Oil and Gas Extraction",3260.0,42690.0,,,,,,121374.6153846154
+California,"Mining, Quarrying, and Oil and Gas Extraction",16650.0,63180.0,,,,29420.0,126810.0,121374.6153846154
+Colorado,"Mining, Quarrying, and Oil and Gas Extraction",20040.0,73520.0,,,,3540.0,103200.0,121374.6153846154
+Connecticut,"Mining, Quarrying, and Oil and Gas Extraction",500.0,61340.0,,,,950.0,105700.0,121374.6153846154
+Florida,"Mining, Quarrying, and Oil and Gas Extraction",3900.0,45120.0,,,,8190.0,100520.0,121374.6153846154
+Georgia,"Mining, Quarrying, and Oil and Gas Extraction",4900.0,49440.0,,,,5650.0,100400.0,121374.6153846154
+Hawaii,"Mining, Quarrying, and Oil and Gas Extraction",,61480.0,,,,90.0,112330.0,121374.6153846154
+Idaho,"Mining, Quarrying, and Oil and Gas Extraction",2830.0,62970.0,,,,250.0,96490.0,121374.6153846154
+Illinois,"Mining, Quarrying, and Oil and Gas Extraction",6910.0,57780.0,,,,6350.0,103730.0,121374.6153846154
+Indiana,"Mining, Quarrying, and Oil and Gas Extraction",5230.0,54850.0,,,,2200.0,75970.0,121374.6153846154
+Iowa,"Mining, Quarrying, and Oil and Gas Extraction",2260.0,47200.0,,,,1970.0,94860.0,121374.6153846154
+Kansas,"Mining, Quarrying, and Oil and Gas Extraction",6110.0,48380.0,,,,430.0,88860.0,121374.6153846154
+Kentucky,"Mining, Quarrying, and Oil and Gas Extraction",7690.0,49920.0,,,,,81990.0,121374.6153846154
+Louisiana,"Mining, Quarrying, and Oil and Gas Extraction",28260.0,57100.0,,,,580.0,65410.0,121374.6153846154
+Maine,"Mining, Quarrying, and Oil and Gas Extraction",250.0,,,,,800.0,95700.0,121374.6153846154
+Maryland,"Mining, Quarrying, and Oil and Gas Extraction",1180.0,51060.0,,,,2010.0,117730.0,121374.6153846154
+Massachusetts,"Mining, Quarrying, and Oil and Gas Extraction",920.0,57700.0,,,,,106070.0,121374.6153846154
+Michigan,"Mining, Quarrying, and Oil and Gas Extraction",5130.0,53460.0,,,,3900.0,85470.0,121374.6153846154
+Minnesota,"Mining, Quarrying, and Oil and Gas Extraction",5950.0,65560.0,,,,1600.0,106920.0,121374.6153846154
+Mississippi,"Mining, Quarrying, and Oil and Gas Extraction",3120.0,46910.0,,,,,56950.0,121374.6153846154
+Missouri,"Mining, Quarrying, and Oil and Gas Extraction",4190.0,47630.0,,,,4020.0,78780.0,121374.6153846154
+Montana,"Mining, Quarrying, and Oil and Gas Extraction",6310.0,67520.0,,,,90.0,75200.0,121374.6153846154
+Nebraska,"Mining, Quarrying, and Oil and Gas Extraction",1040.0,47290.0,,,,1310.0,84490.0,121374.6153846154
+Nevada,"Mining, Quarrying, and Oil and Gas Extraction",14730.0,64520.0,,,,850.0,82110.0,121374.6153846154
+New Hampshire,"Mining, Quarrying, and Oil and Gas Extraction",620.0,51780.0,,,,620.0,77620.0,121374.6153846154
+New Jersey,"Mining, Quarrying, and Oil and Gas Extraction",1280.0,63870.0,,,,3030.0,129210.0,121374.6153846154
+New Mexico,"Mining, Quarrying, and Oil and Gas Extraction",19780.0,55170.0,,,,330.0,78790.0,121374.6153846154
+New York,"Mining, Quarrying, and Oil and Gas Extraction",4260.0,51730.0,,,,14760.0,124030.0,121374.6153846154
+North Carolina,"Mining, Quarrying, and Oil and Gas Extraction",3110.0,49410.0,,,,5350.0,121970.0,121374.6153846154
+North Dakota,"Mining, Quarrying, and Oil and Gas Extraction",15270.0,63090.0,,,,150.0,91050.0,121374.6153846154
+Ohio,"Mining, Quarrying, and Oil and Gas Extraction",8540.0,48920.0,,,,3650.0,88950.0,121374.6153846154
+Oklahoma,"Mining, Quarrying, and Oil and Gas Extraction",28450.0,60610.0,50.0,125530.0,0.16,1740.0,79720.0,121374.6153846154
+Oregon,"Mining, Quarrying, and Oil and Gas Extraction",1690.0,51650.0,,,,1610.0,102530.0,121374.6153846154
+Pennsylvania,"Mining, Quarrying, and Oil and Gas Extraction",21130.0,50690.0,,,,6370.0,91330.0,121374.6153846154
+South Carolina,"Mining, Quarrying, and Oil and Gas Extraction",2020.0,52650.0,,,,1180.0,99370.0,121374.6153846154
+South Dakota,"Mining, Quarrying, and Oil and Gas Extraction",1050.0,52660.0,,,,110.0,108310.0,121374.6153846154
+Tennessee,"Mining, Quarrying, and Oil and Gas Extraction",3560.0,47290.0,,,,1210.0,94690.0,121374.6153846154
+Texas,"Mining, Quarrying, and Oil and Gas Extraction",182020.0,58690.0,50.0,103470.0,0.03,13780.0,99350.0,121374.6153846154
+Utah,"Mining, Quarrying, and Oil and Gas Extraction",9480.0,63230.0,,,,3070.0,81250.0,121374.6153846154
+Vermont,"Mining, Quarrying, and Oil and Gas Extraction",660.0,49080.0,,,,150.0,,121374.6153846154
+Virginia,"Mining, Quarrying, and Oil and Gas Extraction",5160.0,59040.0,,,,4500.0,132400.0,121374.6153846154
+Washington,"Mining, Quarrying, and Oil and Gas Extraction",1980.0,58810.0,,,,4160.0,135850.0,121374.6153846154
+West Virginia,"Mining, Quarrying, and Oil and Gas Extraction",18560.0,62460.0,,,,70.0,67010.0,121374.6153846154
+Wisconsin,"Mining, Quarrying, and Oil and Gas Extraction",2970.0,52250.0,,,,2740.0,95410.0,121374.6153846154
+Wyoming,"Mining, Quarrying, and Oil and Gas Extraction",15820.0,72740.0,,,,40.0,139970.0,121374.6153846154
+Alabama,Utilities,10280.0,86410.0,,,,,85870.0,103811.57894736844
+Alaska,Utilities,2480.0,96670.0,,,,150.0,100040.0,103811.57894736844
+Arizona,Utilities,11730.0,87620.0,,,,2860.0,102770.0,103811.57894736844
+Arkansas,Utilities,7480.0,81690.0,,,,,,103811.57894736844
+California,Utilities,61770.0,108350.0,140.0,146860.0,0.22,29420.0,126810.0,103811.57894736844
+Colorado,Utilities,7550.0,97190.0,,,,3540.0,103200.0,103811.57894736844
+Connecticut,Utilities,4980.0,104280.0,,,,950.0,105700.0,103811.57894736844
+Delaware,Utilities,1600.0,86130.0,,,,480.0,132300.0,103811.57894736844
+District of Columbia,Utilities,2040.0,97340.0,,,,3200.0,97660.0,103811.57894736844
+Florida,Utilities,23080.0,64320.0,,,,8190.0,100520.0,103811.57894736844
+Georgia,Utilities,18640.0,83250.0,,,,5650.0,100400.0,103811.57894736844
+Hawaii,Utilities,3550.0,105580.0,,,,90.0,112330.0,103811.57894736844
+Idaho,Utilities,3120.0,75610.0,,,,250.0,96490.0,103811.57894736844
+Illinois,Utilities,23460.0,98580.0,,,,6350.0,103730.0,103811.57894736844
+Indiana,Utilities,13360.0,82770.0,,,,2200.0,75970.0,103811.57894736844
+Iowa,Utilities,5780.0,86430.0,,,,1970.0,94860.0,103811.57894736844
+Kansas,Utilities,5800.0,85480.0,,,,430.0,88860.0,103811.57894736844
+Kentucky,Utilities,6960.0,75760.0,,,,,81990.0,103811.57894736844
+Louisiana,Utilities,8370.0,78170.0,,,,580.0,65410.0,103811.57894736844
+Maine,Utilities,1720.0,76010.0,,,,800.0,95700.0,103811.57894736844
+Maryland,Utilities,9190.0,97050.0,,,,2010.0,117730.0,103811.57894736844
+Massachusetts,Utilities,12350.0,102030.0,,,,,106070.0,103811.57894736844
+Michigan,Utilities,21520.0,98740.0,,,,3900.0,85470.0,103811.57894736844
+Minnesota,Utilities,12170.0,98890.0,,,,1600.0,106920.0,103811.57894736844
+Mississippi,Utilities,7790.0,70680.0,,,,,56950.0,103811.57894736844
+Missouri,Utilities,11570.0,84730.0,,,,4020.0,78780.0,103811.57894736844
+Montana,Utilities,2780.0,87450.0,,,,90.0,75200.0,103811.57894736844
+Nebraska,Utilities,1000.0,80410.0,,,,1310.0,84490.0,103811.57894736844
+Nevada,Utilities,3990.0,87820.0,,,,850.0,82110.0,103811.57894736844
+New Hampshire,Utilities,2080.0,84650.0,,,,620.0,77620.0,103811.57894736844
+New Jersey,Utilities,14280.0,98600.0,,,,3030.0,129210.0,103811.57894736844
+New Mexico,Utilities,4270.0,72560.0,,,,330.0,78790.0,103811.57894736844
+New York,Utilities,34290.0,104270.0,,,,14760.0,124030.0,103811.57894736844
+North Carolina,Utilities,14250.0,76560.0,,,,5350.0,121970.0,103811.57894736844
+North Dakota,Utilities,3210.0,104640.0,,,,150.0,91050.0,103811.57894736844
+Ohio,Utilities,18550.0,84110.0,,,,3650.0,88950.0,103811.57894736844
+Oklahoma,Utilities,9650.0,78900.0,,,,1740.0,79720.0,103811.57894736844
+Oregon,Utilities,4830.0,97980.0,,,,1610.0,102530.0,103811.57894736844
+Pennsylvania,Utilities,20240.0,93750.0,,,,6370.0,91330.0,103811.57894736844
+Rhode Island,Utilities,1160.0,94600.0,,,,620.0,109240.0,103811.57894736844
+South Carolina,Utilities,10740.0,77890.0,,,,1180.0,99370.0,103811.57894736844
+South Dakota,Utilities,1990.0,81270.0,,,,110.0,108310.0,103811.57894736844
+Tennessee,Utilities,4120.0,69310.0,,,,1210.0,94690.0,103811.57894736844
+Texas,Utilities,55290.0,77490.0,240.0,78700.0,0.43,13780.0,99350.0,103811.57894736844
+Utah,Utilities,3660.0,86430.0,,,,3070.0,81250.0,103811.57894736844
+Vermont,Utilities,1240.0,95480.0,,,,150.0,,103811.57894736844
+Virginia,Utilities,10870.0,85670.0,,,,4500.0,132400.0,103811.57894736844
+Washington,Utilities,6420.0,97060.0,,,,4160.0,135850.0,103811.57894736844
+West Virginia,Utilities,5120.0,82580.0,,,,70.0,67010.0,103811.57894736844
+Wisconsin,Utilities,8140.0,100310.0,,,,2740.0,95410.0,103811.57894736844
+Wyoming,Utilities,2290.0,96050.0,,,,40.0,139970.0,103811.57894736844
+Alabama,Construction,97340.0,45870.0,,,,,85870.0,87470.0
+Alaska,Construction,15930.0,68510.0,,,,150.0,100040.0,87470.0
+Arizona,Construction,191490.0,49460.0,,,,2860.0,102770.0,87470.0
+Arkansas,Construction,56530.0,42840.0,,,,,,87470.0
+California,Construction,911260.0,62850.0,,,,29420.0,126810.0,87470.0
+Colorado,Construction,183170.0,58660.0,,,,3540.0,103200.0,87470.0
+Connecticut,Construction,62120.0,63310.0,,,,950.0,105700.0,87470.0
+Delaware,Construction,23240.0,52140.0,,,,480.0,132300.0,87470.0
+District of Columbia,Construction,15170.0,64280.0,,,,3200.0,97660.0,87470.0
+Florida,Construction,594230.0,46850.0,40.0,79630.0,0.01,8190.0,100520.0,87470.0
+Georgia,Construction,210930.0,48230.0,60.0,102270.0,0.03,5650.0,100400.0,87470.0
+Hawaii,Construction,36450.0,79800.0,,,,90.0,112330.0,87470.0
+Idaho,Construction,61050.0,46590.0,,,,250.0,96490.0,87470.0
+Illinois,Construction,233590.0,72700.0,,,,6350.0,103730.0,87470.0
+Indiana,Construction,157700.0,56490.0,,,,2200.0,75970.0,87470.0
+Iowa,Construction,83060.0,50720.0,,,,1970.0,94860.0,87470.0
+Kansas,Construction,64860.0,49850.0,,,,430.0,88860.0,87470.0
+Kentucky,Construction,82020.0,48670.0,,,,,81990.0,87470.0
+Louisiana,Construction,130650.0,49450.0,,,,580.0,65410.0,87470.0
+Maine,Construction,33110.0,49150.0,,,,800.0,95700.0,87470.0
+Maryland,Construction,159590.0,57250.0,,,,2010.0,117730.0,87470.0
+Massachusetts,Construction,171990.0,73590.0,,,,,106070.0,87470.0
+Michigan,Construction,185370.0,52390.0,,,,3900.0,85470.0,87470.0
+Minnesota,Construction,136780.0,63900.0,,,,1600.0,106920.0,87470.0
+Mississippi,Construction,45890.0,43040.0,,,,,56950.0,87470.0
+Missouri,Construction,138840.0,58970.0,,,,4020.0,78780.0,87470.0
+Montana,Construction,35880.0,50970.0,,,,90.0,75200.0,87470.0
+Nebraska,Construction,56720.0,48130.0,,,,1310.0,84490.0,87470.0
+Nevada,Construction,100950.0,58670.0,,,,850.0,82110.0,87470.0
+New Hampshire,Construction,30440.0,54030.0,,,,620.0,77620.0,87470.0
+New Jersey,Construction,163760.0,65780.0,,,,3030.0,129210.0,87470.0
+New Mexico,Construction,49500.0,46330.0,,,,330.0,78790.0,87470.0
+New York,Construction,387370.0,64270.0,,,,14760.0,124030.0,87470.0
+North Carolina,Construction,244720.0,47260.0,,,,5350.0,121970.0,87470.0
+North Dakota,Construction,25470.0,54120.0,,,,150.0,91050.0,87470.0
+Ohio,Construction,237740.0,57730.0,,,,3650.0,88950.0,87470.0
+Oklahoma,Construction,78710.0,46130.0,,,,1740.0,79720.0,87470.0
+Oregon,Construction,112670.0,59700.0,,,,1610.0,102530.0,87470.0
+Pennsylvania,Construction,263370.0,56570.0,,,,6370.0,91330.0,87470.0
+Rhode Island,Construction,21510.0,59640.0,,,,620.0,109240.0,87470.0
+South Carolina,Construction,107190.0,46770.0,,,,1180.0,99370.0,87470.0
+South Dakota,Construction,26390.0,46310.0,,,,110.0,108310.0,87470.0
+Tennessee,Construction,143230.0,46760.0,,,,1210.0,94690.0,87470.0
+Texas,Construction,762490.0,48080.0,40.0,73110.0,0.01,13780.0,99350.0,87470.0
+Utah,Construction,128570.0,49670.0,,,,3070.0,81250.0,87470.0
+Vermont,Construction,15920.0,49590.0,,,,150.0,,87470.0
+Virginia,Construction,206140.0,49450.0,,,,4500.0,132400.0,87470.0
+Washington,Construction,216610.0,65010.0,,,,4160.0,135850.0,87470.0
+West Virginia,Construction,32780.0,47070.0,,,,70.0,67010.0,87470.0
+Wisconsin,Construction,131440.0,59820.0,,,,2740.0,95410.0,87470.0
+Wyoming,Construction,21860.0,50890.0,,,,40.0,139970.0,87470.0
+Alabama,Manufacturing,271450.0,42590.0,30.0,76480.0,0.01,,85870.0,111654.1518578352
+Alaska,Manufacturing,9000.0,42490.0,,,,150.0,100040.0,111654.1518578352
+Arizona,Manufacturing,186780.0,50980.0,150.0,98770.0,0.08,2860.0,102770.0,111654.1518578352
+Arkansas,Manufacturing,158910.0,37980.0,,,,,,111654.1518578352
+California,Manufacturing,1323280.0,57280.0,1360.0,124990.0,0.1,29420.0,126810.0,111654.1518578352
+Colorado,Manufacturing,149990.0,51590.0,110.0,101110.0,0.08,3540.0,103200.0,111654.1518578352
+Connecticut,Manufacturing,154370.0,60130.0,60.0,93130.0,0.04,950.0,105700.0,111654.1518578352
+Delaware,Manufacturing,25870.0,46690.0,,,,480.0,132300.0,111654.1518578352
+District of Columbia,Manufacturing,1030.0,50910.0,,,,3200.0,97660.0,111654.1518578352
+Florida,Manufacturing,405050.0,45400.0,200.0,92640.0,0.05,8190.0,100520.0,111654.1518578352
+Georgia,Manufacturing,408550.0,41250.0,160.0,73840.0,0.04,5650.0,100400.0,111654.1518578352
+Hawaii,Manufacturing,12420.0,39160.0,,,,90.0,112330.0,111654.1518578352
+Idaho,Manufacturing,72350.0,43380.0,,,,250.0,96490.0,111654.1518578352
+Illinois,Manufacturing,561560.0,47320.0,190.0,137960.0,0.03,6350.0,103730.0,111654.1518578352
+Indiana,Manufacturing,536080.0,46900.0,220.0,69530.0,0.04,2200.0,75970.0,111654.1518578352
+Iowa,Manufacturing,217830.0,46510.0,190.0,84480.0,0.09,1970.0,94860.0,111654.1518578352
+Kansas,Manufacturing,165210.0,46780.0,,,,430.0,88860.0,111654.1518578352
+Kentucky,Manufacturing,248430.0,46800.0,50.0,95010.0,0.02,,81990.0,111654.1518578352
+Louisiana,Manufacturing,131650.0,50810.0,,,,580.0,65410.0,111654.1518578352
+Maine,Manufacturing,54220.0,48700.0,40.0,82420.0,0.07,800.0,95700.0,111654.1518578352
+Maryland,Manufacturing,109190.0,57130.0,80.0,133720.0,0.07,2010.0,117730.0,111654.1518578352
+Massachusetts,Manufacturing,237480.0,58410.0,130.0,127480.0,0.06,,106070.0,111654.1518578352
+Michigan,Manufacturing,596670.0,47620.0,210.0,76910.0,0.04,3900.0,85470.0,111654.1518578352
+Minnesota,Manufacturing,320800.0,50230.0,80.0,116480.0,0.03,1600.0,106920.0,111654.1518578352
+Mississippi,Manufacturing,146210.0,39240.0,,,,,56950.0,111654.1518578352
+Missouri,Manufacturing,277640.0,46640.0,80.0,107430.0,0.03,4020.0,78780.0,111654.1518578352
+Montana,Manufacturing,21890.0,45050.0,,,,90.0,75200.0,111654.1518578352
+Nebraska,Manufacturing,99440.0,44390.0,,,,1310.0,84490.0,111654.1518578352
+Nevada,Manufacturing,63470.0,44600.0,40.0,96780.0,0.06,850.0,82110.0,111654.1518578352
+New Hampshire,Manufacturing,69430.0,52740.0,,,,620.0,77620.0,111654.1518578352
+New Jersey,Manufacturing,242240.0,49980.0,60.0,82790.0,0.03,3030.0,129210.0,111654.1518578352
+New Mexico,Manufacturing,28770.0,40920.0,,,,330.0,78790.0,111654.1518578352
+New York,Manufacturing,415530.0,49420.0,530.0,125950.0,0.13,14760.0,124030.0,111654.1518578352
+North Carolina,Manufacturing,469500.0,43100.0,120.0,89660.0,0.02,5350.0,121970.0,111654.1518578352
+North Dakota,Manufacturing,27130.0,48320.0,,,,150.0,91050.0,111654.1518578352
+Ohio,Manufacturing,672790.0,46670.0,140.0,84750.0,0.02,3650.0,88950.0,111654.1518578352
+Oklahoma,Manufacturing,131920.0,46240.0,50.0,80070.0,0.04,1740.0,79720.0,111654.1518578352
+Oregon,Manufacturing,189590.0,49610.0,400.0,159510.0,0.21,1610.0,102530.0,111654.1518578352
+Pennsylvania,Manufacturing,556830.0,47590.0,490.0,106520.0,0.09,6370.0,91330.0,111654.1518578352
+Rhode Island,Manufacturing,40070.0,50840.0,,,,620.0,109240.0,111654.1518578352
+South Carolina,Manufacturing,256290.0,46140.0,80.0,100930.0,0.03,1180.0,99370.0,111654.1518578352
+South Dakota,Manufacturing,44620.0,41380.0,,,,110.0,108310.0,111654.1518578352
+Tennessee,Manufacturing,356960.0,44940.0,110.0,85680.0,0.03,1210.0,94690.0,111654.1518578352
+Texas,Manufacturing,904800.0,46730.0,440.0,118590.0,0.05,13780.0,99350.0,111654.1518578352
+Utah,Manufacturing,149890.0,45780.0,80.0,81100.0,0.05,3070.0,81250.0,111654.1518578352
+Vermont,Manufacturing,28600.0,46820.0,,,,150.0,,111654.1518578352
+Virginia,Manufacturing,241430.0,47920.0,30.0,107000.0,0.01,4500.0,132400.0,111654.1518578352
+Washington,Manufacturing,262760.0,58270.0,180.0,134110.0,0.07,4160.0,135850.0,111654.1518578352
+West Virginia,Manufacturing,45670.0,44900.0,,,,70.0,67010.0,111654.1518578352
+Wisconsin,Manufacturing,473510.0,47720.0,100.0,83140.0,0.02,2740.0,95410.0,111654.1518578352
+Wyoming,Manufacturing,9990.0,53150.0,,,,40.0,139970.0,111654.1518578352
+Alabama,Wholesale Trade,74810.0,46090.0,,,,,85870.0,103399.16243654824
+Alaska,Wholesale Trade,6210.0,48010.0,,,,150.0,100040.0,103399.16243654824
+Arizona,Wholesale Trade,106350.0,50010.0,60.0,81170.0,0.05,2860.0,102770.0,103399.16243654824
+Arkansas,Wholesale Trade,49090.0,43870.0,,,,,,103399.16243654824
+California,Wholesale Trade,664050.0,52150.0,780.0,94920.0,0.12,29420.0,126810.0,103399.16243654824
+Colorado,Wholesale Trade,110780.0,59280.0,130.0,103730.0,0.12,3540.0,103200.0,103399.16243654824
+Connecticut,Wholesale Trade,59410.0,58780.0,,,,950.0,105700.0,103399.16243654824
+Delaware,Wholesale Trade,11460.0,52220.0,,,,480.0,132300.0,103399.16243654824
+District of Columbia,Wholesale Trade,5130.0,91900.0,,,,3200.0,97660.0,103399.16243654824
+Florida,Wholesale Trade,365040.0,47460.0,160.0,96480.0,0.04,8190.0,100520.0,103399.16243654824
+Georgia,Wholesale Trade,211640.0,48870.0,,118150.0,,5650.0,100400.0,103399.16243654824
+Hawaii,Wholesale Trade,17070.0,47270.0,,,,90.0,112330.0,103399.16243654824
+Idaho,Wholesale Trade,33850.0,46060.0,,,,250.0,96490.0,103399.16243654824
+Illinois,Wholesale Trade,287840.0,51720.0,230.0,88130.0,0.08,6350.0,103730.0,103399.16243654824
+Indiana,Wholesale Trade,126750.0,46710.0,60.0,72590.0,0.05,2200.0,75970.0,103399.16243654824
+Iowa,Wholesale Trade,66280.0,48760.0,,,,1970.0,94860.0,103399.16243654824
+Kansas,Wholesale Trade,56260.0,48270.0,,,,430.0,88860.0,103399.16243654824
+Kentucky,Wholesale Trade,75830.0,45360.0,190.0,135210.0,0.25,,81990.0,103399.16243654824
+Louisiana,Wholesale Trade,66520.0,45480.0,,,,580.0,65410.0,103399.16243654824
+Maine,Wholesale Trade,19500.0,50430.0,,,,800.0,95700.0,103399.16243654824
+Maryland,Wholesale Trade,84810.0,50820.0,,,,2010.0,117730.0,103399.16243654824
+Massachusetts,Wholesale Trade,122100.0,60230.0,60.0,106970.0,0.05,,106070.0,103399.16243654824
+Michigan,Wholesale Trade,166500.0,48470.0,150.0,108210.0,0.09,3900.0,85470.0,103399.16243654824
+Minnesota,Wholesale Trade,130490.0,54080.0,,,,1600.0,106920.0,103399.16243654824
+Mississippi,Wholesale Trade,34340.0,42170.0,,,,,56950.0,103399.16243654824
+Missouri,Wholesale Trade,122810.0,47410.0,130.0,76090.0,0.1,4020.0,78780.0,103399.16243654824
+Montana,Wholesale Trade,18250.0,48300.0,,,,90.0,75200.0,103399.16243654824
+Nebraska,Wholesale Trade,40450.0,47450.0,40.0,67230.0,0.11,1310.0,84490.0,103399.16243654824
+Nevada,Wholesale Trade,39770.0,48450.0,,,,850.0,82110.0,103399.16243654824
+New Hampshire,Wholesale Trade,30660.0,54850.0,,,,620.0,77620.0,103399.16243654824
+New Jersey,Wholesale Trade,209420.0,57290.0,160.0,118120.0,0.07,3030.0,129210.0,103399.16243654824
+New Mexico,Wholesale Trade,20500.0,44930.0,,,,330.0,78790.0,103399.16243654824
+New York,Wholesale Trade,304350.0,58970.0,360.0,115800.0,0.12,14760.0,124030.0,103399.16243654824
+North Carolina,Wholesale Trade,191000.0,47700.0,130.0,94250.0,0.07,5350.0,121970.0,103399.16243654824
+North Dakota,Wholesale Trade,22970.0,52800.0,,,,150.0,91050.0,103399.16243654824
+Ohio,Wholesale Trade,234880.0,48260.0,330.0,85800.0,0.14,3650.0,88950.0,103399.16243654824
+Oklahoma,Wholesale Trade,56270.0,44560.0,40.0,79730.0,0.07,1740.0,79720.0,103399.16243654824
+Oregon,Wholesale Trade,76250.0,51350.0,,,,1610.0,102530.0,103399.16243654824
+Pennsylvania,Wholesale Trade,211090.0,50110.0,130.0,97870.0,0.06,6370.0,91330.0,103399.16243654824
+Rhode Island,Wholesale Trade,16430.0,58070.0,,,,620.0,109240.0,103399.16243654824
+South Carolina,Wholesale Trade,79010.0,46960.0,40.0,78410.0,0.05,1180.0,99370.0,103399.16243654824
+South Dakota,Wholesale Trade,22050.0,46760.0,,,,110.0,108310.0,103399.16243654824
+Tennessee,Wholesale Trade,128450.0,46490.0,,,,1210.0,94690.0,103399.16243654824
+Texas,Wholesale Trade,609880.0,48100.0,580.0,121070.0,0.1,13780.0,99350.0,103399.16243654824
+Utah,Wholesale Trade,58040.0,47940.0,120.0,121750.0,0.22,3070.0,81250.0,103399.16243654824
+Vermont,Wholesale Trade,9040.0,47170.0,,191480.0,,150.0,,103399.16243654824
+Virginia,Wholesale Trade,109150.0,50370.0,,,,4500.0,132400.0,103399.16243654824
+Washington,Wholesale Trade,129580.0,58880.0,60.0,149740.0,0.05,4160.0,135850.0,103399.16243654824
+West Virginia,Wholesale Trade,18520.0,42800.0,,,,70.0,67010.0,103399.16243654824
+Wisconsin,Wholesale Trade,124460.0,49010.0,,,,2740.0,95410.0,103399.16243654824
+Wyoming,Wholesale Trade,7620.0,50600.0,,,,40.0,139970.0,103399.16243654824
+Alabama,Retail Trade,236520.0,28560.0,,,,,85870.0,113132.96551724138
+Alaska,Retail Trade,34570.0,36570.0,,,,150.0,100040.0,113132.96551724138
+Arizona,Retail Trade,346460.0,33910.0,,,,2860.0,102770.0,113132.96551724138
+Arkansas,Retail Trade,144340.0,28540.0,,,,,,113132.96551724138
+California,Retail Trade,1629560.0,36500.0,600.0,139640.0,0.04,29420.0,126810.0,113132.96551724138
+Colorado,Retail Trade,276470.0,35410.0,60.0,,0.02,3540.0,103200.0,113132.96551724138
+Connecticut,Retail Trade,167050.0,34890.0,,,,950.0,105700.0,113132.96551724138
+Delaware,Retail Trade,50740.0,30490.0,,,,480.0,132300.0,113132.96551724138
+District of Columbia,Retail Trade,20370.0,36010.0,,,,3200.0,97660.0,113132.96551724138
+Florida,Retail Trade,1128450.0,30710.0,80.0,82420.0,0.01,8190.0,100520.0,113132.96551724138
+Georgia,Retail Trade,509860.0,29620.0,80.0,101780.0,0.02,5650.0,100400.0,113132.96551724138
+Hawaii,Retail Trade,64570.0,35460.0,,,,90.0,112330.0,113132.96551724138
+Idaho,Retail Trade,94060.0,31700.0,,,,250.0,96490.0,113132.96551724138
+Illinois,Retail Trade,571290.0,33830.0,50.0,127330.0,0.01,6350.0,103730.0,113132.96551724138
+Indiana,Retail Trade,317130.0,30580.0,,,,2200.0,75970.0,113132.96551724138
+Iowa,Retail Trade,175450.0,30290.0,80.0,46990.0,0.05,1970.0,94860.0,113132.96551724138
+Kansas,Retail Trade,140840.0,29710.0,,,,430.0,88860.0,113132.96551724138
+Kentucky,Retail Trade,208390.0,29330.0,,,,,81990.0,113132.96551724138
+Louisiana,Retail Trade,222900.0,28040.0,,,,580.0,65410.0,113132.96551724138
+Maine,Retail Trade,79460.0,33960.0,,,,800.0,95700.0,113132.96551724138
+Maryland,Retail Trade,269340.0,33850.0,110.0,73020.0,0.04,2010.0,117730.0,113132.96551724138
+Massachusetts,Retail Trade,332310.0,35620.0,,,,,106070.0,113132.96551724138
+Michigan,Retail Trade,454800.0,31200.0,,,,3900.0,85470.0,113132.96551724138
+Minnesota,Retail Trade,282730.0,34240.0,,,,1600.0,106920.0,113132.96551724138
+Mississippi,Retail Trade,140530.0,27840.0,,,,,56950.0,113132.96551724138
+Missouri,Retail Trade,304350.0,29990.0,,,,4020.0,78780.0,113132.96551724138
+Montana,Retail Trade,61300.0,33420.0,,,,90.0,75200.0,113132.96551724138
+Nebraska,Retail Trade,106200.0,30510.0,,,,1310.0,84490.0,113132.96551724138
+Nevada,Retail Trade,150840.0,33590.0,,,,850.0,82110.0,113132.96551724138
+New Hampshire,Retail Trade,88500.0,33420.0,,,,620.0,77620.0,113132.96551724138
+New Jersey,Retail Trade,429030.0,34200.0,,,,3030.0,129210.0,113132.96551724138
+New Mexico,Retail Trade,92890.0,30180.0,,,,330.0,78790.0,113132.96551724138
+New York,Retail Trade,845250.0,35880.0,180.0,132970.0,0.02,14760.0,124030.0,113132.96551724138
+North Carolina,Retail Trade,518780.0,29790.0,,,,5350.0,121970.0,113132.96551724138
+North Dakota,Retail Trade,45310.0,34010.0,,,,150.0,91050.0,113132.96551724138
+Ohio,Retail Trade,551860.0,30110.0,,,,3650.0,88950.0,113132.96551724138
+Oklahoma,Retail Trade,183860.0,29110.0,,,,1740.0,79720.0,113132.96551724138
+Oregon,Retail Trade,210490.0,35490.0,,,,1610.0,102530.0,113132.96551724138
+Pennsylvania,Retail Trade,599650.0,30700.0,,,,6370.0,91330.0,113132.96551724138
+Rhode Island,Retail Trade,47640.0,34140.0,,,,620.0,109240.0,113132.96551724138
+South Carolina,Retail Trade,256330.0,29080.0,,,,1180.0,99370.0,113132.96551724138
+South Dakota,Retail Trade,52330.0,30670.0,,,,110.0,108310.0,113132.96551724138
+Tennessee,Retail Trade,338070.0,29910.0,,,,1210.0,94690.0,113132.96551724138
+Texas,Retail Trade,1370200.0,30780.0,180.0,109640.0,0.01,13780.0,99350.0,113132.96551724138
+Utah,Retail Trade,182740.0,33990.0,,,,3070.0,81250.0,113132.96551724138
+Vermont,Retail Trade,34760.0,35500.0,,,,150.0,,113132.96551724138
+Virginia,Retail Trade,395230.0,30780.0,,,,4500.0,132400.0,113132.96551724138
+Washington,Retail Trade,336610.0,37300.0,30.0,123170.0,0.01,4160.0,135850.0,113132.96551724138
+West Virginia,Retail Trade,79280.0,28200.0,,,,70.0,67010.0,113132.96551724138
+Wisconsin,Retail Trade,292520.0,30960.0,,,,2740.0,95410.0,113132.96551724138
+Wyoming,Retail Trade,30260.0,31030.0,,,,40.0,139970.0,113132.96551724138
+Alabama,Transportation and Warehousing,90690.0,,,,,,85870.0,92612.60416666669
+Alaska,Transportation and Warehousing,21550.0,59100.0,,,,150.0,100040.0,92612.60416666669
+Arizona,Transportation and Warehousing,148460.0,47000.0,,,,2860.0,102770.0,92612.60416666669
+Arkansas,Transportation and Warehousing,69310.0,44780.0,,,,,,92612.60416666669
+California,Transportation and Warehousing,843440.0,47530.0,210.0,171190.0,0.02,29420.0,126810.0,92612.60416666669
+Colorado,Transportation and Warehousing,113900.0,47420.0,,,,3540.0,103200.0,92612.60416666669
+Connecticut,Transportation and Warehousing,75050.0,46070.0,,,,950.0,105700.0,92612.60416666669
+Delaware,Transportation and Warehousing,23290.0,50040.0,,,,480.0,132300.0,92612.60416666669
+Florida,Transportation and Warehousing,436880.0,45140.0,140.0,105740.0,0.03,8190.0,100520.0,92612.60416666669
+Georgia,Transportation and Warehousing,277210.0,46700.0,,,,5650.0,100400.0,92612.60416666669
+Idaho,Transportation and Warehousing,31850.0,46350.0,,,,250.0,96490.0,92612.60416666669
+Illinois,Transportation and Warehousing,353480.0,49640.0,,,,6350.0,103730.0,92612.60416666669
+Indiana,Transportation and Warehousing,177970.0,46490.0,,,,2200.0,75970.0,92612.60416666669
+Iowa,Transportation and Warehousing,74440.0,47640.0,,,,1970.0,94860.0,92612.60416666669
+Kansas,Transportation and Warehousing,75330.0,47680.0,,,,430.0,88860.0,92612.60416666669
+Kentucky,Transportation and Warehousing,137950.0,47600.0,,,,,81990.0,92612.60416666669
+Louisiana,Transportation and Warehousing,87680.0,48990.0,,,,580.0,65410.0,92612.60416666669
+Maine,Transportation and Warehousing,20070.0,,,,,800.0,95700.0,92612.60416666669
+Massachusetts,Transportation and Warehousing,110580.0,48950.0,,,,,106070.0,92612.60416666669
+Michigan,Transportation and Warehousing,177210.0,50160.0,,,,3900.0,85470.0,92612.60416666669
+Minnesota,Transportation and Warehousing,111480.0,49840.0,,,,1600.0,106920.0,92612.60416666669
+Mississippi,Transportation and Warehousing,65160.0,46230.0,,,,,56950.0,92612.60416666669
+Missouri,Transportation and Warehousing,130860.0,47990.0,60.0,76140.0,0.05,4020.0,78780.0,92612.60416666669
+Montana,Transportation and Warehousing,18030.0,,,,,90.0,75200.0,92612.60416666669
+Nebraska,Transportation and Warehousing,53880.0,60150.0,,,,1310.0,84490.0,92612.60416666669
+Nevada,Transportation and Warehousing,96130.0,43720.0,,,,850.0,82110.0,92612.60416666669
+New Hampshire,Transportation and Warehousing,19870.0,47510.0,,,,620.0,77620.0,92612.60416666669
+New Jersey,Transportation and Warehousing,270430.0,45620.0,,,,3030.0,129210.0,92612.60416666669
+New York,Transportation and Warehousing,342120.0,49130.0,,,,14760.0,124030.0,92612.60416666669
+North Carolina,Transportation and Warehousing,209720.0,44260.0,,,,5350.0,121970.0,92612.60416666669
+North Dakota,Transportation and Warehousing,19630.0,55150.0,,,,150.0,91050.0,92612.60416666669
+Ohio,Transportation and Warehousing,278930.0,47840.0,30.0,84990.0,0.01,3650.0,88950.0,92612.60416666669
+Oklahoma,Transportation and Warehousing,77760.0,47900.0,,,,1740.0,79720.0,92612.60416666669
+Oregon,Transportation and Warehousing,81200.0,47200.0,,,,1610.0,102530.0,92612.60416666669
+Pennsylvania,Transportation and Warehousing,341560.0,46780.0,50.0,60150.0,0.02,6370.0,91330.0,92612.60416666669
+Rhode Island,Transportation and Warehousing,14490.0,,,,,620.0,109240.0,92612.60416666669
+South Carolina,Transportation and Warehousing,93570.0,43130.0,,,,1180.0,99370.0,92612.60416666669
+South Dakota,Transportation and Warehousing,14060.0,,,,,110.0,108310.0,92612.60416666669
+Tennessee,Transportation and Warehousing,214720.0,45210.0,,,,1210.0,94690.0,92612.60416666669
+Texas,Transportation and Warehousing,674970.0,47220.0,440.0,58530.0,0.06,13780.0,99350.0,92612.60416666669
+Utah,Transportation and Warehousing,73980.0,46990.0,30.0,75860.0,0.04,3070.0,81250.0,92612.60416666669
+Vermont,Transportation and Warehousing,8290.0,,,,,150.0,,92612.60416666669
+Washington,Transportation and Warehousing,135220.0,53040.0,,,,4160.0,135850.0,92612.60416666669
+Wisconsin,Transportation and Warehousing,130340.0,47800.0,,,,2740.0,95410.0,92612.60416666669
+Wyoming,Transportation and Warehousing,12570.0,52690.0,,,,40.0,139970.0,92612.60416666669
+Alabama,Information,22750.0,52990.0,60.0,59750.0,0.25,,85870.0,132035.70088587806
+Alaska,Information,4690.0,72280.0,,,,150.0,100040.0,132035.70088587806
+Arizona,Information,51720.0,65470.0,150.0,137490.0,0.29,2860.0,102770.0,132035.70088587806
+Arkansas,Information,12290.0,55110.0,,,,,,132035.70088587806
+California,Information,603870.0,111690.0,5630.0,166430.0,0.93,29420.0,126810.0,132035.70088587806
+Colorado,Information,73520.0,86420.0,630.0,112210.0,0.85,3540.0,103200.0,132035.70088587806
+Connecticut,Information,31370.0,80500.0,280.0,83450.0,0.9,950.0,105700.0,132035.70088587806
+Delaware,Information,3900.0,62100.0,,,,480.0,132300.0,132035.70088587806
+District of Columbia,Information,20900.0,93440.0,170.0,,0.81,3200.0,97660.0,132035.70088587806
+Florida,Information,152020.0,63770.0,1420.0,127810.0,0.93,8190.0,100520.0,132035.70088587806
+Georgia,Information,127810.0,79900.0,430.0,118580.0,0.33,5650.0,100400.0,132035.70088587806
+Hawaii,Information,7650.0,73790.0,,,,90.0,112330.0,132035.70088587806
+Idaho,Information,9040.0,47530.0,,,,250.0,96490.0,132035.70088587806
+Illinois,Information,95600.0,71850.0,280.0,132440.0,0.29,6350.0,103730.0,132035.70088587806
+Indiana,Information,26830.0,48870.0,50.0,81240.0,0.18,2200.0,75970.0,132035.70088587806
+Iowa,Information,19270.0,53020.0,60.0,101610.0,0.3,1970.0,94860.0,132035.70088587806
+Kansas,Information,18520.0,61980.0,250.0,88860.0,1.36,430.0,88860.0,132035.70088587806
+Kentucky,Information,20660.0,47730.0,50.0,77260.0,0.25,,81990.0,132035.70088587806
+Louisiana,Information,22670.0,50020.0,,,,580.0,65410.0,132035.70088587806
+Maine,Information,7370.0,58090.0,260.0,131190.0,3.46,800.0,95700.0,132035.70088587806
+Maryland,Information,34940.0,77700.0,90.0,107120.0,0.25,2010.0,117730.0,132035.70088587806
+Massachusetts,Information,95100.0,98120.0,370.0,121140.0,0.39,,106070.0,132035.70088587806
+Michigan,Information,54870.0,59950.0,240.0,70960.0,0.44,3900.0,85470.0,132035.70088587806
+Minnesota,Information,44890.0,65100.0,40.0,99800.0,0.09,1600.0,106920.0,132035.70088587806
+Mississippi,Information,9820.0,46510.0,40.0,57990.0,0.39,,56950.0,132035.70088587806
+Missouri,Information,47420.0,58280.0,,55440.0,,4020.0,78780.0,132035.70088587806
+Montana,Information,5800.0,50750.0,,,,90.0,75200.0,132035.70088587806
+Nebraska,Information,17890.0,62570.0,250.0,87310.0,1.39,1310.0,84490.0,132035.70088587806
+Nevada,Information,16590.0,64010.0,,133480.0,,850.0,82110.0,132035.70088587806
+New Hampshire,Information,11670.0,81580.0,100.0,,0.85,620.0,77620.0,132035.70088587806
+New Jersey,Information,78970.0,96420.0,,162110.0,,3030.0,129210.0,132035.70088587806
+New Mexico,Information,10710.0,54240.0,,,,330.0,78790.0,132035.70088587806
+New York,Information,288060.0,99300.0,3080.0,130870.0,1.07,14760.0,124030.0,132035.70088587806
+North Carolina,Information,73890.0,73550.0,410.0,109270.0,0.56,5350.0,121970.0,132035.70088587806
+North Dakota,Information,5810.0,60860.0,,,,150.0,91050.0,132035.70088587806
+Ohio,Information,68470.0,59350.0,,67780.0,,3650.0,88950.0,132035.70088587806
+Oklahoma,Information,18250.0,48810.0,,,,1740.0,79720.0,132035.70088587806
+Oregon,Information,36500.0,77510.0,130.0,94630.0,0.35,1610.0,102530.0,132035.70088587806
+Pennsylvania,Information,91540.0,62520.0,170.0,78990.0,0.19,6370.0,91330.0,132035.70088587806
+Rhode Island,Information,5890.0,83500.0,,,,620.0,109240.0,132035.70088587806
+South Carolina,Information,29390.0,58210.0,110.0,78280.0,0.37,1180.0,99370.0,132035.70088587806
+South Dakota,Information,5230.0,44680.0,,,,110.0,108310.0,132035.70088587806
+Tennessee,Information,51710.0,60800.0,160.0,128290.0,0.3,1210.0,94690.0,132035.70088587806
+Texas,Information,220710.0,61810.0,1490.0,102520.0,0.67,13780.0,99350.0,132035.70088587806
+Utah,Information,42870.0,70000.0,310.0,94630.0,0.72,3070.0,81250.0,132035.70088587806
+Vermont,Information,4240.0,54850.0,,,,150.0,,132035.70088587806
+Virginia,Information,68810.0,82350.0,140.0,143520.0,0.2,4500.0,132400.0,132035.70088587806
+Washington,Information,169060.0,135340.0,1670.0,169360.0,0.99,4160.0,135850.0,132035.70088587806
+West Virginia,Information,7770.0,57020.0,,,,70.0,67010.0,132035.70088587806
+Wisconsin,Information,45970.0,62500.0,670.0,76410.0,1.47,2740.0,95410.0,132035.70088587806
+Wyoming,Information,3090.0,48240.0,,,,40.0,139970.0,132035.70088587806
+Alabama,Finance and Insurance,72640.0,48240.0,80.0,48750.0,0.11,,85870.0,117449.9306971056
+Alaska,Finance and Insurance,6400.0,53070.0,,,,150.0,100040.0,117449.9306971056
+Arizona,Finance and Insurance,178290.0,59600.0,510.0,120380.0,0.28,2860.0,102770.0,117449.9306971056
+Arkansas,Finance and Insurance,40550.0,46850.0,,,,,,117449.9306971056
+California,Finance and Insurance,538910.0,73480.0,2220.0,140070.0,0.41,29420.0,126810.0,117449.9306971056
+Colorado,Finance and Insurance,117180.0,65670.0,440.0,103150.0,0.37,3540.0,103200.0,117449.9306971056
+Connecticut,Finance and Insurance,97080.0,94590.0,330.0,130530.0,0.34,950.0,105700.0,117449.9306971056
+Delaware,Finance and Insurance,40610.0,82070.0,420.0,132350.0,1.03,480.0,132300.0,117449.9306971056
+District of Columbia,Finance and Insurance,14710.0,100820.0,230.0,97960.0,1.57,3200.0,97660.0,117449.9306971056
+Florida,Finance and Insurance,439160.0,60370.0,1210.0,100310.0,0.28,8190.0,100520.0,117449.9306971056
+Georgia,Finance and Insurance,180940.0,60380.0,740.0,105160.0,0.41,5650.0,100400.0,117449.9306971056
+Hawaii,Finance and Insurance,15450.0,58660.0,50.0,100400.0,0.3,90.0,112330.0,117449.9306971056
+Idaho,Finance and Insurance,28000.0,49020.0,40.0,84790.0,0.15,250.0,96490.0,117449.9306971056
+Illinois,Finance and Insurance,299980.0,67310.0,2190.0,106400.0,0.73,6350.0,103730.0,117449.9306971056
+Indiana,Finance and Insurance,100980.0,50810.0,310.0,65090.0,0.31,2200.0,75970.0,117449.9306971056
+Iowa,Finance and Insurance,89080.0,62070.0,920.0,106900.0,1.03,1970.0,94860.0,117449.9306971056
+Kansas,Finance and Insurance,58090.0,57460.0,,,,430.0,88860.0,117449.9306971056
+Kentucky,Finance and Insurance,74810.0,57660.0,,81990.0,,,81990.0,117449.9306971056
+Louisiana,Finance and Insurance,54310.0,46540.0,,,,580.0,65410.0,117449.9306971056
+Maine,Finance and Insurance,23210.0,59640.0,100.0,76750.0,0.45,800.0,95700.0,117449.9306971056
+Maryland,Finance and Insurance,86450.0,71950.0,70.0,128460.0,0.08,2010.0,117730.0,117449.9306971056
+Massachusetts,Finance and Insurance,166690.0,84100.0,1520.0,128340.0,0.91,,106070.0,117449.9306971056
+Michigan,Finance and Insurance,163670.0,58170.0,410.0,82470.0,0.25,3900.0,85470.0,117449.9306971056
+Minnesota,Finance and Insurance,137790.0,68130.0,560.0,120250.0,0.41,1600.0,106920.0,117449.9306971056
+Mississippi,Finance and Insurance,31990.0,43250.0,,,,,56950.0,117449.9306971056
+Missouri,Finance and Insurance,133310.0,56490.0,700.0,77710.0,0.52,4020.0,78780.0,117449.9306971056
+Montana,Finance and Insurance,16710.0,47710.0,,,,90.0,75200.0,117449.9306971056
+Nebraska,Finance and Insurance,53570.0,57410.0,120.0,97940.0,0.22,1310.0,84490.0,117449.9306971056
+Nevada,Finance and Insurance,41340.0,49310.0,130.0,84880.0,0.32,850.0,82110.0,117449.9306971056
+New Hampshire,Finance and Insurance,26800.0,64070.0,90.0,110490.0,0.35,620.0,77620.0,117449.9306971056
+New Jersey,Finance and Insurance,179750.0,81660.0,,139110.0,,3030.0,129210.0,117449.9306971056
+New Mexico,Finance and Insurance,23290.0,47840.0,70.0,91000.0,0.28,330.0,78790.0,117449.9306971056
+New York,Finance and Insurance,489990.0,103960.0,2570.0,159300.0,0.52,14760.0,124030.0,117449.9306971056
+North Carolina,Finance and Insurance,214910.0,76560.0,1980.0,136230.0,0.92,5350.0,121970.0,117449.9306971056
+North Dakota,Finance and Insurance,17000.0,55480.0,,,,150.0,91050.0,117449.9306971056
+Ohio,Finance and Insurance,233540.0,60810.0,690.0,97880.0,0.3,3650.0,88950.0,117449.9306971056
+Oklahoma,Finance and Insurance,57010.0,47470.0,80.0,85030.0,0.14,1740.0,79720.0,117449.9306971056
+Oregon,Finance and Insurance,53900.0,58920.0,60.0,113100.0,0.11,1610.0,102530.0,117449.9306971056
+Pennsylvania,Finance and Insurance,260460.0,63130.0,1540.0,100820.0,0.59,6370.0,91330.0,117449.9306971056
+Rhode Island,Finance and Insurance,23720.0,67720.0,80.0,133840.0,0.34,620.0,109240.0,117449.9306971056
+South Carolina,Finance and Insurance,77280.0,49770.0,340.0,99690.0,0.43,1180.0,99370.0,117449.9306971056
+South Dakota,Finance and Insurance,23190.0,48960.0,70.0,105820.0,0.32,110.0,108310.0,117449.9306971056
+Tennessee,Finance and Insurance,124020.0,51600.0,130.0,107240.0,0.11,1210.0,94690.0,117449.9306971056
+Texas,Finance and Insurance,603090.0,58690.0,1890.0,107720.0,0.31,13780.0,99350.0,117449.9306971056
+Utah,Finance and Insurance,75280.0,52190.0,430.0,89550.0,0.57,3070.0,81250.0,117449.9306971056
+Vermont,Finance and Insurance,8650.0,58640.0,,,,150.0,,117449.9306971056
+Virginia,Finance and Insurance,144200.0,63260.0,500.0,142580.0,0.35,4500.0,132400.0,117449.9306971056
+Washington,Finance and Insurance,99620.0,62180.0,210.0,128640.0,0.21,4160.0,135850.0,117449.9306971056
+West Virginia,Finance and Insurance,17940.0,39810.0,,,,70.0,67010.0,117449.9306971056
+Wisconsin,Finance and Insurance,124100.0,58110.0,500.0,101600.0,0.41,2740.0,95410.0,117449.9306971056
+Wyoming,Finance and Insurance,7450.0,46340.0,,,,40.0,139970.0,117449.9306971056
+Alabama,Real Estate and Rental and Leasing,25050.0,39260.0,,,,,85870.0,130392.30769230767
+Alaska,Real Estate and Rental and Leasing,4370.0,47530.0,,,,150.0,100040.0,130392.30769230767
+Arizona,Real Estate and Rental and Leasing,58540.0,47150.0,,,,2860.0,102770.0,130392.30769230767
+Arkansas,Real Estate and Rental and Leasing,14680.0,34860.0,,,,,,130392.30769230767
+California,Real Estate and Rental and Leasing,307310.0,49220.0,70.0,122650.0,0.02,29420.0,126810.0,130392.30769230767
+Colorado,Real Estate and Rental and Leasing,57200.0,50570.0,,,,3540.0,103200.0,130392.30769230767
+Connecticut,Real Estate and Rental and Leasing,18710.0,54420.0,,,,950.0,105700.0,130392.30769230767
+Delaware,Real Estate and Rental and Leasing,5910.0,45450.0,,,,480.0,132300.0,130392.30769230767
+District of Columbia,Real Estate and Rental and Leasing,12590.0,61760.0,,,,3200.0,97660.0,130392.30769230767
+Florida,Real Estate and Rental and Leasing,208170.0,42080.0,50.0,96490.0,0.02,8190.0,100520.0,130392.30769230767
+Georgia,Real Estate and Rental and Leasing,76160.0,45510.0,,,,5650.0,100400.0,130392.30769230767
+Hawaii,Real Estate and Rental and Leasing,11750.0,47610.0,,,,90.0,112330.0,130392.30769230767
+Idaho,Real Estate and Rental and Leasing,10410.0,38180.0,,,,250.0,96490.0,130392.30769230767
+Illinois,Real Estate and Rental and Leasing,80280.0,45970.0,110.0,101730.0,0.13,6350.0,103730.0,130392.30769230767
+Indiana,Real Estate and Rental and Leasing,35790.0,40200.0,,,,2200.0,75970.0,130392.30769230767
+Iowa,Real Estate and Rental and Leasing,14880.0,43280.0,,,,1970.0,94860.0,130392.30769230767
+Kansas,Real Estate and Rental and Leasing,15340.0,38620.0,,,,430.0,88860.0,130392.30769230767
+Kentucky,Real Estate and Rental and Leasing,20850.0,37120.0,,,,,81990.0,130392.30769230767
+Louisiana,Real Estate and Rental and Leasing,29580.0,38840.0,,,,580.0,65410.0,130392.30769230767
+Maine,Real Estate and Rental and Leasing,7170.0,44760.0,,,,800.0,95700.0,130392.30769230767
+Maryland,Real Estate and Rental and Leasing,42200.0,49290.0,,,,2010.0,117730.0,130392.30769230767
+Massachusetts,Real Estate and Rental and Leasing,47670.0,59250.0,,,,,106070.0,130392.30769230767
+Michigan,Real Estate and Rental and Leasing,55450.0,44590.0,,,,3900.0,85470.0,130392.30769230767
+Minnesota,Real Estate and Rental and Leasing,35160.0,47380.0,,,,1600.0,106920.0,130392.30769230767
+Mississippi,Real Estate and Rental and Leasing,11420.0,36270.0,,,,,56950.0,130392.30769230767
+Missouri,Real Estate and Rental and Leasing,40320.0,39900.0,,,,4020.0,78780.0,130392.30769230767
+Montana,Real Estate and Rental and Leasing,6970.0,40220.0,,,,90.0,75200.0,130392.30769230767
+Nebraska,Real Estate and Rental and Leasing,10750.0,41180.0,,,,1310.0,84490.0,130392.30769230767
+Nevada,Real Estate and Rental and Leasing,28210.0,43380.0,,,,850.0,82110.0,130392.30769230767
+New Hampshire,Real Estate and Rental and Leasing,6920.0,48300.0,,,,620.0,77620.0,130392.30769230767
+New Jersey,Real Estate and Rental and Leasing,60950.0,52600.0,,,,3030.0,129210.0,130392.30769230767
+New Mexico,Real Estate and Rental and Leasing,10240.0,38950.0,,,,330.0,78790.0,130392.30769230767
+New York,Real Estate and Rental and Leasing,192430.0,55590.0,130.0,172560.0,0.07,14760.0,124030.0,130392.30769230767
+North Carolina,Real Estate and Rental and Leasing,67500.0,43780.0,,,,5350.0,121970.0,130392.30769230767
+North Dakota,Real Estate and Rental and Leasing,5080.0,46560.0,,,,150.0,91050.0,130392.30769230767
+Ohio,Real Estate and Rental and Leasing,66090.0,42250.0,,,,3650.0,88950.0,130392.30769230767
+Oklahoma,Real Estate and Rental and Leasing,21310.0,35920.0,,,,1740.0,79720.0,130392.30769230767
+Oregon,Real Estate and Rental and Leasing,29190.0,45400.0,,,,1610.0,102530.0,130392.30769230767
+Pennsylvania,Real Estate and Rental and Leasing,66850.0,45410.0,,,,6370.0,91330.0,130392.30769230767
+Rhode Island,Real Estate and Rental and Leasing,6460.0,47560.0,,,,620.0,109240.0,130392.30769230767
+South Carolina,Real Estate and Rental and Leasing,33080.0,41810.0,,,,1180.0,99370.0,130392.30769230767
+South Dakota,Real Estate and Rental and Leasing,4240.0,39530.0,,,,110.0,108310.0,130392.30769230767
+Tennessee,Real Estate and Rental and Leasing,41320.0,38990.0,,,,1210.0,94690.0,130392.30769230767
+Texas,Real Estate and Rental and Leasing,237530.0,43860.0,,78850.0,,13780.0,99350.0,130392.30769230767
+Utah,Real Estate and Rental and Leasing,22780.0,45400.0,,,,3070.0,81250.0,130392.30769230767
+Vermont,Real Estate and Rental and Leasing,3110.0,47200.0,,,,150.0,,130392.30769230767
+Virginia,Real Estate and Rental and Leasing,56640.0,47740.0,,,,4500.0,132400.0,130392.30769230767
+Washington,Real Estate and Rental and Leasing,55230.0,51160.0,30.0,127330.0,0.06,4160.0,135850.0,130392.30769230767
+West Virginia,Real Estate and Rental and Leasing,6720.0,36780.0,,,,70.0,67010.0,130392.30769230767
+Wisconsin,Real Estate and Rental and Leasing,26630.0,43510.0,,,,2740.0,95410.0,130392.30769230767
+Wyoming,Real Estate and Rental and Leasing,4050.0,43750.0,,,,40.0,139970.0,130392.30769230767
+Alabama,"Professional, Scientific, and Technical Services",117090.0,70910.0,640.0,98270.0,0.55,,85870.0,105672.4144276776
+Alaska,"Professional, Scientific, and Technical Services",12890.0,76800.0,,,,150.0,100040.0,105672.4144276776
+Arizona,"Professional, Scientific, and Technical Services",176040.0,65290.0,1170.0,102240.0,0.66,2860.0,102770.0,105672.4144276776
+Arkansas,"Professional, Scientific, and Technical Services",46960.0,51240.0,,,,,,105672.4144276776
+California,"Professional, Scientific, and Technical Services",1420730.0,96420.0,9350.0,127970.0,0.66,29420.0,126810.0,105672.4144276776
+Colorado,"Professional, Scientific, and Technical Services",274650.0,92770.0,1120.0,120790.0,0.41,3540.0,103200.0,105672.4144276776
+Connecticut,"Professional, Scientific, and Technical Services",96210.0,82580.0,170.0,77320.0,0.18,950.0,105700.0,105672.4144276776
+Delaware,"Professional, Scientific, and Technical Services",26720.0,78750.0,,,,480.0,132300.0,105672.4144276776
+District of Columbia,"Professional, Scientific, and Technical Services",123970.0,108870.0,2330.0,98670.0,1.88,3200.0,97660.0,105672.4144276776
+Florida,"Professional, Scientific, and Technical Services",695950.0,62470.0,2620.0,99330.0,0.38,8190.0,100520.0,105672.4144276776
+Georgia,"Professional, Scientific, and Technical Services",307090.0,74320.0,1860.0,87130.0,0.61,5650.0,100400.0,105672.4144276776
+Hawaii,"Professional, Scientific, and Technical Services",25660.0,70310.0,,,,90.0,112330.0,105672.4144276776
+Idaho,"Professional, Scientific, and Technical Services",47570.0,62390.0,,96550.0,,250.0,96490.0,105672.4144276776
+Illinois,"Professional, Scientific, and Technical Services",442200.0,80000.0,1640.0,105660.0,0.37,6350.0,103730.0,105672.4144276776
+Indiana,"Professional, Scientific, and Technical Services",139310.0,59760.0,540.0,81790.0,0.39,2200.0,75970.0,105672.4144276776
+Iowa,"Professional, Scientific, and Technical Services",55160.0,60440.0,180.0,77830.0,0.33,1970.0,94860.0,105672.4144276776
+Kansas,"Professional, Scientific, and Technical Services",75330.0,61820.0,,92510.0,,430.0,88860.0,105672.4144276776
+Kentucky,"Professional, Scientific, and Technical Services",84100.0,53680.0,360.0,89110.0,0.43,,81990.0,105672.4144276776
+Louisiana,"Professional, Scientific, and Technical Services",92560.0,57970.0,,61510.0,,580.0,65410.0,105672.4144276776
+Maine,"Professional, Scientific, and Technical Services",31560.0,64480.0,140.0,78950.0,0.46,800.0,95700.0,105672.4144276776
+Maryland,"Professional, Scientific, and Technical Services",274900.0,93610.0,1400.0,127560.0,0.51,2010.0,117730.0,105672.4144276776
+Massachusetts,"Professional, Scientific, and Technical Services",372090.0,103060.0,2750.0,102170.0,0.74,,106070.0,105672.4144276776
+Michigan,"Professional, Scientific, and Technical Services",309510.0,76560.0,1390.0,101840.0,0.45,3900.0,85470.0,105672.4144276776
+Minnesota,"Professional, Scientific, and Technical Services",167000.0,77690.0,350.0,107150.0,0.21,1600.0,106920.0,105672.4144276776
+Mississippi,"Professional, Scientific, and Technical Services",36270.0,49620.0,110.0,41750.0,0.31,,56950.0,105672.4144276776
+Missouri,"Professional, Scientific, and Technical Services",170330.0,62890.0,1570.0,64820.0,0.92,4020.0,78780.0,105672.4144276776
+Montana,"Professional, Scientific, and Technical Services",27000.0,61290.0,50.0,50230.0,0.19,90.0,75200.0,105672.4144276776
+Nebraska,"Professional, Scientific, and Technical Services",48230.0,59990.0,300.0,100120.0,0.61,1310.0,84490.0,105672.4144276776
+Nevada,"Professional, Scientific, and Technical Services",65960.0,65000.0,380.0,,0.57,850.0,82110.0,105672.4144276776
+New Hampshire,"Professional, Scientific, and Technical Services",46550.0,79280.0,230.0,82190.0,0.5,620.0,77620.0,105672.4144276776
+New Jersey,"Professional, Scientific, and Technical Services",338100.0,92710.0,1290.0,128320.0,0.38,3030.0,129210.0,105672.4144276776
+New Mexico,"Professional, Scientific, and Technical Services",63360.0,79470.0,40.0,,0.06,330.0,78790.0,105672.4144276776
+New York,"Professional, Scientific, and Technical Services",690420.0,86270.0,4790.0,118710.0,0.69,14760.0,124030.0,105672.4144276776
+North Carolina,"Professional, Scientific, and Technical Services",319090.0,75800.0,1440.0,110370.0,0.45,5350.0,121970.0,105672.4144276776
+North Dakota,"Professional, Scientific, and Technical Services",16650.0,61100.0,,,,150.0,91050.0,105672.4144276776
+Ohio,"Professional, Scientific, and Technical Services",281490.0,68340.0,790.0,105640.0,0.28,3650.0,88950.0,105672.4144276776
+Oklahoma,"Professional, Scientific, and Technical Services",73430.0,55410.0,540.0,69260.0,0.73,1740.0,79720.0,105672.4144276776
+Oregon,"Professional, Scientific, and Technical Services",106840.0,74940.0,430.0,63230.0,0.4,1610.0,102530.0,105672.4144276776
+Pennsylvania,"Professional, Scientific, and Technical Services",385560.0,71690.0,2540.0,91300.0,0.66,6370.0,91330.0,105672.4144276776
+Rhode Island,"Professional, Scientific, and Technical Services",30270.0,78310.0,120.0,128160.0,0.39,620.0,109240.0,105672.4144276776
+South Carolina,"Professional, Scientific, and Technical Services",115480.0,59970.0,210.0,95560.0,0.19,1180.0,99370.0,105672.4144276776
+South Dakota,"Professional, Scientific, and Technical Services",17270.0,58550.0,30.0,108310.0,0.19,110.0,108310.0,105672.4144276776
+Tennessee,"Professional, Scientific, and Technical Services",163110.0,62040.0,340.0,80000.0,0.21,1210.0,94690.0,105672.4144276776
+Texas,"Professional, Scientific, and Technical Services",965410.0,73010.0,5300.0,89710.0,0.55,13780.0,99350.0,105672.4144276776
+Utah,"Professional, Scientific, and Technical Services",129550.0,64300.0,1480.0,74170.0,1.14,3070.0,81250.0,105672.4144276776
+Vermont,"Professional, Scientific, and Technical Services",17080.0,74450.0,,183810.0,,150.0,,105672.4144276776
+Virginia,"Professional, Scientific, and Technical Services",449220.0,99060.0,2750.0,137620.0,0.61,4500.0,132400.0,105672.4144276776
+Washington,"Professional, Scientific, and Technical Services",240030.0,84480.0,940.0,132960.0,0.39,4160.0,135850.0,105672.4144276776
+West Virginia,"Professional, Scientific, and Technical Services",27750.0,50060.0,,,,70.0,67010.0,105672.4144276776
+Wisconsin,"Professional, Scientific, and Technical Services",121170.0,64080.0,660.0,96900.0,0.54,2740.0,95410.0,105672.4144276776
+Wyoming,"Professional, Scientific, and Technical Services",10610.0,59530.0,,,,40.0,139970.0,105672.4144276776
+Alabama,Management of Companies and Enterprises,21660.0,69000.0,50.0,101560.0,0.24,,85870.0,106531.90854870775
+Alaska,Management of Companies and Enterprises,2790.0,64440.0,,,,150.0,100040.0,106531.90854870775
+Arizona,Management of Companies and Enterprises,39990.0,67810.0,180.0,105020.0,0.44,2860.0,102770.0,106531.90854870775
+Arkansas,Management of Companies and Enterprises,36640.0,81740.0,,,,,,106531.90854870775
+California,Management of Companies and Enterprises,251990.0,94910.0,2900.0,133920.0,1.15,29420.0,126810.0,106531.90854870775
+Colorado,Management of Companies and Enterprises,59140.0,85830.0,210.0,106520.0,0.35,3540.0,103200.0,106531.90854870775
+Connecticut,Management of Companies and Enterprises,37970.0,88080.0,40.0,134010.0,0.09,950.0,105700.0,106531.90854870775
+Delaware,Management of Companies and Enterprises,10680.0,105050.0,,,,480.0,132300.0,106531.90854870775
+District of Columbia,Management of Companies and Enterprises,2950.0,104290.0,,,,3200.0,97660.0,106531.90854870775
+Florida,Management of Companies and Enterprises,130980.0,64680.0,610.0,81850.0,0.47,8190.0,100520.0,106531.90854870775
+Georgia,Management of Companies and Enterprises,106440.0,83160.0,840.0,124610.0,0.79,5650.0,100400.0,106531.90854870775
+Hawaii,Management of Companies and Enterprises,8420.0,66270.0,,,,90.0,112330.0,106531.90854870775
+Idaho,Management of Companies and Enterprises,8660.0,68600.0,,,,250.0,96490.0,106531.90854870775
+Illinois,Management of Companies and Enterprises,89880.0,84310.0,640.0,106670.0,0.71,6350.0,103730.0,106531.90854870775
+Indiana,Management of Companies and Enterprises,35700.0,61050.0,210.0,76670.0,0.58,2200.0,75970.0,106531.90854870775
+Iowa,Management of Companies and Enterprises,28830.0,64590.0,240.0,103490.0,0.85,1970.0,94860.0,106531.90854870775
+Kansas,Management of Companies and Enterprises,21670.0,77480.0,70.0,92840.0,0.31,430.0,88860.0,106531.90854870775
+Kentucky,Management of Companies and Enterprises,21080.0,60430.0,90.0,98580.0,0.43,,81990.0,106531.90854870775
+Louisiana,Management of Companies and Enterprises,21220.0,60510.0,,,,580.0,65410.0,106531.90854870775
+Maine,Management of Companies and Enterprises,15300.0,62550.0,100.0,92120.0,0.67,800.0,95700.0,106531.90854870775
+Maryland,Management of Companies and Enterprises,30670.0,82360.0,,,,2010.0,117730.0,106531.90854870775
+Massachusetts,Management of Companies and Enterprises,67930.0,80220.0,230.0,120270.0,0.34,,106070.0,106531.90854870775
+Michigan,Management of Companies and Enterprises,75830.0,84200.0,470.0,101710.0,0.62,3900.0,85470.0,106531.90854870775
+Minnesota,Management of Companies and Enterprises,91730.0,85150.0,430.0,104540.0,0.47,1600.0,106920.0,106531.90854870775
+Mississippi,Management of Companies and Enterprises,12390.0,61940.0,,,,,56950.0,106531.90854870775
+Missouri,Management of Companies and Enterprises,61110.0,74710.0,370.0,105000.0,0.6,4020.0,78780.0,106531.90854870775
+Montana,Management of Companies and Enterprises,2110.0,53040.0,,,,90.0,75200.0,106531.90854870775
+Nebraska,Management of Companies and Enterprises,21250.0,76480.0,210.0,86020.0,0.99,1310.0,84490.0,106531.90854870775
+Nevada,Management of Companies and Enterprises,28290.0,64560.0,110.0,95070.0,0.37,850.0,82110.0,106531.90854870775
+New Hampshire,Management of Companies and Enterprises,11650.0,65630.0,40.0,98980.0,0.32,620.0,77620.0,106531.90854870775
+New Jersey,Management of Companies and Enterprises,93660.0,117410.0,330.0,129720.0,0.36,3030.0,129210.0,106531.90854870775
+New Mexico,Management of Companies and Enterprises,5760.0,59480.0,,,,330.0,78790.0,106531.90854870775
+New York,Management of Companies and Enterprises,167030.0,100660.0,1070.0,108090.0,0.64,14760.0,124030.0,106531.90854870775
+North Carolina,Management of Companies and Enterprises,93810.0,85090.0,510.0,129690.0,0.54,5350.0,121970.0,106531.90854870775
+North Dakota,Management of Companies and Enterprises,4200.0,74260.0,,,,150.0,91050.0,106531.90854870775
+Ohio,Management of Companies and Enterprises,144670.0,77790.0,760.0,99540.0,0.53,3650.0,88950.0,106531.90854870775
+Oklahoma,Management of Companies and Enterprises,28050.0,66820.0,270.0,110850.0,0.97,1740.0,79720.0,106531.90854870775
+Oregon,Management of Companies and Enterprises,50140.0,82000.0,170.0,110670.0,0.33,1610.0,102530.0,106531.90854870775
+Pennsylvania,Management of Companies and Enterprises,146270.0,76740.0,750.0,96740.0,0.51,6370.0,91330.0,106531.90854870775
+Rhode Island,Management of Companies and Enterprises,14940.0,84240.0,260.0,118080.0,1.72,620.0,109240.0,106531.90854870775
+South Carolina,Management of Companies and Enterprises,25480.0,64380.0,130.0,104600.0,0.51,1180.0,99370.0,106531.90854870775
+South Dakota,Management of Companies and Enterprises,5350.0,63820.0,,,,110.0,108310.0,106531.90854870775
+Tennessee,Management of Companies and Enterprises,58510.0,62040.0,170.0,102700.0,0.29,1210.0,94690.0,106531.90854870775
+Texas,Management of Companies and Enterprises,199420.0,86690.0,850.0,102490.0,0.43,13780.0,99350.0,106531.90854870775
+Utah,Management of Companies and Enterprises,20330.0,64380.0,120.0,85990.0,0.57,3070.0,81250.0,106531.90854870775
+Vermont,Management of Companies and Enterprises,2670.0,70520.0,,,,150.0,,106531.90854870775
+Virginia,Management of Companies and Enterprises,87190.0,90890.0,620.0,111010.0,0.71,4500.0,132400.0,106531.90854870775
+Washington,Management of Companies and Enterprises,106900.0,66640.0,670.0,,0.63,4160.0,135850.0,106531.90854870775
+West Virginia,Management of Companies and Enterprises,7720.0,55800.0,,,,70.0,67010.0,106531.90854870775
+Wisconsin,Management of Companies and Enterprises,65530.0,72380.0,370.0,102090.0,0.56,2740.0,95410.0,106531.90854870775
+Wyoming,Management of Companies and Enterprises,960.0,88450.0,,,,40.0,139970.0,106531.90854870775
+Alabama,Administrative and Support and Waste Management and Remediation Services,128590.0,30050.0,,,,,85870.0,88439.66666666667
+Alaska,Administrative and Support and Waste Management and Remediation Services,11070.0,46760.0,,,,150.0,100040.0,88439.66666666667
+Arizona,Administrative and Support and Waste Management and Remediation Services,249760.0,36720.0,,182640.0,,2860.0,102770.0,88439.66666666667
+Arkansas,Administrative and Support and Waste Management and Remediation Services,68330.0,30660.0,,,,,,88439.66666666667
+California,Administrative and Support and Waste Management and Remediation Services,1179660.0,40060.0,2530.0,75400.0,0.21,29420.0,126810.0,88439.66666666667
+Colorado,Administrative and Support and Waste Management and Remediation Services,157170.0,41320.0,120.0,79990.0,0.08,3540.0,103200.0,88439.66666666667
+Connecticut,Administrative and Support and Waste Management and Remediation Services,89030.0,38240.0,,93530.0,,950.0,105700.0,88439.66666666667
+Delaware,Administrative and Support and Waste Management and Remediation Services,30470.0,36250.0,,,,480.0,132300.0,88439.66666666667
+District of Columbia,Administrative and Support and Waste Management and Remediation Services,47640.0,50140.0,130.0,97150.0,0.28,3200.0,97660.0,88439.66666666667
+Florida,Administrative and Support and Waste Management and Remediation Services,735420.0,35850.0,650.0,98520.0,0.09,8190.0,100520.0,88439.66666666667
+Georgia,Administrative and Support and Waste Management and Remediation Services,363540.0,34980.0,570.0,130210.0,0.16,5650.0,100400.0,88439.66666666667
+Hawaii,Administrative and Support and Waste Management and Remediation Services,36150.0,36140.0,,,,90.0,112330.0,88439.66666666667
+Idaho,Administrative and Support and Waste Management and Remediation Services,49430.0,37090.0,,,,250.0,96490.0,88439.66666666667
+Illinois,Administrative and Support and Waste Management and Remediation Services,448510.0,36420.0,,103340.0,,6350.0,103730.0,88439.66666666667
+Indiana,Administrative and Support and Waste Management and Remediation Services,192000.0,35320.0,110.0,52420.0,0.06,2200.0,75970.0,88439.66666666667
+Iowa,Administrative and Support and Waste Management and Remediation Services,67470.0,36100.0,50.0,89290.0,0.07,1970.0,94860.0,88439.66666666667
+Kansas,Administrative and Support and Waste Management and Remediation Services,81830.0,36430.0,,,,430.0,88860.0,88439.66666666667
+Kentucky,Administrative and Support and Waste Management and Remediation Services,123670.0,34850.0,200.0,75650.0,0.16,,81990.0,88439.66666666667
+Louisiana,Administrative and Support and Waste Management and Remediation Services,104850.0,31560.0,,,,580.0,65410.0,88439.66666666667
+Maine,Administrative and Support and Waste Management and Remediation Services,29510.0,38570.0,,,,800.0,95700.0,88439.66666666667
+Maryland,Administrative and Support and Waste Management and Remediation Services,172320.0,41030.0,50.0,69610.0,0.03,2010.0,117730.0,88439.66666666667
+Massachusetts,Administrative and Support and Waste Management and Remediation Services,192300.0,45800.0,220.0,103840.0,0.11,,106070.0,88439.66666666667
+Michigan,Administrative and Support and Waste Management and Remediation Services,279720.0,36460.0,160.0,90760.0,0.06,3900.0,85470.0,88439.66666666667
+Minnesota,Administrative and Support and Waste Management and Remediation Services,133900.0,38190.0,,,,1600.0,106920.0,88439.66666666667
+Mississippi,Administrative and Support and Waste Management and Remediation Services,72170.0,29390.0,40.0,62070.0,0.06,,56950.0,88439.66666666667
+Missouri,Administrative and Support and Waste Management and Remediation Services,153460.0,35570.0,430.0,92950.0,0.28,4020.0,78780.0,88439.66666666667
+Montana,Administrative and Support and Waste Management and Remediation Services,20270.0,39440.0,,,,90.0,75200.0,88439.66666666667
+Nebraska,Administrative and Support and Waste Management and Remediation Services,51640.0,36380.0,30.0,88940.0,0.06,1310.0,84490.0,88439.66666666667
+Nevada,Administrative and Support and Waste Management and Remediation Services,108880.0,35960.0,,,,850.0,82110.0,88439.66666666667
+New Hampshire,Administrative and Support and Waste Management and Remediation Services,37370.0,45220.0,,122950.0,,620.0,77620.0,88439.66666666667
+New Jersey,Administrative and Support and Waste Management and Remediation Services,299380.0,37440.0,190.0,106870.0,0.06,3030.0,129210.0,88439.66666666667
+New Mexico,Administrative and Support and Waste Management and Remediation Services,45770.0,36250.0,,,,330.0,78790.0,88439.66666666667
+New York,Administrative and Support and Waste Management and Remediation Services,501350.0,43060.0,650.0,85230.0,0.13,14760.0,124030.0,88439.66666666667
+North Carolina,Administrative and Support and Waste Management and Remediation Services,335140.0,34810.0,520.0,105020.0,0.16,5350.0,121970.0,88439.66666666667
+North Dakota,Administrative and Support and Waste Management and Remediation Services,12730.0,38530.0,,,,150.0,91050.0,88439.66666666667
+Ohio,Administrative and Support and Waste Management and Remediation Services,326120.0,35510.0,,,,3650.0,88950.0,88439.66666666667
+Oklahoma,Administrative and Support and Waste Management and Remediation Services,101230.0,33880.0,,,,1740.0,79720.0,88439.66666666667
+Oregon,Administrative and Support and Waste Management and Remediation Services,104290.0,39570.0,100.0,125670.0,0.1,1610.0,102530.0,88439.66666666667
+Pennsylvania,Administrative and Support and Waste Management and Remediation Services,313250.0,36080.0,270.0,61720.0,0.09,6370.0,91330.0,88439.66666666667
+Rhode Island,Administrative and Support and Waste Management and Remediation Services,29790.0,38620.0,,,,620.0,109240.0,88439.66666666667
+South Carolina,Administrative and Support and Waste Management and Remediation Services,169250.0,34010.0,110.0,194550.0,0.06,1180.0,99370.0,88439.66666666667
+South Dakota,Administrative and Support and Waste Management and Remediation Services,14420.0,35720.0,,,,110.0,108310.0,88439.66666666667
+Tennessee,Administrative and Support and Waste Management and Remediation Services,240330.0,34420.0,,,,1210.0,94690.0,88439.66666666667
+Texas,Administrative and Support and Waste Management and Remediation Services,903700.0,35660.0,1640.0,75920.0,0.18,13780.0,99350.0,88439.66666666667
+Utah,Administrative and Support and Waste Management and Remediation Services,95020.0,36440.0,110.0,69150.0,0.11,3070.0,81250.0,88439.66666666667
+Vermont,Administrative and Support and Waste Management and Remediation Services,12540.0,41600.0,,,,150.0,,88439.66666666667
+Virginia,Administrative and Support and Waste Management and Remediation Services,255190.0,37360.0,80.0,140450.0,0.03,4500.0,132400.0,88439.66666666667
+Washington,Administrative and Support and Waste Management and Remediation Services,181450.0,46630.0,200.0,118080.0,0.11,4160.0,135850.0,88439.66666666667
+West Virginia,Administrative and Support and Waste Management and Remediation Services,36230.0,32770.0,,,,70.0,67010.0,88439.66666666667
+Wisconsin,Administrative and Support and Waste Management and Remediation Services,138990.0,36140.0,140.0,85710.0,0.1,2740.0,95410.0,88439.66666666667
+Wyoming,Administrative and Support and Waste Management and Remediation Services,9180.0,37720.0,,,,40.0,139970.0,88439.66666666667
+Alabama,Educational Services,164970.0,48960.0,,,,,85870.0,79698.73614190688
+Alaska,Educational Services,29060.0,61030.0,,,,150.0,100040.0,79698.73614190688
+Arizona,Educational Services,236800.0,48260.0,120.0,65940.0,0.05,2860.0,102770.0,79698.73614190688
+Arkansas,Educational Services,104550.0,47030.0,,,,,,79698.73614190688
+California,Educational Services,1454700.0,62440.0,790.0,110380.0,0.05,29420.0,126810.0,79698.73614190688
+Colorado,Educational Services,229360.0,53130.0,60.0,80320.0,0.02,3540.0,103200.0,79698.73614190688
+Connecticut,Educational Services,176410.0,65140.0,,,,950.0,105700.0,79698.73614190688
+Delaware,Educational Services,41250.0,59330.0,,,,480.0,132300.0,79698.73614190688
+District of Columbia,Educational Services,54660.0,66390.0,,,,3200.0,97660.0,79698.73614190688
+Florida,Educational Services,628530.0,49000.0,300.0,49350.0,0.05,8190.0,100520.0,79698.73614190688
+Georgia,Educational Services,391680.0,52410.0,260.0,67680.0,0.07,5650.0,100400.0,79698.73614190688
+Hawaii,Educational Services,55470.0,51810.0,,,,90.0,112330.0,79698.73614190688
+Idaho,Educational Services,68000.0,46890.0,,,,250.0,96490.0,79698.73614190688
+Illinois,Educational Services,539110.0,55370.0,130.0,67060.0,0.02,6350.0,103730.0,79698.73614190688
+Indiana,Educational Services,248910.0,47840.0,250.0,74370.0,0.1,2200.0,75970.0,79698.73614190688
+Iowa,Educational Services,152580.0,48010.0,120.0,67290.0,0.08,1970.0,94860.0,79698.73614190688
+Kansas,Educational Services,137720.0,46860.0,,,,430.0,88860.0,79698.73614190688
+Kentucky,Educational Services,166920.0,48050.0,120.0,62200.0,0.07,,81990.0,79698.73614190688
+Louisiana,Educational Services,166650.0,48730.0,,,,580.0,65410.0,79698.73614190688
+Maine,Educational Services,60020.0,49120.0,40.0,70230.0,0.07,800.0,95700.0,79698.73614190688
+Maryland,Educational Services,265950.0,61180.0,,,,2010.0,117730.0,79698.73614190688
+Massachusetts,Educational Services,372080.0,67230.0,120.0,74950.0,0.03,,106070.0,79698.73614190688
+Michigan,Educational Services,337500.0,49480.0,140.0,79960.0,0.04,3900.0,85470.0,79698.73614190688
+Minnesota,Educational Services,233940.0,53350.0,,,,1600.0,106920.0,79698.73614190688
+Mississippi,Educational Services,108190.0,45650.0,,,,,56950.0,79698.73614190688
+Missouri,Educational Services,243500.0,48030.0,230.0,63910.0,0.09,4020.0,78780.0,79698.73614190688
+Montana,Educational Services,43340.0,47480.0,,,,90.0,75200.0,79698.73614190688
+Nebraska,Educational Services,92030.0,49300.0,120.0,77360.0,0.13,1310.0,84490.0,79698.73614190688
+Nevada,Educational Services,82690.0,51490.0,40.0,46970.0,0.05,850.0,82110.0,79698.73614190688
+New Hampshire,Educational Services,62380.0,56560.0,30.0,86930.0,0.05,620.0,77620.0,79698.73614190688
+New Jersey,Educational Services,383830.0,63450.0,,,,3030.0,129210.0,79698.73614190688
+New Mexico,Educational Services,76420.0,50490.0,,,,330.0,78790.0,79698.73614190688
+New York,Educational Services,977870.0,63220.0,320.0,84650.0,0.03,14760.0,124030.0,79698.73614190688
+North Carolina,Educational Services,390150.0,48160.0,,,,5350.0,121970.0,79698.73614190688
+North Dakota,Educational Services,37640.0,49030.0,,,,150.0,91050.0,79698.73614190688
+Ohio,Educational Services,435180.0,58870.0,120.0,60530.0,0.03,3650.0,88950.0,79698.73614190688
+Oklahoma,Educational Services,147870.0,46210.0,370.0,62640.0,0.25,1740.0,79720.0,79698.73614190688
+Oregon,Educational Services,155120.0,61980.0,,,,1610.0,102530.0,79698.73614190688
+Pennsylvania,Educational Services,487000.0,60260.0,40.0,85050.0,0.01,6370.0,91330.0,79698.73614190688
+Rhode Island,Educational Services,46820.0,63600.0,30.0,85710.0,0.07,620.0,109240.0,79698.73614190688
+South Carolina,Educational Services,174220.0,47600.0,40.0,77170.0,0.03,1180.0,99370.0,79698.73614190688
+South Dakota,Educational Services,37170.0,44990.0,,,,110.0,108310.0,79698.73614190688
+Tennessee,Educational Services,241010.0,48350.0,50.0,83100.0,0.02,1210.0,94690.0,79698.73614190688
+Texas,Educational Services,1266610.0,54280.0,250.0,102330.0,0.02,13780.0,99350.0,79698.73614190688
+Utah,Educational Services,153900.0,47950.0,180.0,98670.0,0.12,3070.0,81250.0,79698.73614190688
+Vermont,Educational Services,39160.0,51960.0,,,,150.0,,79698.73614190688
+Virginia,Educational Services,359890.0,52740.0,80.0,95630.0,0.02,4500.0,132400.0,79698.73614190688
+Washington,Educational Services,279630.0,63030.0,,,,4160.0,135850.0,79698.73614190688
+West Virginia,Educational Services,61480.0,47450.0,,,,70.0,67010.0,79698.73614190688
+Wisconsin,Educational Services,223000.0,51520.0,160.0,69090.0,0.07,2740.0,95410.0,79698.73614190688
+Wyoming,Educational Services,28580.0,49470.0,,,,40.0,139970.0,79698.73614190688
+Alabama,Health Care and Social Assistance,260940.0,38240.0,,,,,85870.0,83012.42105263157
+Alaska,Health Care and Social Assistance,48570.0,52260.0,40.0,88100.0,0.07,150.0,100040.0,83012.42105263157
+Arizona,Health Care and Social Assistance,414710.0,44600.0,220.0,89030.0,0.05,2860.0,102770.0,83012.42105263157
+Arkansas,Health Care and Social Assistance,184560.0,37200.0,,,,,,83012.42105263157
+California,Health Care and Social Assistance,2680270.0,46130.0,1040.0,98170.0,0.04,29420.0,126810.0,83012.42105263157
+Colorado,Health Care and Social Assistance,344530.0,49520.0,310.0,99070.0,0.09,3540.0,103200.0,83012.42105263157
+Connecticut,Health Care and Social Assistance,274700.0,46960.0,,,,950.0,105700.0,83012.42105263157
+Delaware,Health Care and Social Assistance,71240.0,45830.0,,,,480.0,132300.0,83012.42105263157
+District of Columbia,Health Care and Social Assistance,68190.0,56250.0,,,,3200.0,97660.0,83012.42105263157
+Florida,Health Care and Social Assistance,1239930.0,45160.0,440.0,75740.0,0.04,8190.0,100520.0,83012.42105263157
+Georgia,Health Care and Social Assistance,530860.0,45320.0,280.0,96010.0,0.05,5650.0,100400.0,83012.42105263157
+Hawaii,Health Care and Social Assistance,75440.0,49560.0,,,,90.0,112330.0,83012.42105263157
+Idaho,Health Care and Social Assistance,111490.0,39700.0,90.0,101330.0,0.08,250.0,96490.0,83012.42105263157
+Illinois,Health Care and Social Assistance,786900.0,45420.0,350.0,79880.0,0.04,6350.0,103730.0,83012.42105263157
+Indiana,Health Care and Social Assistance,436140.0,44270.0,300.0,82880.0,0.07,2200.0,75970.0,83012.42105263157
+Iowa,Health Care and Social Assistance,210790.0,41130.0,40.0,67620.0,0.02,1970.0,94860.0,83012.42105263157
+Kansas,Health Care and Social Assistance,198870.0,39620.0,,,,430.0,88860.0,83012.42105263157
+Kentucky,Health Care and Social Assistance,269510.0,42510.0,50.0,78750.0,0.02,,81990.0,83012.42105263157
+Louisiana,Health Care and Social Assistance,292920.0,38240.0,,,,580.0,65410.0,83012.42105263157
+Maine,Health Care and Social Assistance,102790.0,42980.0,50.0,85040.0,0.05,800.0,95700.0,83012.42105263157
+Maryland,Health Care and Social Assistance,359790.0,47790.0,80.0,85510.0,0.02,2010.0,117730.0,83012.42105263157
+Massachusetts,Health Care and Social Assistance,633170.0,50210.0,200.0,76910.0,0.03,,106070.0,83012.42105263157
+Michigan,Health Care and Social Assistance,613790.0,44060.0,350.0,67330.0,0.06,3900.0,85470.0,83012.42105263157
+Minnesota,Health Care and Social Assistance,482370.0,47600.0,60.0,103860.0,0.01,1600.0,106920.0,83012.42105263157
+Mississippi,Health Care and Social Assistance,158260.0,37550.0,30.0,49090.0,0.02,,56950.0,83012.42105263157
+Missouri,Health Care and Social Assistance,431380.0,38160.0,220.0,73330.0,0.05,4020.0,78780.0,83012.42105263157
+Montana,Health Care and Social Assistance,71230.0,41530.0,,,,90.0,75200.0,83012.42105263157
+Nebraska,Health Care and Social Assistance,132570.0,44120.0,130.0,81900.0,0.09,1310.0,84490.0,83012.42105263157
+Nevada,Health Care and Social Assistance,141980.0,46380.0,,,,850.0,82110.0,83012.42105263157
+New Hampshire,Health Care and Social Assistance,92410.0,49460.0,40.0,76410.0,0.04,620.0,77620.0,83012.42105263157
+New Jersey,Health Care and Social Assistance,600710.0,47320.0,40.0,97800.0,0.01,3030.0,129210.0,83012.42105263157
+New Mexico,Health Care and Social Assistance,130530.0,36100.0,80.0,78140.0,0.06,330.0,78790.0,83012.42105263157
+New York,Health Care and Social Assistance,1675200.0,45490.0,650.0,82950.0,0.04,14760.0,124030.0,83012.42105263157
+North Carolina,Health Care and Social Assistance,602590.0,43760.0,150.0,99210.0,0.02,5350.0,121970.0,83012.42105263157
+North Dakota,Health Care and Social Assistance,62120.0,45470.0,,,,150.0,91050.0,83012.42105263157
+Ohio,Health Care and Social Assistance,817650.0,43910.0,160.0,68590.0,0.02,3650.0,88950.0,83012.42105263157
+Oklahoma,Health Care and Social Assistance,210210.0,39160.0,180.0,84400.0,0.08,1740.0,79720.0,83012.42105263157
+Oregon,Health Care and Social Assistance,271220.0,46500.0,90.0,81900.0,0.03,1610.0,102530.0,83012.42105263157
+Pennsylvania,Health Care and Social Assistance,1015210.0,42260.0,310.0,78630.0,0.03,6370.0,91330.0,83012.42105263157
+Rhode Island,Health Care and Social Assistance,78000.0,47720.0,,,,620.0,109240.0,83012.42105263157
+South Carolina,Health Care and Social Assistance,265680.0,40710.0,40.0,84010.0,0.01,1180.0,99370.0,83012.42105263157
+South Dakota,Health Care and Social Assistance,68320.0,41810.0,,,,110.0,108310.0,83012.42105263157
+Tennessee,Health Care and Social Assistance,404730.0,44930.0,170.0,,0.04,1210.0,94690.0,83012.42105263157
+Texas,Health Care and Social Assistance,1637730.0,39210.0,160.0,108560.0,0.01,13780.0,99350.0,83012.42105263157
+Utah,Health Care and Social Assistance,176540.0,42690.0,80.0,61760.0,0.05,3070.0,81250.0,83012.42105263157
+Vermont,Health Care and Social Assistance,49310.0,45070.0,,,,150.0,,83012.42105263157
+Virginia,Health Care and Social Assistance,466200.0,44950.0,60.0,78280.0,0.01,4500.0,132400.0,83012.42105263157
+Washington,Health Care and Social Assistance,483680.0,47570.0,100.0,72810.0,0.02,4160.0,135850.0,83012.42105263157
+West Virginia,Health Care and Social Assistance,124390.0,36200.0,,,,70.0,67010.0,83012.42105263157
+Wisconsin,Health Care and Social Assistance,406690.0,43660.0,60.0,86950.0,0.01,2740.0,95410.0,83012.42105263157
+Wyoming,Health Care and Social Assistance,33160.0,43520.0,,,,40.0,139970.0,83012.42105263157
+Alabama,"Arts, Entertainment, and Recreation",22630.0,27040.0,,,,,85870.0,78941.11111111111
+Alaska,"Arts, Entertainment, and Recreation",4100.0,40050.0,,,,150.0,100040.0,78941.11111111111
+Arizona,"Arts, Entertainment, and Recreation",54120.0,34860.0,,,,2860.0,102770.0,78941.11111111111
+Arkansas,"Arts, Entertainment, and Recreation",12360.0,29050.0,,,,,,78941.11111111111
+California,"Arts, Entertainment, and Recreation",323630.0,38320.0,60.0,101730.0,0.02,29420.0,126810.0,78941.11111111111
+Colorado,"Arts, Entertainment, and Recreation",48990.0,39510.0,,,,3540.0,103200.0,78941.11111111111
+Connecticut,"Arts, Entertainment, and Recreation",24910.0,37300.0,,,,950.0,105700.0,78941.11111111111
+Delaware,"Arts, Entertainment, and Recreation",8180.0,31200.0,,,,480.0,132300.0,78941.11111111111
+District of Columbia,"Arts, Entertainment, and Recreation",8140.0,49920.0,,,,3200.0,97660.0,78941.11111111111
+Florida,"Arts, Entertainment, and Recreation",232840.0,33230.0,30.0,61470.0,0.01,8190.0,100520.0,78941.11111111111
+Georgia,"Arts, Entertainment, and Recreation",55020.0,28890.0,,,,5650.0,100400.0,78941.11111111111
+Hawaii,"Arts, Entertainment, and Recreation",11050.0,38480.0,,,,90.0,112330.0,78941.11111111111
+Idaho,"Arts, Entertainment, and Recreation",13120.0,33270.0,,,,250.0,96490.0,78941.11111111111
+Illinois,"Arts, Entertainment, and Recreation",81880.0,36040.0,50.0,61230.0,0.06,6350.0,103730.0,78941.11111111111
+Indiana,"Arts, Entertainment, and Recreation",38260.0,30630.0,,,,2200.0,75970.0,78941.11111111111
+Iowa,"Arts, Entertainment, and Recreation",19390.0,29810.0,,,,1970.0,94860.0,78941.11111111111
+Kansas,"Arts, Entertainment, and Recreation",17150.0,28080.0,,,,430.0,88860.0,78941.11111111111
+Kentucky,"Arts, Entertainment, and Recreation",21770.0,28240.0,,,,,81990.0,78941.11111111111
+Louisiana,"Arts, Entertainment, and Recreation",26620.0,27020.0,,,,580.0,65410.0,78941.11111111111
+Maine,"Arts, Entertainment, and Recreation",8290.0,38260.0,,,,800.0,95700.0,78941.11111111111
+Maryland,"Arts, Entertainment, and Recreation",37140.0,34640.0,,,,2010.0,117730.0,78941.11111111111
+Massachusetts,"Arts, Entertainment, and Recreation",52990.0,44000.0,,,,,106070.0,78941.11111111111
+Michigan,"Arts, Entertainment, and Recreation",51490.0,32750.0,,,,3900.0,85470.0,78941.11111111111
+Minnesota,"Arts, Entertainment, and Recreation",44990.0,33960.0,,,,1600.0,106920.0,78941.11111111111
+Mississippi,"Arts, Entertainment, and Recreation",9160.0,24540.0,,,,,56950.0,78941.11111111111
+Missouri,"Arts, Entertainment, and Recreation",40620.0,30560.0,,,,4020.0,78780.0,78941.11111111111
+Montana,"Arts, Entertainment, and Recreation",11620.0,28960.0,,,,90.0,75200.0,78941.11111111111
+Nebraska,"Arts, Entertainment, and Recreation",14380.0,29480.0,,,,1310.0,84490.0,78941.11111111111
+Nevada,"Arts, Entertainment, and Recreation",33460.0,29690.0,,,,850.0,82110.0,78941.11111111111
+New Hampshire,"Arts, Entertainment, and Recreation",10970.0,35870.0,,,,620.0,77620.0,78941.11111111111
+New Jersey,"Arts, Entertainment, and Recreation",60140.0,36670.0,40.0,80000.0,0.07,3030.0,129210.0,78941.11111111111
+New Mexico,"Arts, Entertainment, and Recreation",10650.0,29720.0,,,,330.0,78790.0,78941.11111111111
+New York,"Arts, Entertainment, and Recreation",148000.0,45820.0,,,,14760.0,124030.0,78941.11111111111
+North Carolina,"Arts, Entertainment, and Recreation",73630.0,31200.0,,,,5350.0,121970.0,78941.11111111111
+North Dakota,"Arts, Entertainment, and Recreation",7160.0,34330.0,,,,150.0,91050.0,78941.11111111111
+Ohio,"Arts, Entertainment, and Recreation",77860.0,29200.0,,,,3650.0,88950.0,78941.11111111111
+Oklahoma,"Arts, Entertainment, and Recreation",36320.0,27760.0,,,,1740.0,79720.0,78941.11111111111
+Oregon,"Arts, Entertainment, and Recreation",23780.0,37170.0,,,,1610.0,102530.0,78941.11111111111
+Pennsylvania,"Arts, Entertainment, and Recreation",89130.0,31090.0,,,,6370.0,91330.0,78941.11111111111
+Rhode Island,"Arts, Entertainment, and Recreation",7030.0,43920.0,,,,620.0,109240.0,78941.11111111111
+South Carolina,"Arts, Entertainment, and Recreation",32480.0,28290.0,,,,1180.0,99370.0,78941.11111111111
+South Dakota,"Arts, Entertainment, and Recreation",8030.0,28540.0,,,,110.0,108310.0,78941.11111111111
+Tennessee,"Arts, Entertainment, and Recreation",42120.0,31140.0,,,,1210.0,94690.0,78941.11111111111
+Texas,"Arts, Entertainment, and Recreation",145120.0,30180.0,,,,13780.0,99350.0,78941.11111111111
+Utah,"Arts, Entertainment, and Recreation",25870.0,32490.0,,,,3070.0,81250.0,78941.11111111111
+Vermont,"Arts, Entertainment, and Recreation",3580.0,42780.0,,,,150.0,,78941.11111111111
+Virginia,"Arts, Entertainment, and Recreation",54840.0,30100.0,,,,4500.0,132400.0,78941.11111111111
+Washington,"Arts, Entertainment, and Recreation",59700.0,38840.0,,,,4160.0,135850.0,78941.11111111111
+West Virginia,"Arts, Entertainment, and Recreation",8350.0,23350.0,,,,70.0,67010.0,78941.11111111111
+Wisconsin,"Arts, Entertainment, and Recreation",41640.0,30600.0,,,,2740.0,95410.0,78941.11111111111
+Wyoming,"Arts, Entertainment, and Recreation",3510.0,30340.0,,,,40.0,139970.0,78941.11111111111
+Alabama,Accommodation and Food Services,174870.0,22590.0,,,,,85870.0,
+Alaska,Accommodation and Food Services,27410.0,30100.0,,,,150.0,100040.0,
+Arizona,Accommodation and Food Services,289790.0,31530.0,,,,2860.0,102770.0,
+Arkansas,Accommodation and Food Services,109450.0,26260.0,,,,,,
+California,Accommodation and Food Services,1606930.0,34700.0,,,,29420.0,126810.0,
+Colorado,Accommodation and Food Services,275690.0,33760.0,,,,3540.0,103200.0,
+Connecticut,Accommodation and Food Services,128920.0,31390.0,,,,950.0,105700.0,
+Delaware,Accommodation and Food Services,40660.0,28260.0,,,,480.0,132300.0,
+District of Columbia,Accommodation and Food Services,54740.0,37000.0,,,,3200.0,97660.0,
+Florida,Accommodation and Food Services,994830.0,28710.0,,,,8190.0,100520.0,
+Georgia,Accommodation and Food Services,418010.0,24310.0,,,,5650.0,100400.0,
+Hawaii,Accommodation and Food Services,95490.0,36500.0,,,,90.0,112330.0,
+Idaho,Accommodation and Food Services,73180.0,26990.0,,,,250.0,96490.0,
+Illinois,Accommodation and Food Services,472860.0,29270.0,,,,6350.0,103730.0,
+Indiana,Accommodation and Food Services,261350.0,26760.0,,,,2200.0,75970.0,
+Iowa,Accommodation and Food Services,115660.0,27140.0,,,,1970.0,94860.0,
+Kansas,Accommodation and Food Services,111310.0,26500.0,,,,430.0,88860.0,
+Kentucky,Accommodation and Food Services,168250.0,23670.0,,,,,81990.0,
+Louisiana,Accommodation and Food Services,184660.0,22100.0,,,,580.0,65410.0,
+Maine,Accommodation and Food Services,52940.0,34170.0,,,,800.0,95700.0,
+Maryland,Accommodation and Food Services,208940.0,30320.0,,,,2010.0,117730.0,
+Massachusetts,Accommodation and Food Services,278730.0,34750.0,,,,,106070.0,
+Michigan,Accommodation and Food Services,353990.0,28570.0,,,,3900.0,85470.0,
+Minnesota,Accommodation and Food Services,209860.0,29550.0,,,,1600.0,106920.0,
+Mississippi,Accommodation and Food Services,123630.0,21580.0,,,,,56950.0,
+Missouri,Accommodation and Food Services,250590.0,27940.0,,,,4020.0,78780.0,
+Montana,Accommodation and Food Services,55770.0,27920.0,,,,90.0,75200.0,
+Nebraska,Accommodation and Food Services,75050.0,26980.0,,,,1310.0,84490.0,
+Nevada,Accommodation and Food Services,286830.0,28890.0,,,,850.0,82110.0,
+New Hampshire,Accommodation and Food Services,55020.0,30820.0,,,,620.0,77620.0,
+New Jersey,Accommodation and Food Services,299680.0,33280.0,,,,3030.0,129210.0,
+New Mexico,Accommodation and Food Services,87730.0,27140.0,,,,330.0,78790.0,
+New York,Accommodation and Food Services,687890.0,35020.0,,,,14760.0,124030.0,
+North Carolina,Accommodation and Food Services,422190.0,25270.0,,,,5350.0,121970.0,
+North Dakota,Accommodation and Food Services,32790.0,28540.0,,,,150.0,91050.0,
+Ohio,Accommodation and Food Services,455930.0,26950.0,,,,3650.0,88950.0,
+Oklahoma,Accommodation and Food Services,153330.0,22630.0,,,,1740.0,79720.0,
+Oregon,Accommodation and Food Services,171740.0,31200.0,,,,1610.0,102530.0,
+Pennsylvania,Accommodation and Food Services,434410.0,27730.0,,,,6370.0,91330.0,
+Rhode Island,Accommodation and Food Services,49120.0,29170.0,,,,620.0,109240.0,
+South Carolina,Accommodation and Food Services,228230.0,23780.0,,,,1180.0,99370.0,
+South Dakota,Accommodation and Food Services,40630.0,27570.0,,,,110.0,108310.0,
+Tennessee,Accommodation and Food Services,294610.0,25760.0,,,,1210.0,94690.0,
+Texas,Accommodation and Food Services,1229140.0,26300.0,,,,13780.0,99350.0,
+Utah,Accommodation and Food Services,129110.0,28460.0,,,,3070.0,81250.0,
+Vermont,Accommodation and Food Services,25290.0,35430.0,,,,150.0,,
+Virginia,Accommodation and Food Services,322500.0,28470.0,,,,4500.0,132400.0,
+Washington,Accommodation and Food Services,267310.0,35940.0,,,,4160.0,135850.0,
+West Virginia,Accommodation and Food Services,61520.0,22800.0,,,,70.0,67010.0,
+Wisconsin,Accommodation and Food Services,223270.0,27750.0,,,,2740.0,95410.0,
+Wyoming,Accommodation and Food Services,31350.0,27420.0,,,,40.0,139970.0,
+Alabama,Other Services (except Public Administration),44040.0,35770.0,,,,,85870.0,81908.38926174496
+Alaska,Other Services (except Public Administration),9540.0,47430.0,,,,150.0,100040.0,81908.38926174496
+Arizona,Other Services (except Public Administration),77520.0,38810.0,,,,2860.0,102770.0,81908.38926174496
+Arkansas,Other Services (except Public Administration),24970.0,34320.0,,,,,,81908.38926174496
+California,Other Services (except Public Administration),497870.0,42770.0,270.0,73080.0,0.05,29420.0,126810.0,81908.38926174496
+Colorado,Other Services (except Public Administration),80070.0,45040.0,50.0,78520.0,0.06,3540.0,103200.0,81908.38926174496
+Connecticut,Other Services (except Public Administration),47980.0,39140.0,,,,950.0,105700.0,81908.38926174496
+Delaware,Other Services (except Public Administration),11310.0,35980.0,,,,480.0,132300.0,81908.38926174496
+District of Columbia,Other Services (except Public Administration),63490.0,86420.0,170.0,77240.0,0.27,3200.0,97660.0,81908.38926174496
+Florida,Other Services (except Public Administration),262040.0,36940.0,100.0,109230.0,0.04,8190.0,100520.0,81908.38926174496
+Georgia,Other Services (except Public Administration),106670.0,36340.0,50.0,97520.0,0.05,5650.0,100400.0,81908.38926174496
+Hawaii,Other Services (except Public Administration),23840.0,42340.0,,,,90.0,112330.0,81908.38926174496
+Idaho,Other Services (except Public Administration),19100.0,36850.0,,,,250.0,96490.0,81908.38926174496
+Illinois,Other Services (except Public Administration),187700.0,45800.0,40.0,85610.0,0.02,6350.0,103730.0,81908.38926174496
+Indiana,Other Services (except Public Administration),85610.0,36840.0,40.0,43980.0,0.04,2200.0,75970.0,81908.38926174496
+Iowa,Other Services (except Public Administration),37970.0,39200.0,,,,1970.0,94860.0,81908.38926174496
+Kansas,Other Services (except Public Administration),33070.0,36400.0,,,,430.0,88860.0,81908.38926174496
+Kentucky,Other Services (except Public Administration),41540.0,36540.0,,,,,81990.0,81908.38926174496
+Louisiana,Other Services (except Public Administration),43360.0,35160.0,,,,580.0,65410.0,81908.38926174496
+Maine,Other Services (except Public Administration),16050.0,41610.0,,,,800.0,95700.0,81908.38926174496
+Maryland,Other Services (except Public Administration),78200.0,43410.0,,,,2010.0,117730.0,81908.38926174496
+Massachusetts,Other Services (except Public Administration),105240.0,44720.0,40.0,78060.0,0.04,,106070.0,81908.38926174496
+Michigan,Other Services (except Public Administration),119960.0,38470.0,60.0,71990.0,0.05,3900.0,85470.0,81908.38926174496
+Minnesota,Other Services (except Public Administration),80390.0,40200.0,,,,1600.0,106920.0,81908.38926174496
+Mississippi,Other Services (except Public Administration),20500.0,33800.0,,,,,56950.0,81908.38926174496
+Missouri,Other Services (except Public Administration),72140.0,37680.0,60.0,80590.0,0.08,4020.0,78780.0,81908.38926174496
+Montana,Other Services (except Public Administration),17630.0,38310.0,,,,90.0,75200.0,81908.38926174496
+Nebraska,Other Services (except Public Administration),24630.0,36970.0,,,,1310.0,84490.0,81908.38926174496
+Nevada,Other Services (except Public Administration),34150.0,35940.0,,,,850.0,82110.0,81908.38926174496
+New Hampshire,Other Services (except Public Administration),19230.0,41020.0,,,,620.0,77620.0,81908.38926174496
+New Jersey,Other Services (except Public Administration),128420.0,40700.0,,,,3030.0,129210.0,81908.38926174496
+New Mexico,Other Services (except Public Administration),19880.0,36850.0,,,,330.0,78790.0,81908.38926174496
+New York,Other Services (except Public Administration),310530.0,43310.0,320.0,93540.0,0.1,14760.0,124030.0,81908.38926174496
+North Carolina,Other Services (except Public Administration),110360.0,36770.0,,,,5350.0,121970.0,81908.38926174496
+North Dakota,Other Services (except Public Administration),10570.0,43780.0,,,,150.0,91050.0,81908.38926174496
+Ohio,Other Services (except Public Administration),147700.0,36630.0,60.0,65090.0,0.04,3650.0,88950.0,81908.38926174496
+Oklahoma,Other Services (except Public Administration),35720.0,36620.0,,,,1740.0,79720.0,81908.38926174496
+Oregon,Other Services (except Public Administration),60780.0,44900.0,30.0,62090.0,0.05,1610.0,102530.0,81908.38926174496
+Pennsylvania,Other Services (except Public Administration),189660.0,36770.0,,,,6370.0,91330.0,81908.38926174496
+Rhode Island,Other Services (except Public Administration),15930.0,41600.0,,,,620.0,109240.0,81908.38926174496
+South Carolina,Other Services (except Public Administration),53060.0,35970.0,,,,1180.0,99370.0,81908.38926174496
+South Dakota,Other Services (except Public Administration),11740.0,36790.0,,,,110.0,108310.0,81908.38926174496
+Tennessee,Other Services (except Public Administration),74180.0,36630.0,,,,1210.0,94690.0,81908.38926174496
+Texas,Other Services (except Public Administration),324220.0,35980.0,120.0,70740.0,0.04,13780.0,99350.0,81908.38926174496
+Utah,Other Services (except Public Administration),37870.0,38460.0,,,,3070.0,81250.0,81908.38926174496
+Vermont,Other Services (except Public Administration),7710.0,43510.0,,,,150.0,,81908.38926174496
+Virginia,Other Services (except Public Administration),119960.0,43960.0,80.0,97570.0,0.07,4500.0,132400.0,81908.38926174496
+Washington,Other Services (except Public Administration),89360.0,47000.0,,,,4160.0,135850.0,81908.38926174496
+West Virginia,Other Services (except Public Administration),16610.0,33520.0,,,,70.0,67010.0,81908.38926174496
+Wisconsin,Other Services (except Public Administration),72700.0,37480.0,,,,2740.0,95410.0,81908.38926174496
+Wyoming,Other Services (except Public Administration),6670.0,39970.0,,,,40.0,139970.0,81908.38926174496
+Alabama,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",156650.0,49260.0,,,,,85870.0,79426.82730923695
+Alaska,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",44610.0,69600.0,,,,150.0,100040.0,79426.82730923695
+Arizona,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",190870.0,56890.0,40.0,75000.0,0.02,2860.0,102770.0,79426.82730923695
+Arkansas,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",82490.0,42470.0,,,,,,79426.82730923695
+California,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",1080750.0,79370.0,1450.0,84950.0,0.13,29420.0,126810.0,79426.82730923695
+Colorado,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",184680.0,64150.0,160.0,69600.0,0.09,3540.0,103200.0,79426.82730923695
+Connecticut,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",84470.0,69760.0,,,,950.0,105700.0,79426.82730923695
+Delaware,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",28200.0,53120.0,,,,480.0,132300.0,79426.82730923695
+Florida,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",519410.0,55860.0,90.0,62860.0,0.02,8190.0,100520.0,79426.82730923695
+Georgia,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",297430.0,49590.0,,,,5650.0,100400.0,79426.82730923695
+Hawaii,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",62640.0,68280.0,,,,90.0,112330.0,79426.82730923695
+Idaho,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",55720.0,50430.0,,,,250.0,96490.0,79426.82730923695
+Illinois,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",317470.0,67820.0,,,,6350.0,103730.0,79426.82730923695
+Indiana,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",152420.0,48900.0,50.0,49600.0,0.03,2200.0,75970.0,79426.82730923695
+Iowa,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",80720.0,56700.0,,,,1970.0,94860.0,79426.82730923695
+Kansas,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",95010.0,47240.0,,,,430.0,88860.0,79426.82730923695
+Kentucky,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",115500.0,45900.0,,,,,81990.0,79426.82730923695
+Louisiana,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",129160.0,46590.0,,,,580.0,65410.0,79426.82730923695
+Maine,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",46170.0,54600.0,,,,800.0,95700.0,79426.82730923695
+Maryland,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",289540.0,83740.0,40.0,86250.0,0.01,2010.0,117730.0,79426.82730923695
+Massachusetts,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",193550.0,69600.0,,,,,106070.0,79426.82730923695
+Michigan,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",219520.0,58470.0,80.0,63880.0,0.04,3900.0,85470.0,79426.82730923695
+Minnesota,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",161440.0,64280.0,,,,1600.0,106920.0,79426.82730923695
+Mississippi,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",90290.0,38810.0,,,,,56950.0,79426.82730923695
+Missouri,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",181930.0,46340.0,,,,4020.0,78780.0,79426.82730923695
+Montana,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",45780.0,51650.0,,,,90.0,75200.0,79426.82730923695
+Nebraska,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",68020.0,52210.0,,,,1310.0,84490.0,79426.82730923695
+Nevada,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",73660.0,64010.0,,,,850.0,82110.0,79426.82730923695
+New Hampshire,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",36210.0,54720.0,,,,620.0,77620.0,79426.82730923695
+New Jersey,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",252950.0,69950.0,,,,3030.0,129210.0,79426.82730923695
+New Mexico,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",88370.0,50040.0,60.0,49900.0,0.06,330.0,78790.0,79426.82730923695
+New York,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",643900.0,67060.0,40.0,104930.0,0.01,14760.0,124030.0,79426.82730923695
+North Carolina,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",287300.0,48480.0,30.0,70730.0,0.01,5350.0,121970.0,79426.82730923695
+North Dakota,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",34000.0,55340.0,,,,150.0,91050.0,79426.82730923695
+Ohio,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",315230.0,58720.0,80.0,59900.0,0.02,3650.0,88950.0,79426.82730923695
+Oklahoma,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",153610.0,49210.0,90.0,67350.0,0.06,1740.0,79720.0,79426.82730923695
+Oregon,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",143140.0,65520.0,150.0,83550.0,0.1,1610.0,102530.0,79426.82730923695
+Pennsylvania,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",313440.0,60200.0,,,,6370.0,91330.0,79426.82730923695
+Rhode Island,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",29780.0,73550.0,40.0,106020.0,0.14,620.0,109240.0,79426.82730923695
+South Carolina,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",139620.0,46110.0,,,,1180.0,99370.0,79426.82730923695
+South Dakota,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",36470.0,46950.0,,,,110.0,108310.0,79426.82730923695
+Tennessee,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",195100.0,48970.0,,,,1210.0,94690.0,79426.82730923695
+Texas,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",687960.0,53390.0,,,,13780.0,99350.0,79426.82730923695
+Utah,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",110900.0,52850.0,,,,3070.0,81250.0,79426.82730923695
+Vermont,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",21040.0,60260.0,,,,150.0,,79426.82730923695
+Virginia,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",357640.0,65750.0,50.0,84680.0,0.01,4500.0,132400.0,79426.82730923695
+Washington,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",258360.0,77760.0,,,,4160.0,135850.0,79426.82730923695
+West Virginia,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",76640.0,43590.0,40.0,64690.0,0.05,70.0,67010.0,79426.82730923695
+Wisconsin,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",160490.0,54890.0,,,,2740.0,95410.0,79426.82730923695
+Wyoming,"Federal, State, and Local Government, excluding state and local schools and hospitals and the U.S. Postal Service (OES Designation)",28910.0,50260.0,,,,40.0,139970.0,79426.82730923695
